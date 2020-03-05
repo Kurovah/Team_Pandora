@@ -3852,3 +3852,51 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-21.14.10:847][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
 [2020.03.05-21.14.11:099][734]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto1F623DE394BAE9CF967726DB12452A661.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto1.uasset'
 [2020.03.05-21.14.11:104][734]LogFileHelpers: Auto-saving content packages took 0.321
+[2020.03.05-21.18.57:271][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.03.05-21.18.59:732][146]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-21.30.25:567][876]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.30.49:392][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-21.30.49:525][737]LogUObjectHash: Compacting FUObjectHashTables data took   7.06ms
+[2020.03.05-21.30.49:572][737]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Test52DD74F44528E4C844CF30849D491457.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/Maps/Test.umap'
+[2020.03.05-21.30.49:604][737]LogFileHelpers: Saving map 'Test' took 0.216
+[2020.03.05-21.31.17:320][785]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Test.Test
+[2020.03.05-21.31.17:384][785]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.05-21.31.19:489][785]LogSlate: Window 'Save Content' being destroyed
+[2020.03.05-21.31.19:503][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/ARCplayer" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset" SILENT=true
+[2020.03.05-21.31.19:632][785]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer3536D1AD404FB795F0A0D3B88C403A51.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset'
+[2020.03.05-21.31.19:749][785]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/Maps/Test.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-21.31.19:751][785]LightingResults: New page: Lighting Build
+[2020.03.05-21.31.21:991][785]LoadErrors: New page: Loading map: Test.umap
+[2020.03.05-21.31.22:001][785]MapCheck: New page: Map Check
+[2020.03.05-21.31.22:001][785]LightingResults: New page: Lighting Build
+[2020.03.05-21.31.22:243][785]LogUObjectHash: Compacting FUObjectHashTables data took  10.47ms
+[2020.03.05-21.31.22:275][785]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-21.31.22:275][785]LogAIModule: Creating AISystem for world Test
+[2020.03.05-21.31.22:348][785]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.03.05-21.31.22:422][785]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-21.31.22:423][785]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.59ms to complete.
+[2020.03.05-21.31.22:436][785]LogFileHelpers: Loading map 'Test' took 2.777
+[2020.03.05-21.31.32:572][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.31.39:870][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Test" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/Maps/Test.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.05-21.31.39:956][968]LogUObjectHash: Compacting FUObjectHashTables data took   5.22ms
+[2020.03.05-21.31.40:429][968]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Test3B11E1CF4C9F9E129E5DD08707C4618E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/Maps/Test.umap'
+[2020.03.05-21.32.09:072][690]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-21.32.09:168][690]LogAssetEditorManager: Opening Asset editor for World /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.05-21.32.09:224][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.05-21.32.09:225][690]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.05-21.32.09:225][690]LightingResults: New page: Lighting Build
+[2020.03.05-21.32.09:226][690]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.03.05-21.32.09:227][690]MapCheck: New page: Map Check
+[2020.03.05-21.32.09:227][690]LightingResults: New page: Lighting Build
+[2020.03.05-21.32.09:287][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.03.05-21.32.09:305][690]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.05-21.32.09:379][690]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2020.03.05-21.32.09:461][690]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.05-21.32.09:461][690]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.322ms to complete.
+[2020.03.05-21.32.09:462][690]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.237
+[2020.03.05-21.32.36:240][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.32.40:724][ 51]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2020.03.05-21.32.46:470][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-21.33.11:978][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.03.05-21.33.12:603][779]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ThirdPersonExampleMap38AF42154F9CF6B6A6860AB0C0127B0E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.05-21.33.13:186][779]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ThirdPersonExampleMap_BuiltDataC6C97B4D4ACE37D957A542B9E93DA662.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
