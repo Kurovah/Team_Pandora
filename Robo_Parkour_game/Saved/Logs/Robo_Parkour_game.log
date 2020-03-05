@@ -1574,3 +1574,424 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-18.30.56:972][834]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2020.03.05-18.31.02:769][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/ARCplayer" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset" SILENT=true
 [2020.03.05-18.31.02:945][165]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayerE430A37148C538B6698DBE8305EC8206.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset'
+[2020.03.05-18.31.28:219][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.03.05-18.31.28:219][275]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.098
+[2020.03.05-18.31.28:223][275]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/ARCchar] ([1] browsable assets)...
+[2020.03.05-18.31.28:223][275]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCchar]
+[2020.03.05-18.31.28:369][275]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCchar_Auto8EBCB2E9148B42B65EEA04E852F3BF837.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCchar_Auto8.uasset'
+[2020.03.05-18.31.28:372][275]LogFileHelpers: Auto-saving content packages took 0.150
+[2020.03.05-18.48.25:415][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.03.05-18.48.25:415][862]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.053
+[2020.03.05-18.48.25:418][862]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-18.48.25:418][862]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-18.48.25:512][862]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto95954F1A94A7E6B02432208837C45E8B0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto9.uasset'
+[2020.03.05-18.48.25:514][862]LogFileHelpers: Auto-saving content packages took 0.097
+[2020.03.05-18.58.25:833][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.03.05-18.58.25:833][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.055
+[2020.03.05-18.58.25:835][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-18.58.25:879][  2]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-18.58.25:879][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-18.58.25:973][  2]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto05F00B1144ED52FE1C3CF74993114B778.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto0.uasset'
+[2020.03.05-18.58.25:975][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/ARCchar] ([1] browsable assets)...
+[2020.03.05-18.58.25:975][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCchar]
+[2020.03.05-18.58.26:068][  2]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCchar_Auto0FC7ACE3E45E96F3479060EBE27C7096B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCchar_Auto0.uasset'
+[2020.03.05-18.58.26:070][  2]LogFileHelpers: Auto-saving content packages took 0.235
+[2020.03.05-19.12.17:854][855]LogEditorTransaction: Undo Move Node
+[2020.03.05-19.12.18:733][905]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-19.12.21:959][ 96]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/wallride.wallride:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/components/wallride.wallride:EventGraph.K2Node_VariableGet_6
+[2020.03.05-19.13.31:331][250]BlueprintLog: New page: Compile wallride
+[2020.03.05-19.13.31:622][250]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.03.05-19.14.05:009][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/wallride" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset" SILENT=true
+[2020.03.05-19.14.05:053][246]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride294383DB4AD82B6E74E513A858C1087D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset'
+[2020.03.05-19.14.59:782][513]LogEditorTransaction: Undo Move Nodes
+[2020.03.05-19.15.00:654][562]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-19.15.11:155][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1
+[2020.03.05-19.15.11:155][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8
+[2020.03.05-19.15.11:155][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21
+[2020.03.05-19.15.11:155][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2
+[2020.03.05-19.15.11:155][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18
+[2020.03.05-19.15.11:156][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19
+[2020.03.05-19.15.11:156][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7
+[2020.03.05-19.15.11:156][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1
+[2020.03.05-19.15.11:156][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16
+[2020.03.05-19.15.11:156][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3 or EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3 or EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6
+[2020.03.05-19.15.11:157][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2
+[2020.03.05-19.15.11:158][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0
+[2020.03.05-19.15.11:158][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1
+[2020.03.05-19.15.11:158][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2
+[2020.03.05-19.15.11:158][189]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1
+[2020.03.05-19.15.13:135][305]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-19.15.17:457][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1
+[2020.03.05-19.15.17:458][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_2 or EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_2
+[2020.03.05-19.15.17:459][561]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3 or EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0
+[2020.03.05-19.15.17:460][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1
+[2020.03.05-19.15.17:461][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2
+[2020.03.05-19.15.17:461][561]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1
+[2020.03.05-19.15.17:464][561]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  tryWallJump  and was replaced as a Custom Event!
+[2020.03.05-19.15.31:805][418]LogEditorTransaction: Undo Move Nodes
+[2020.03.05-19.15.34:096][553]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-19.15.55:455][819]LogEditorTransaction: Undo Add New Function
+[2020.03.05-19.16.20:584][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2
+[2020.03.05-19.16.20:584][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18
+[2020.03.05-19.16.20:584][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19
+[2020.03.05-19.16.20:585][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7
+[2020.03.05-19.16.20:594][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1
+[2020.03.05-19.16.20:595][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16
+[2020.03.05-19.16.20:596][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17
+[2020.03.05-19.16.20:599][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0 or K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0
+[2020.03.05-19.16.20:599][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0 or K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0
+[2020.03.05-19.16.20:599][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1
+[2020.03.05-19.16.20:600][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0
+[2020.03.05-19.16.20:601][306]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1
+[2020.03.05-19.16.22:437][415]LogEditorTransaction: Undo Paste clipboard contents
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_1
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_8
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_21
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_2
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_18
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_19
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_7
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_1
+[2020.03.05-19.16.31:068][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_16
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_17
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_13
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_14
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0 or K2Node_CommutativeAssociativeBinaryOperator /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CommutativeAssociativeBinaryOperator_0
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3 or EdGraphNode_Comment /Game/components/ARCchar.ARCchar:EventGraph.EdGraphNode_Comment_3
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1 or K2Node_Self /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Self_1
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_8
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_11
+[2020.03.05-19.16.31:069][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_6
+[2020.03.05-19.16.31:070][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2 or K2Node_CallFunction /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CallFunction_2
+[2020.03.05-19.16.31:070][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_0
+[2020.03.05-19.16.31:070][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1 or K2Node_Composite /Game/components/ARCchar.ARCchar:EventGraph.K2Node_Composite_1
+[2020.03.05-19.16.31:070][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2 or K2Node_IfThenElse /Game/components/ARCchar.ARCchar:EventGraph.K2Node_IfThenElse_2
+[2020.03.05-19.16.31:070][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1 or K2Node_VariableGet /Game/components/ARCchar.ARCchar:EventGraph.K2Node_VariableGet_1
+[2020.03.05-19.16.31:072][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0 or K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0
+[2020.03.05-19.16.31:072][928]LogUObjectHash: Warning: Ambiguous search, could be K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0 or K2Node_CustomEvent /Game/components/ARCchar.ARCchar:EventGraph.K2Node_CustomEvent_0
+[2020.03.05-19.17.34:013][686]BlueprintLog: New page: Compile ARCchar
+[2020.03.05-19.17.34:261][686]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2020.03.05-19.17.52:022][746]BlueprintLog: New page: Compile wallride
+[2020.03.05-19.17.52:218][746]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.05-19.18.47:724][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/ARCplayer" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset" SILENT=true
+[2020.03.05-19.18.47:796][ 48]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer48208F5E42D1E05A0D716CA4209B9285.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCplayer.uasset'
+[2020.03.05-19.18.49:272][136]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.18.49:466][136]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2020.03.05-19.18.50:614][200]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.18.50:638][200]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.18.50:638][200]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.18.50:641][200]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:18:50)
+[2020.03.05-19.18.50:643][200]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.18.50:683][200]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039583s)
+[2020.03.05-19.18.50:693][200]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.18.50:695][200]LogPlayLevel: PIE: World Init took: (0.011753s)
+[2020.03.05-19.18.50:695][200]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.051678s)
+[2020.03.05-19.18.50:735][200]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.03.05-19.18.50:740][200]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.18.50:757][200]LogInit: FAudioDevice initialized.
+[2020.03.05-19.18.50:764][200]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.18.50:797][200]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.18.50:802][200]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.05-19.18.50
+[2020.03.05-19.18.50:802][200]LogWorld: Bringing up level for play took: 0.002081
+[2020.03.05-19.18.50:824][200]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.149
+[2020.03.05-19.18.50:825][200]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.19.18:294][839]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.19.18:294][839]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.19.18:306][839]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.19.18:340][839]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.19.18:340][839]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.19.18:393][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2020.03.05-19.19.18:410][840]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.03.05-19.19.41:467][221]BlueprintLog: New page: Compile wallride
+[2020.03.05-19.19.41:666][221]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.03.05-19.19.46:748][516]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.19.46:771][516]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.19.46:771][516]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.19.46:771][516]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:19:46)
+[2020.03.05-19.19.46:772][516]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.19.46:782][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009189s)
+[2020.03.05-19.19.46:782][516]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.19.46:782][516]LogPlayLevel: PIE: World Init took: (0.000610s)
+[2020.03.05-19.19.46:782][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009944s)
+[2020.03.05-19.19.46:824][516]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.03.05-19.19.46:827][516]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.19.46:841][516]LogInit: FAudioDevice initialized.
+[2020.03.05-19.19.46:883][516]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.19.46:885][516]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.05-19.19.46
+[2020.03.05-19.19.46:885][516]LogWorld: Bringing up level for play took: 0.001776
+[2020.03.05-19.19.46:903][516]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.771
+[2020.03.05-19.19.46:904][516]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.20.00:996][359]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.20.00:997][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.20.01:036][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.20.01:036][359]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.20.01:075][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.20.01:079][359]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.03.05-19.20.01:153][360]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.03.05-19.20.37:959][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.05-19.20.37:959][167]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.045
+[2020.03.05-19.20.37:960][167]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-19.20.38:002][167]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-19.20.38:002][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-19.20.38:051][167]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto1A09EBAB6468A1CCB58E02FAAA00C31E6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto1.uasset'
+[2020.03.05-19.20.38:053][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/ARCchar] ([1] browsable assets)...
+[2020.03.05-19.20.38:053][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCchar]
+[2020.03.05-19.20.38:115][167]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCchar_Auto10C044816418F569F83A7E289B0D28F7D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCchar_Auto1.uasset'
+[2020.03.05-19.20.38:117][167]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/wallride] ([1] browsable assets)...
+[2020.03.05-19.20.38:117][167]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/wallride]
+[2020.03.05-19.20.38:150][167]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride_Auto1698F2F754CEF3F71A2CD7D9D0552D5BA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/wallride_Auto1.uasset'
+[2020.03.05-19.20.38:152][167]LogFileHelpers: Auto-saving content packages took 0.192
+[2020.03.05-19.21.33:832][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.05-19.21.48:848][299]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.21.49:044][299]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.03.05-19.28.12:068][619]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.28.12:276][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.03.05-19.28.13:413][684]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.28.13:435][684]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.28.13:435][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.28.13:435][684]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:28:13)
+[2020.03.05-19.28.13:446][684]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.28.13:455][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009179s)
+[2020.03.05-19.28.13:456][684]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.28.13:456][684]LogPlayLevel: PIE: World Init took: (0.000638s)
+[2020.03.05-19.28.13:456][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010009s)
+[2020.03.05-19.28.13:493][684]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.03.05-19.28.13:496][684]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.28.13:510][684]LogInit: FAudioDevice initialized.
+[2020.03.05-19.28.13:518][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.28.13:546][684]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.28.13:549][684]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.05-19.28.13
+[2020.03.05-19.28.13:549][684]LogWorld: Bringing up level for play took: 0.001607
+[2020.03.05-19.28.13:565][684]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.11
+[2020.03.05-19.28.13:565][684]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.28.15:375][777]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	ARCplayer_C /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ARCplayer_C_0
+	Function /Game/components/ARCplayer.ARCplayer_C:ExecuteUbergraph_ARCplayer:00D3
+[2020.03.05-19.28.15:377][777]PIE: Error: Infinite loop detected. Blueprint:  ARCplayer Function:  Jump Call Stack:  Show
+[2020.03.05-19.28.15:378][777]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.28.15:378][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.28.15:391][777]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.28.15:429][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.28.15:430][777]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.28.15:478][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2020.03.05-19.28.15:518][778]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.03.05-19.29.49:747][425]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.29.49:953][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.03.05-19.30.40:220][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2020.03.05-19.30.40:220][644]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2020.03.05-19.30.40:222][644]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-19.30.40:255][644]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-19.30.40:255][644]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-19.30.40:318][644]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto22F8FE8224392C5B93A950C8F02BC18B9.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto2.uasset'
+[2020.03.05-19.30.40:320][644]LogFileHelpers: Auto-saving content packages took 0.099
+[2020.03.05-19.31.56:570][966]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.31.56:592][966]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.31.56:592][966]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.31.56:592][966]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:31:56)
+[2020.03.05-19.31.56:603][966]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.31.56:611][966]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008315s)
+[2020.03.05-19.31.56:612][966]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.31.56:612][966]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2020.03.05-19.31.56:612][966]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009317s)
+[2020.03.05-19.31.56:655][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2020.03.05-19.31.56:658][966]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.31.56:675][966]LogInit: FAudioDevice initialized.
+[2020.03.05-19.31.56:681][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.31.56:711][966]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.31.56:712][966]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.05-19.31.56
+[2020.03.05-19.31.56:713][966]LogWorld: Bringing up level for play took: 0.001134
+[2020.03.05-19.31.56:729][966]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.054
+[2020.03.05-19.31.56:729][966]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.31.58:999][ 49]LogScript: Warning: Runaway loop detected (over 1,000,000 iterations) - see log for stack trace
+	ARCplayer_C /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ARCplayer_C_0
+	Function /Game/components/ARCplayer.ARCplayer_C:ExecuteUbergraph_ARCplayer:0097
+[2020.03.05-19.31.58:999][ 49]PIE: Error: Infinite loop detected. Blueprint:  ARCplayer Function:  Sequence Call Stack:  Show
+[2020.03.05-19.31.59:004][ 49]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.31.59:004][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.31.59:019][ 49]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.31.59:421][ 49]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.31.59:421][ 49]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.31.59:468][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.05-19.31.59:491][ 50]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.03.05-19.35.42:480][702]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.35.42:681][702]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.03.05-19.36.09:940][943]BlueprintLog: New page: Compile ARCplayer
+[2020.03.05-19.36.10:126][943]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2020.03.05-19.36.10:973][ 29]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.36.10:996][ 29]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.36.10:996][ 29]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.36.10:996][ 29]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:36:10)
+[2020.03.05-19.36.11:007][ 29]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.36.11:017][ 29]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009952s)
+[2020.03.05-19.36.11:017][ 29]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.36.11:018][ 29]LogPlayLevel: PIE: World Init took: (0.000805s)
+[2020.03.05-19.36.11:018][ 29]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010963s)
+[2020.03.05-19.36.11:056][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.03.05-19.36.11:059][ 29]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.36.11:073][ 29]LogInit: FAudioDevice initialized.
+[2020.03.05-19.36.11:078][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.36.11:109][ 29]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.36.11:111][ 29]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.05-19.36.11
+[2020.03.05-19.36.11:111][ 29]LogWorld: Bringing up level for play took: 0.001120
+[2020.03.05-19.36.11:130][ 29]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.544
+[2020.03.05-19.36.11:131][ 29]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.36.29:418][ 36]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.36.29:418][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.36.29:432][ 36]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.36.29:469][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.36.29:469][ 36]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.36.29:517][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.03.05-19.36.29:533][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.03.05-19.39.29:169][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/wallride" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset" SILENT=true
+[2020.03.05-19.39.29:223][337]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride374991704DE0D1D2576CC7B871138D41.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset'
+[2020.03.05-19.39.34:158][916]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.39.34:184][916]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.39.34:184][916]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.05-19.39.34:205][916]LogPlayLevel: [PlayLevel] Compiling wallride before play...
+[2020.03.05-19.39.34:429][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2020.03.05-19.39.34:429][916]LogPlayLevel: PlayLevel: Blueprint regeneration took 244 ms (1 blueprints)
+[2020.03.05-19.39.34:429][916]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:39:34)
+[2020.03.05-19.39.34:431][916]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.39.34:441][916]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010042s)
+[2020.03.05-19.39.34:442][916]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.39.34:442][916]LogPlayLevel: PIE: World Init took: (0.000764s)
+[2020.03.05-19.39.34:442][916]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011032s)
+[2020.03.05-19.39.34:482][916]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.03.05-19.39.34:484][916]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.39.34:499][916]LogInit: FAudioDevice initialized.
+[2020.03.05-19.39.34:504][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.39.34:531][916]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.39.34:533][916]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.05-19.39.34
+[2020.03.05-19.39.34:533][916]LogWorld: Bringing up level for play took: 0.000779
+[2020.03.05-19.39.34:550][916]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.875
+[2020.03.05-19.39.34:550][916]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.39.41:564][655]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.39.41:565][655]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.39.41:579][655]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.39.41:611][655]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.39.41:612][655]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.39.41:661][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.03.05-19.39.41:680][656]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.03.05-19.40.22:557][534]BlueprintLog: New page: Compile wallride
+[2020.03.05-19.40.22:765][534]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2020.03.05-19.40.23:741][642]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.40.23:765][642]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.40.23:765][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.40.23:765][642]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:40:23)
+[2020.03.05-19.40.23:766][642]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.40.23:786][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020050s)
+[2020.03.05-19.40.23:787][642]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.40.23:787][642]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2020.03.05-19.40.23:787][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.021365s)
+[2020.03.05-19.40.23:829][642]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2020.03.05-19.40.23:831][642]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.40.23:846][642]LogInit: FAudioDevice initialized.
+[2020.03.05-19.40.23:850][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.40.23:882][642]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.40.23:894][642]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.05-19.40.23
+[2020.03.05-19.40.23:894][642]LogWorld: Bringing up level for play took: 0.010218
+[2020.03.05-19.40.23:911][642]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.236
+[2020.03.05-19.40.23:911][642]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.40.29:413][234]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.40.29:413][234]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.40.29:428][234]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.40.29:464][234]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.40.29:465][234]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.40.29:545][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.03.05-19.40.29:561][235]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.03.05-19.41.47:750][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.05-19.41.47:750][720]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2020.03.05-19.41.47:751][720]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-19.41.47:793][720]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-19.41.47:793][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-19.41.47:855][720]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto3C7C641F94E5D53A4D9D30F8AE798B58E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto3.uasset'
+[2020.03.05-19.41.47:856][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/ARCchar] ([1] browsable assets)...
+[2020.03.05-19.41.47:856][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCchar]
+[2020.03.05-19.41.47:930][720]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCchar_Auto38FA5B3CB472D836910704FBA60C2EC92.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCchar_Auto3.uasset'
+[2020.03.05-19.41.47:932][720]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/wallride] ([1] browsable assets)...
+[2020.03.05-19.41.47:932][720]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/wallride]
+[2020.03.05-19.41.47:966][720]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride_Auto3FDBE5461450EB1F6520F60ACE669CABB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/wallride_Auto3.uasset'
+[2020.03.05-19.41.47:967][720]LogFileHelpers: Auto-saving content packages took 0.216
+[2020.03.05-19.43.18:951][856]Cmd: TRANSACTION UNDO
+[2020.03.05-19.43.18:951][856]LogEditorTransaction: Undo Rename Node
+[2020.03.05-19.46.27:443][865]BlueprintLog: New page: Compile wallride
+[2020.03.05-19.46.27:648][865]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.03.05-19.46.28:673][980]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.46.28:699][980]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.46.28:699][980]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.46.28:699][980]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:46:28)
+[2020.03.05-19.46.28:708][980]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.46.28:718][980]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009726s)
+[2020.03.05-19.46.28:719][980]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.46.28:720][980]LogPlayLevel: PIE: World Init took: (0.001646s)
+[2020.03.05-19.46.28:720][980]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011636s)
+[2020.03.05-19.46.28:764][980]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2020.03.05-19.46.28:769][980]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.46.28:784][980]LogInit: FAudioDevice initialized.
+[2020.03.05-19.46.28:790][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.46.28:822][980]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.46.28:824][980]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.05-19.46.28
+[2020.03.05-19.46.28:824][980]LogWorld: Bringing up level for play took: 0.002035
+[2020.03.05-19.46.28:839][980]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.835
+[2020.03.05-19.46.28:840][980]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.46.41:441][341]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.46.41:442][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.46.41:461][341]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.46.41:499][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.46.41:500][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.46.41:554][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.03.05-19.46.41:576][342]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.03.05-19.47.05:592][198]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-19.47.05:616][198]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.47.05:616][198]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.05-19.47.05:616][198]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 19:47:05)
+[2020.03.05-19.47.05:616][198]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-19.47.05:624][198]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008190s)
+[2020.03.05-19.47.05:626][198]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-19.47.05:627][198]LogPlayLevel: PIE: World Init took: (0.002459s)
+[2020.03.05-19.47.05:627][198]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010804s)
+[2020.03.05-19.47.05:665][198]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.03.05-19.47.05:668][198]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-19.47.05:682][198]LogInit: FAudioDevice initialized.
+[2020.03.05-19.47.05:688][198]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.47.05:721][198]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-19.47.05:723][198]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2020.03.05-19.47.05
+[2020.03.05-19.47.05:723][198]LogWorld: Bringing up level for play took: 0.000788
+[2020.03.05-19.47.05:748][198]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.073
+[2020.03.05-19.47.05:749][198]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.47.11:692][823]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.47.11:692][823]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-19.47.11:711][823]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-19.47.11:747][823]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-19.47.11:748][823]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-19.47.11:806][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.03.05-19.47.11:825][824]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.03.05-19.47.55:811][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/wallride" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset" SILENT=true
+[2020.03.05-19.47.55:866][ 55]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride38CB96AD43859BB657058AB5B00B40F4.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/wallride.uasset'
