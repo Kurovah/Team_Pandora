@@ -3804,3 +3804,44 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-21.02.00:006][393]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.03.05-21.02.00:084][393]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
 [2020.03.05-21.02.00:102][394]LogPlayLevel: Display: Destroying online subsystem :Context_95
+[2020.03.05-21.03.52:539][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.03.05-21.03.52:539][ 74]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.050
+[2020.03.05-21.03.52:541][ 74]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-21.03.52:583][ 74]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-21.03.52:584][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-21.03.52:839][ 74]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto016B59C954DFCBC83B5ED3A8A530270FB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto0.uasset'
+[2020.03.05-21.03.52:845][ 74]LogFileHelpers: Auto-saving content packages took 0.305
+[2020.03.05-21.09.28:715][165]LogEditorTransaction: Undo Move Node
+[2020.03.05-21.09.29:413][194]LogEditorTransaction: Undo Add Node
+[2020.03.05-21.09.30:964][280]LogEditorTransaction: Undo Delete current selection
+[2020.03.05-21.09.32:563][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/components/ARCchar" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCchar.uasset" SILENT=true
+[2020.03.05-21.09.32:693][364]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCchar3DB5EDE94904014A61BD05A4C62D4CD0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Content/components/ARCchar.uasset'
+[2020.03.05-21.10.01:688][ 97]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.05-21.10.01:730][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-21.10.01:730][ 97]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.03.05-21.10.01:737][ 97]LogPlayLevel: [PlayLevel] Compiling ARCchar before play...
+[2020.03.05-21.10.01:737][ 97]LogPlayLevel: [PlayLevel]   Compiling ARCplayer as a dependent...
+[2020.03.05-21.10.02:253][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.03.05-21.10.02:253][ 97]LogPlayLevel: PlayLevel: Blueprint regeneration took 523 ms (2 blueprints)
+[2020.03.05-21.10.02:253][ 97]PIE: New page: PIE session: ThirdPersonExampleMap (5 Mar 2020 21:10:02)
+[2020.03.05-21.10.02:253][ 97]LogPlayLevel: Creating play world package: /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.03.05-21.10.02:271][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017052s)
+[2020.03.05-21.10.02:272][ 97]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.05-21.10.02:272][ 97]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2020.03.05-21.10.02:272][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.018522s)
+[2020.03.05-21.10.02:332][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.03.05-21.10.02:337][ 97]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.03.05-21.10.02:364][ 97]LogInit: FAudioDevice initialized.
+[2020.03.05-21.10.02:376][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.10.02:410][ 97]LogLoad: Game class is 'ARCGM_C'
+[2020.03.05-21.10.02:413][ 97]LogWorld: Bringing World /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.03.05-21.10.02
+[2020.03.05-21.10.02:414][ 97]LogWorld: Bringing up level for play took: 0.001855
+[2020.03.05-21.10.02:429][ 97]PIE: Play in editor start time for /Game/components/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.754
+[2020.03.05-21.10.02:430][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-21.10.19:025][988]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-21.10.19:026][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.05-21.10.19:069][988]LogSlate: Window 'Robo_Parkour_game Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.03.05-21.10.19:114][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.05-21.10.19:115][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2020.03.05-21.10.19:235][988]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
+[2020.03.05-21.10.19:282][989]LogPlayLevel: Display: Destroying online subsystem :Context_96
