@@ -3845,3 +3845,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-21.10.19:115][988]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.03.05-21.10.19:235][988]LogUObjectHash: Compacting FUObjectHashTables data took   5.29ms
 [2020.03.05-21.10.19:282][989]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2020.03.05-21.14.10:780][734]LogUObjectHash: Compacting FUObjectHashTables data took   7.59ms
+[2020.03.05-21.14.10:781][734]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.127
+[2020.03.05-21.14.10:784][734]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-21.14.10:846][734]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-21.14.10:847][734]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-21.14.11:099][734]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto1F623DE394BAE9CF967726DB12452A661.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto1.uasset'
+[2020.03.05-21.14.11:104][734]LogFileHelpers: Auto-saving content packages took 0.321
