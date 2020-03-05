@@ -2198,3 +2198,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.05-20.02.07:935][527]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
 [2020.03.05-20.02.07:983][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
 [2020.03.05-20.02.08:000][528]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.03.05-20.03.34:371][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.03.05-20.03.34:371][ 18]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/components/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.038
+[2020.03.05-20.03.34:373][ 18]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/components/ARCplayer] ([1] browsable assets)...
+[2020.03.05-20.03.34:418][ 18]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/components/ARCplayer.ARCplayer]
+[2020.03.05-20.03.34:418][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/ARCplayer]
+[2020.03.05-20.03.34:478][ 18]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/ARCplayer_Auto57A6CB63C4701D156F8FB82BAFDBC5956.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/ARCplayer_Auto5.uasset'
+[2020.03.05-20.03.34:480][ 18]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/components/wallride] ([1] browsable assets)...
+[2020.03.05-20.03.34:480][ 18]OBJ SavePackage: Finished generating thumbnails for package [/Game/components/wallride]
+[2020.03.05-20.03.34:515][ 18]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/wallride_Auto5BF371BE4466B06B9374C90A62BD2E2E8.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/Robo_Parkour_game/Saved/Autosaves/Game/components/wallride_Auto5.uasset'
+[2020.03.05-20.03.34:516][ 18]LogFileHelpers: Auto-saving content packages took 0.144
