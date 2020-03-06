@@ -565,3 +565,132 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.06-09.48.38:180][250]LogAssetRegistry: Asset discovery search completed in 8.8690 seconds
 [2020.03.06-09.48.38:182][250]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.03.06-09.48.38:182][250]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000040 seconds (updated 0 objects)
+[2020.03.06-09.49.28:960][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.06-09.49.47:510][629]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.06-09.49.47:533][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.03.06-09.49.47:533][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.03.06-09.49.47:533][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.03.06-09.49.47:533][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.03.06-09.49.47:533][629]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2020.03.06-09.49.47:578][629]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonGameModeE2A645634E57D852DCA5E0A46A00BF50.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.uasset'
+[2020.03.06-09.49.47:668][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.06-09.49.47:691][629]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.03.06-09.49.47:710][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:021][356]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2020.03.06-09.50.17:100][356]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonCharacter779E69E14E0DF852352BCB86F0A177E6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.uasset'
+[2020.03.06-09.50.17:122][356]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonCharacter6C2049E44598E55B96E5C482CD724D83.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2020.03.06-09.50.33:275][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.03.06-09.50.51:699][419]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2020.03.06-09.50.59:577][863]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.03.06-09.50.59:581][863]LogSlate: Window 'Editor Preferences' being destroyed
+[2020.03.06-09.51.11:260][506]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.06-09.52.13:984][244]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.06-09.52.13:987][244]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.06-09.52.16:887][417]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/gamemodes/ARCGM.ARCGM
+[2020.03.06-09.52.17:102][417]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 121 classes and 0 folders.
+[2020.03.06-09.52.43:663][964]BlueprintLog: New page: Compile ARCGM
+[2020.03.06-09.52.43:795][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2020.03.06-09.52.45:154][ 45]LogSlate: Window 'ARCGM' being destroyed
+[2020.03.06-09.52.45:158][ 45]LogSlate: Window 'ARCGM' being destroyed
+[2020.03.06-09.53.27:740][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.03.06-09.53.31:783][594]LogSlate: Window 'Save Content' being destroyed
+[2020.03.06-09.53.31:889][594]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC1E5855E04BA463F79C71FD91AF1113ED.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARC.uasset'
+[2020.03.06-09.53.31:933][594]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonCharacterB5BBDEE64B9A6721003690BDF3F54F46.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ThirdPersonCharacter.uasset'
+[2020.03.06-09.53.31:953][594]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCGM7B5C15A348A74650B7D92FB0440FBBCD.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/gamemodes/ARCGM.uasset'
+[2020.03.06-09.53.31:978][594]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonGameModeE78B4877483E8B70353B8DAC6336F2D4.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/gamemodes/ThirdPersonGameMode.uasset'
+[2020.03.06-09.53.32:017][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2020.03.06-09.53.32:176][594]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonExampleMapCECB4F2943C0073B27097A8D9DED9846.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.06-09.53.32:205][594]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.218
+[2020.03.06-09.54.17:217][260]LogSlate: Window 'Asset Report' being destroyed
+[2020.03.06-09.54.28:989][964]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.03.06-09.54.41:553][717]LogSlate: Window 'Asset Report' being destroyed
+[2020.03.06-09.54.57:379][717]LogSlate: Window 'Message' being destroyed
+[2020.03.06-09.55.46:186][238]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.06-09.55.59:101][  5]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-09.55.59:485][  5]LogRenderer: Reallocating scene render targets to support 916x572 Format 10 NumSamples 1 (Frame:1).
+[2020.03.06-09.56.08:232][525]LogSlate: Took 0.014066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.03.06-09.56.15:833][981]BlueprintLog: New page: Compile ARCChar
+[2020.03.06-09.56.15:973][981]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.03.06-09.56.16:748][ 21]LogSlate: Window 'ARCChar' being destroyed
+[2020.03.06-09.56.16:752][ 21]LogSlate: Window 'ARCChar' being destroyed
+[2020.03.06-09.56.18:901][141]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARC.ARC
+[2020.03.06-09.56.19:298][142]LogSlate: Took 0.013408 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.06-09.56.33:474][693]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.06-09.56.37:847][954]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARC.ARC from Character to ARCChar_C...
+[2020.03.06-09.56.37:861][954]BlueprintLog: New page: Compile ARC
+[2020.03.06-09.56.38:006][954]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.03.06-09.56.39:855][ 60]BlueprintLog: New page: Compile ARC
+[2020.03.06-09.56.39:992][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.03.06-09.57.09:074][792]BlueprintLog: New page: Compile ARC
+[2020.03.06-09.57.09:217][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.03.06-09.57.26:289][808]BlueprintLog: New page: Compile ARC
+[2020.03.06-09.57.26:428][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.03.06-09.57.41:648][716]LogSlate: Window 'ARC' being destroyed
+[2020.03.06-09.58.07:753][134]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.03.06-09.58.31:082][531]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-09.58.59:856][231]BlueprintLog: New page: Compile ARC
+[2020.03.06-09.58.59:991][231]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.03.06-09.59.05:496][557]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-09.59.24:547][678]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Components/Wallride.Wallride
+[2020.03.06-10.01.02:506][473]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WallrideAAC849924A6C007E1554F09BACA8FD75.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/Components/Wallride.uasset'
+[2020.03.06-10.01.23:347][689]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-10.01.33:957][288]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-10.01.57:893][669]LogSlate: Took 0.009241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.03.06-10.02.22:533][119]BlueprintLog: New page: Compile Wallride
+[2020.03.06-10.02.22:842][119]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2020.03.06-10.03.13:002][989]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC525E832B4CA70D02E7979FA3B3725716.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARC.uasset'
+[2020.03.06-10.04.32:475][685]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Wallride291169084357F6534494529865B778D7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/Components/Wallride.uasset'
+[2020.03.06-10.05.03:327][164]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2020.03.06-10.05.03:328][164]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.104
+[2020.03.06-10.05.03:333][164]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/actors/ARCChar] ([1] browsable assets)...
+[2020.03.06-10.05.03:334][164]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/actors/ARCChar]
+[2020.03.06-10.05.03:382][164]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar_Auto1B5CE799D42473E9AB4CFB9B2BF7D953C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/actors/ARCChar_Auto1.uasset'
+[2020.03.06-10.05.03:386][164]LogFileHelpers: Auto-saving content packages took 0.057
+[2020.03.06-10.08.08:779][737]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WallrideE548062F4BB6FD64F8263E97774668DE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/Components/Wallride.uasset'
+[2020.03.06-10.12.56:646][621]BlueprintLog: New page: Compile Wallride
+[2020.03.06-10.12.56:895][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.03.06-10.13.14:612][641]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARCChar.ARCChar
+[2020.03.06-10.15.52:305][890]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  tryWallSlide  and was replaced as a Custom Event!
+[2020.03.06-10.16.15:652][265]BlueprintLog: New page: Compile ARCChar
+[2020.03.06-10.16.15:915][265]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2020.03.06-10.16.27:608][948]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar3D8AC953412CADCAD54A12B8176A190B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARCChar.uasset'
+[2020.03.06-10.16.52:093][405]LogUObjectHash: Compacting FUObjectHashTables data took   6.37ms
+[2020.03.06-10.16.52:093][405]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.076
+[2020.03.06-10.16.52:096][405]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Components/Wallride] ([1] browsable assets)...
+[2020.03.06-10.16.52:096][405]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Components/Wallride]
+[2020.03.06-10.16.52:171][405]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Wallride_Auto2B5E0CD7D4DC1F7A6E042369FAC2CFF21.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Components/Wallride_Auto2.uasset'
+[2020.03.06-10.16.52:174][405]LogFileHelpers: Auto-saving content packages took 0.080
+[2020.03.06-10.23.59:000][273]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC73CB42174874768A4AF68494AC1C2461.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARC.uasset'
+[2020.03.06-10.24.00:015][332]BlueprintLog: New page: Compile ARC
+[2020.03.06-10.24.00:269][332]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.03.06-10.26.21:209][584]LogBlueprint: Warning: Blueprint ARC (child of/implements ARCChar) has a component variable with a conflicting name (Wallride). Changing to Wallride_0.
+[2020.03.06-10.26.21:214][584]LogBlueprint: Warning: [Compiler ARC] Found a component variable with an invalid name (Wallride_0) - changed to Wallride1.
+[2020.03.06-10.26.21:215][584]LogBlueprint: Warning: [Compiler ARC] [2275.45] Compile of ARC successful, but with 1 Warning(s) [in 3 ms] (/Game/ThirdPersonBP/Blueprints/actors/ARC.ARC)
+[2020.03.06-10.26.23:755][721]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar259885924A08E7BA619A53BA01228F5E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARCChar.uasset'
+[2020.03.06-10.26.46:564][ 69]BlueprintLog: New page: Compile ARCChar
+[2020.03.06-10.26.46:832][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2020.03.06-10.27.23:356][211]BlueprintLog: New page: Compile ARC
+[2020.03.06-10.27.23:636][211]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2020.03.06-10.27.55:057][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   7.08ms
+[2020.03.06-10.27.55:057][ 75]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.088
+[2020.03.06-10.27.55:058][ 75]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPersonBP/Blueprints/actors/ARC] ([1] browsable assets)...
+[2020.03.06-10.27.55:106][ 75]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPersonBP/Blueprints/actors/ARC.ARC]
+[2020.03.06-10.27.55:106][ 75]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/actors/ARC]
+[2020.03.06-10.27.55:229][ 75]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC_Auto38BCE32074879358A3962A7BE9ADCA28C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/actors/ARC_Auto3.uasset'
+[2020.03.06-10.27.55:232][ 75]LogFileHelpers: Auto-saving content packages took 0.175
