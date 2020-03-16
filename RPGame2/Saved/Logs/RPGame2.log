@@ -1045,3 +1045,72 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.16-14.54.39:262][101]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCCharECED73624F0C9D863764EB8C8FF5CBCC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARCChar.uasset'
 [2020.03.16-14.54.53:056][925]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar5BCD65AE4AA06074874C8B8B07906684.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARCChar.uasset'
 [2020.03.16-14.54.54:190][985]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC21E79D064B386DBF8BBF1F894CB05644.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Blueprints/actors/ARC.uasset'
+[2020.03.16-14.55.30:404][570]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.03.16-14.56.07:002][737]MapCheck: New page: Map Check
+[2020.03.16-14.56.07:019][737]Cmd: MAP REBUILD ALLVISIBLE
+[2020.03.16-14.56.07:020][737]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.03.16-14.56.07:041][737]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.03.16-14.56.07:079][737]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.03.16-14.56.07:099][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:115][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:122][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:128][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:135][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:141][737]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.03.16-14.56.07:871][737]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.03.16-14.56.07:871][737]TextureStreamingBuild: Display: Compiling optional shaders took 0.784 seconds.
+[2020.03.16-14.56.07:890][737]LogLevel: Display: Export Material TexCoord Scales took 0.019 seconds.
+[2020.03.16-14.56.07:902][737]TextureStreamingBuild: Display: Build Texture Streaming took 0.012 seconds.
+[2020.03.16-14.56.07:933][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2020.03.16-14.56.07:935][737]LightingResults: New page: Lighting Build - 16 Mar 2020 14:56:07
+[2020.03.16-14.56.07:989][737]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.03.16-14.56.08:054][737]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.03.16-14.56.08:069][737]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.03.16-14.56.08:584][737]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.03.16-14.56.08:584][737]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8004
+[2020.03.16-14.56.11:358][737]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.03.16-14.56.11:358][737]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.03.16-14.56.11:358][737]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.03.16-14.56.11:358][737]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.03.16-14.56.11:358][737]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.03.16-14.56.11:553][737]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.03.16-14.56.11:553][737]MapCheck: New page: ThirdPersonExampleMap - 16 Mar 2020 14:56:11
+[2020.03.16-14.56.11:554][737]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2020.03.16-14.56.11:557][737]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.989ms to complete.
+[2020.03.16-14.56.11:580][737]LogEditorBuildUtils: Build time 0:04
+[2020.03.16-14.56.12:084][741]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2020.03.16-14.56.13:113][771]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2020.03.16-14.56.13:311][771]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonExampleMap7A0D246242C01E3D19114FBEC37981B4.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.03.16-14.56.13:508][771]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonExampleMap_BuiltData0AC9E7F944E5CEA5169B068E57B9FF5B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2020.03.16-14.56.16:697][859]Job is a success!
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:      BrickData 225x5x5 = 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:      Bricks at Level
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:          0: 2.2% covering 100.0% of volume
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:          1: 8.9% covering 6.3% of volume
+[2020.03.16-14.56.17:127][860]LogVolumetricLightmapImport:          2: 88.9% covering 1.0% of volume
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 512X256)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2020.03.16-14.56.17:645][860]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 64X32)
+[2020.03.16-14.56.17:844][860]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.03.16-14.56.17:881][860]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.03.16-14.56.17:908][860]Lightmass on LAPTOP-I19E2VM6: 5.18 sec total, 233 ms importing, 30 ms setup, 900 ms photons, 3.96 sec processing, 0 ms extra exporting [13/13 mappings]. Threads: 27.4 sec total, 8.78 sec processing.
+[2020.03.16-14.56.17:911][860]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 13 meshes in 3 LightmapResourceClusters (4.3 Meshes per cluster).
+[2020.03.16-14.56.17:944][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.03.16-14.56.17:950][860]LogStaticLightingSystem: Illumination: 9.66 sec (477 ms encoding lightmaps, 226 ms encoding shadowmaps)
+[2020.03.16-14.56.17:950][860]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2020.03.16-14.56.17:950][860]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.03.16-14.56.18:388][860]DumpUnbuiltLightIteractions
+[2020.03.16-14.56.18:388][860]Lights with unbuilt interactions: 0
+[2020.03.16-14.56.18:388][860]
+[2020.03.16-14.56.18:388][860]Primitives with unbuilt interactions: 0
+[2020.03.16-14.56.18:463][861]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.03.16-14.56.18:464][861]MapCheck: New page: ThirdPersonExampleMap - 16 Mar 2020 14:56:18
+[2020.03.16-14.56.18:464][861]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.443ms to complete.
