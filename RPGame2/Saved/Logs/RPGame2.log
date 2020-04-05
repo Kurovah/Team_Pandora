@@ -617,3 +617,899 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.05-16.32.49:674][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2020.04.05-16.32.49:685][100]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
 [2020.04.05-16.32.49:723][101]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.04.05-16.35.18:246][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.35.25:690][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.04.05-16.36.00:550][802]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.36.03:433][ 39]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube12)
+[2020.04.05-16.36.03:472][ 39]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.36.11:462][755]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube12)
+[2020.04.05-16.36.11:503][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.36.13:997][942]LogActorFactory: Actor Factory created Blocks_Cube
+[2020.04.05-16.36.14:032][942]EditorErrors: New page: Actor Reattachment
+[2020.04.05-16.36.21:381][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.36.29:671][177]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.36.32:620][450]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.36.39:210][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.42.43:696][428]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2020.04.05-16.42.44:521][428]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_Auto156AA480C4B4BED6697EBB0A0D49C56CA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Maps/testMaps/Level4_Auto1.umap'
+[2020.04.05-16.42.44:554][428]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testMaps/Level4' took 0.935
+[2020.04.05-16.42.44:554][428]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.935
+[2020.04.05-16.46.18:531][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.46.18:950][ 79]LogSlate: Took 0.020006 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.05-16.46.20:324][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.04.05-16.46.38:916][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.04.05-16.46.40:965][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.46.41:183][323]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-16.46.44:404][468]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-16.46.45:207][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2020.04.05-16.46.47:071][622]Cmd: DELETE
+[2020.04.05-16.46.47:071][622]Cmd: ACTOR DELETE
+[2020.04.05-16.46.47:110][622]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-16.46.47:169][622]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2020.04.05-16.46.47:169][622]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2020.04.05-16.46.47:682][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-16.46.49:238][741]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.46.53:126][970]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.46.58:296][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.04.05-16.46.59:000][314]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-16.47.05:448][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup20)
+[2020.04.05-16.47.06:148][725]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube14)
+[2020.04.05-16.47.07:650][811]Cmd: DELETE
+[2020.04.05-16.47.07:650][811]Cmd: ACTOR DELETE
+[2020.04.05-16.47.07:657][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-16.47.07:724][811]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.04.05-16.47.07:725][811]LogEditorActor: Deleted 1 Actors (0.075 secs)
+[2020.04.05-16.47.08:673][866]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.47.08:756][866]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.05-16.47.09:233][866]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4CC7CFA4D44B67D422630F097F61E5EDE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-16.47.09:364][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-16.47.09:825][866]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData02C95B3D4E2BF8C70F0BC99BFEDE9D0F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-16.47.31:586][147]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.47.31:693][147]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2020.04.05-16.47.32:157][147]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level484AF47974D11D5FC993E17AA3B42B200.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-16.47.32:250][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-16.47.32:589][147]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataA477F564430B2C3A275DE9BD431AC8AC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-16.47.58:797][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube13)
+[2020.04.05-16.48.01:285][836]Cmd: DELETE
+[2020.04.05-16.48.01:286][836]Cmd: ACTOR DELETE
+[2020.04.05-16.48.01:294][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-16.48.01:295][836]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-16.48.01:359][836]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.05-16.48.01:359][836]LogEditorActor: Deleted 2 Actors (0.073 secs)
+[2020.04.05-16.48.01:776][860]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup51)
+[2020.04.05-16.48.12:137][457]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.48.12:229][457]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.05-16.48.12:776][457]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4E3678D934E1466A396EE449169F5E2F6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-16.48.12:867][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-16.48.13:136][457]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataFCD63D4B44910E3CDED0F0952247393F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-16.48.13:626][485]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-16.48.13:656][485]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.13:656][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-16.48.13:656][485]PIE: New page: PIE session: Level4 (5 Apr 2020 18:48:13)
+[2020.04.05-16.48.13:656][485]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-16.48.13:671][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014791s)
+[2020.04.05-16.48.13:671][485]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-16.48.13:672][485]LogPlayLevel: PIE: World Init took: (0.000916s)
+[2020.04.05-16.48.13:672][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.015902s)
+[2020.04.05-16.48.13:708][485]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.05-16.48.13:715][485]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-16.48.13:741][485]LogInit: FAudioDevice initialized.
+[2020.04.05-16.48.13:773][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-16.48.13:780][485]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.05-17.48.13
+[2020.04.05-16.48.13:781][485]LogWorld: Bringing up level for play took: 0.006030
+[2020.04.05-16.48.13:797][485]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.712
+[2020.04.05-16.48.13:797][485]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.31:920][568]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.31:920][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.48.31:959][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-16.48.31:959][568]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.32:028][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.48.32:035][568]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2020.04.05-16.48.32:074][569]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.04.05-16.48.33:004][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.48.33:104][628]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-16.48.33:130][628]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.33:130][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-16.48.33:131][628]PIE: New page: PIE session: Level4 (5 Apr 2020 18:48:33)
+[2020.04.05-16.48.33:131][628]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-16.48.33:145][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014207s)
+[2020.04.05-16.48.33:145][628]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-16.48.33:145][628]LogPlayLevel: PIE: World Init took: (0.000720s)
+[2020.04.05-16.48.33:145][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.015123s)
+[2020.04.05-16.48.33:183][628]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.05-16.48.33:188][628]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-16.48.33:211][628]LogInit: FAudioDevice initialized.
+[2020.04.05-16.48.33:243][628]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-16.48.33:251][628]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.05-17.48.33
+[2020.04.05-16.48.33:251][628]LogWorld: Bringing up level for play took: 0.005928
+[2020.04.05-16.48.33:269][628]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.76
+[2020.04.05-16.48.33:269][628]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.48:213][515]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.48:213][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.48.48:255][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-16.48.48:255][515]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.48.48:331][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.48.48:339][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.05-16.48.48:376][516]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2020.04.05-16.49.02:326][321]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-16.49.05:632][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup52)
+[2020.04.05-16.49.22:546][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-16.49.22:628][453]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-16.49.22:661][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.49.22:661][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-16.49.22:661][453]PIE: New page: PIE session: Level4 (5 Apr 2020 18:49:22)
+[2020.04.05-16.49.22:661][453]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-16.49.22:676][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014409s)
+[2020.04.05-16.49.22:677][453]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-16.49.22:677][453]LogPlayLevel: PIE: World Init took: (0.000696s)
+[2020.04.05-16.49.22:677][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.015295s)
+[2020.04.05-16.49.22:713][453]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.05-16.49.22:717][453]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-16.49.22:740][453]LogInit: FAudioDevice initialized.
+[2020.04.05-16.49.22:771][453]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-16.49.22:781][453]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.05-17.49.22
+[2020.04.05-16.49.22:781][453]LogWorld: Bringing up level for play took: 0.008844
+[2020.04.05-16.49.22:800][453]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.292
+[2020.04.05-16.49.22:802][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.49.36:931][297]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.49.36:931][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.49.36:970][297]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-16.49.36:970][297]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-16.49.37:047][297]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-16.49.37:056][297]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2020.04.05-16.49.37:094][298]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.05-16.49.48:072][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup52)
+[2020.04.05-16.49.52:708][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.49.52:792][153]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.05-16.49.53:294][153]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level43999C5D7453972C239A2DB9C68EAB4C7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-16.49.53:393][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-16.49.53:697][153]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataCC63F951448A6703551CAEAFF978D179.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-16.49.54:169][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup51)
+[2020.04.05-16.49.57:019][330]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-16.49.57:118][330]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.05-16.49.57:631][330]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4AB60697643C8184F0D7DF187B2F60B57.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-16.49.57:724][330]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-16.49.57:972][330]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData927E44FC4A82C5D11AC85EBC893D3251.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-16.55.02:175][305]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.07:850][423]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.20:290][617]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.26:572][720]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.29:092][757]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.29:595][758]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.34:825][881]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.41:643][989]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.49:397][ 88]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.55:991][234]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.55.56:492][235]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.02:195][296]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.16:240][503]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.29:180][698]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.32:767][774]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.33:269][775]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.33:773][776]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.37:367][826]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.40:416][868]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.43:964][944]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.50:243][ 44]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.56.56:574][176]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.06:050][331]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.10:153][411]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.11:661][416]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.13:201][452]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.15:258][494]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.18:817][569]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.19:320][570]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.25:538][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.40:026][898]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.40:527][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.41:031][900]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-16.57.41:537][901]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.02.44:096][763]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.02.45:103][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.02.51:319][891]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.06:354][157]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.18:855][357]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.19:358][358]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.23:568][446]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.25:119][455]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.28:667][530]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.33:274][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.33:776][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.34:280][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.34:784][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.36:315][621]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.42:491][742]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.42:993][743]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.45:524][784]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.50:639][868]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.51:141][869]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.51:646][870]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.52:151][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.54:176][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.03.58:252][ 16]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.03:887][132]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.04:942][139]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.07:991][212]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.15:652][338]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.16:661][340]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.21:764][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.25:307][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.36:133][760]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.39:715][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.40:217][810]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.43:805][858]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.48:418][913]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.53:189][  8]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.58:850][ 66]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.04.59:352][ 67]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.05.02:415][141]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.05.02:918][142]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.05.06:512][248]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.05-17.36.53:320][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.001 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.004 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:323][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:324][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.005 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:326][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:326][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.007 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:326][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:326][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:326][  2]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.008 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.36.53:723][  4]LogHttp: Warning: 0000025F58E09940: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2020.04.05-17.36.53:723][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x25f2ad83f70 [can pipeline])
+[2020.04.05-17.36.53:723][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 1 (Re-using existing connection! (#13) with host datarouter.ol.epicgames.com)
+[2020.04.05-17.36.53:723][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.203.172.183) port 443 (#13))
+[2020.04.05-17.36.53:723][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 3 (We are completely uploaded and fine)
+[2020.04.05-17.36.53:724][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2020.04.05-17.36.53:724][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2020.04.05-17.36.53:724][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2020.04.05-17.36.53:724][  4]LogHttp: Warning: 0000025F58E09940: libcurl info message cache 7 (Closing connection 13)
+[2020.04.05-17.36.53:730][  4]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8ADCBC69-420C-8265-E0D9-74957FFF8478%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2468d657458d7c265741b096f3940825%7Ca6c340edab2b4ae281f9adb0290d3f33%7C4bffe0fa-036a-4855-8c82-96f544d91d42&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.05-17.36.55:329][  8]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (2.010 sec). This should never happen. Something is wrong with the timer delegate!
+[2020.04.05-17.37.21:848][432]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.37.22:058][432]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.37.22:070][432]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.37.22:082][432]PIE: New page: PIE session: Level4 (5 Apr 2020 19:37:22)
+[2020.04.05-17.37.22:101][432]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.37.22:303][432]LogPlayLevel: PIE: StaticDuplicateObject took: (0.196707s)
+[2020.04.05-17.37.22:358][432]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.37.22:378][432]LogPlayLevel: PIE: World Init took: (0.074681s)
+[2020.04.05-17.37.22:379][432]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.279265s)
+[2020.04.05-17.37.22:559][432]LogUObjectHash: Compacting FUObjectHashTables data took  10.29ms
+[2020.04.05-17.37.22:648][432]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.37.22:755][432]LogInit: FAudioDevice initialized.
+[2020.04.05-17.37.22:857][432]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.37.22:906][432]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.37.22
+[2020.04.05-17.37.22:910][432]LogWorld: Bringing up level for play took: 0.042643
+[2020.04.05-17.37.23:040][432]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.356
+[2020.04.05-17.37.23:041][432]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.37.40:291][423]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.37.40:298][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.37.40:359][423]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.37.40:360][423]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.37.40:415][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.37.40:438][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.04.05-17.37.40:491][424]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2020.04.05-17.37.41:448][531]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.37.41:560][544]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.37.41:585][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.37.41:585][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.37.41:585][544]PIE: New page: PIE session: Level4 (5 Apr 2020 19:37:41)
+[2020.04.05-17.37.41:585][544]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.37.41:604][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018156s)
+[2020.04.05-17.37.41:606][544]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.37.41:606][544]LogPlayLevel: PIE: World Init took: (0.003106s)
+[2020.04.05-17.37.41:606][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.021459s)
+[2020.04.05-17.37.41:639][544]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2020.04.05-17.37.41:644][544]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.37.41:668][544]LogInit: FAudioDevice initialized.
+[2020.04.05-17.37.41:703][544]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.37.41:710][544]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.37.41
+[2020.04.05-17.37.41:711][544]LogWorld: Bringing up level for play took: 0.006499
+[2020.04.05-17.37.41:734][544]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 1.051
+[2020.04.05-17.37.41:734][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.01:291][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.01:292][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.38.01:329][863]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.38.01:329][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.01:368][863]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.38.01:374][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.05-17.38.01:397][864]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.05-17.38.10:709][878]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup51)
+[2020.04.05-17.38.12:982][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup52)
+[2020.04.05-17.38.17:336][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.38.23:138][281]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.38.23:226][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.05-17.38.23:965][281]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level448A2BAF742C6C17C65E8F79D38ABBB1C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.38.24:027][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.38.24:364][281]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData2C4DA8D04D22837D89A4B3AEBFE4FFFD.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.38.35:769][375]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.38.35:831][375]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.05-17.38.36:163][375]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level42A5C8865417A02285E9D61BE27124426.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.38.36:219][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.38.36:425][375]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData74CCA84E4D9D00F5863EF28EF0C06715.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.38.39:010][592]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.38.39:132][601]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.38.39:159][601]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.39:159][601]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.38.39:159][601]PIE: New page: PIE session: Level4 (5 Apr 2020 19:38:39)
+[2020.04.05-17.38.39:159][601]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.38.39:177][601]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017507s)
+[2020.04.05-17.38.39:178][601]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.38.39:178][601]LogPlayLevel: PIE: World Init took: (0.001040s)
+[2020.04.05-17.38.39:178][601]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.018811s)
+[2020.04.05-17.38.39:216][601]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.05-17.38.39:224][601]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.38.39:258][601]LogInit: FAudioDevice initialized.
+[2020.04.05-17.38.39:294][601]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.38.39:299][601]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.38.39
+[2020.04.05-17.38.39:300][601]LogWorld: Bringing up level for play took: 0.004717
+[2020.04.05-17.38.39:316][601]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.633
+[2020.04.05-17.38.39:316][601]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.54:429][383]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.54:429][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.38.54:462][383]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.38.54:462][383]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.38.54:511][383]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.38.54:518][383]LogUObjectHash: Compacting FUObjectHashTables data took   3.34ms
+[2020.04.05-17.38.54:552][384]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.05-17.39.04:835][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup51)
+[2020.04.05-17.39.07:988][787]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.39.08:043][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.04.05-17.39.08:377][787]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level42B0E862A40DF5C9CE8278EBC3CE60A01.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.39.08:432][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.39.08:648][787]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData207179A148E62EC642DD1E932845FDDB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.39.17:780][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2020.04.05-17.39.27:013][684]Cmd: DELETE
+[2020.04.05-17.39.27:013][684]Cmd: ACTOR DELETE
+[2020.04.05-17.39.27:046][684]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.39.27:083][684]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2020.04.05-17.39.27:084][684]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2020.04.05-17.39.28:021][796]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.05-17.39.28:926][893]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.05-17.39.34:297][480]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.39.38:708][868]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.39.44:236][403]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.39.44:703][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.39.51:279][ 31]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.39.51:342][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.04.05-17.39.51:661][ 31]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level443FC0B694F7A28E7FC117E8F687EE287.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.39.51:719][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.39.51:934][ 31]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataFA3AF01445AD883493FD36AEF0470643.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.39.52:510][ 93]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.39.52:540][ 93]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.39.52:540][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.39.52:540][ 93]PIE: New page: PIE session: Level4 (5 Apr 2020 19:39:52)
+[2020.04.05-17.39.52:540][ 93]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.39.52:567][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028063s)
+[2020.04.05-17.39.52:568][ 93]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.39.52:568][ 93]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2020.04.05-17.39.52:568][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.029186s)
+[2020.04.05-17.39.52:606][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.04.05-17.39.52:612][ 93]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.39.52:635][ 93]LogInit: FAudioDevice initialized.
+[2020.04.05-17.39.52:665][ 93]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.39.52:670][ 93]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.39.52
+[2020.04.05-17.39.52:670][ 93]LogWorld: Bringing up level for play took: 0.003843
+[2020.04.05-17.39.52:685][ 93]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.003
+[2020.04.05-17.39.52:685][ 93]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.40.13:463][573]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.40.13:472][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.40.13:508][573]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.40.13:508][573]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.40.13:557][573]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.40.13:561][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.04.05-17.40.13:583][574]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.05-17.40.24:843][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup52)
+[2020.04.05-17.40.26:325][927]Cmd: DELETE
+[2020.04.05-17.40.26:325][927]Cmd: ACTOR DELETE
+[2020.04.05-17.40.26:330][927]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.40.26:362][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.05-17.40.26:362][927]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.04.05-17.40.26:963][998]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.40.27:269][ 27]Cmd: DELETE
+[2020.04.05-17.40.27:269][ 27]Cmd: ACTOR DELETE
+[2020.04.05-17.40.27:273][ 27]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.40.27:312][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.05-17.40.27:312][ 27]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.04.05-17.40.27:695][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup51)
+[2020.04.05-17.40.27:793][ 76]Cmd: DELETE
+[2020.04.05-17.40.27:793][ 76]Cmd: ACTOR DELETE
+[2020.04.05-17.40.27:797][ 76]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.40.27:826][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.05-17.40.27:836][ 76]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.04.05-17.40.42:157][641]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig37)
+[2020.04.05-17.40.48:225][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.40.51:218][546]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.40.54:226][894]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.40.57:236][146]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.40.57:297][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.05-17.40.57:620][146]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level47F9653E14CEF770DC305748035C41C08.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.40.57:677][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.40.57:881][146]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData8FFF69E84026C78E7A6749891FECA146.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.41.10:697][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig29)
+[2020.04.05-17.41.11:257][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig30)
+[2020.04.05-17.41.21:008][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup53)
+[2020.04.05-17.41.23:759][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.42.19:152][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.42.19:210][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.04.05-17.42.19:555][ 52]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4BB3DE71B4F0701FD426D7FB2F01D2D8C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.42.19:616][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.42.19:829][ 52]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData4F1C2A59408A7CFFAF8830B87F135F0D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.42.34:387][341]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.42.34:442][341]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.05-17.42.34:797][341]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level40CE63EB84A02396F6CD7A38A328B9E05.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.42.34:865][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.42.35:072][341]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData0640A9814ED45F9BE80EFDAAF9EEF445.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.42.36:229][465]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.42.36:256][465]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.36:256][465]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.42.36:256][465]PIE: New page: PIE session: Level4 (5 Apr 2020 19:42:36)
+[2020.04.05-17.42.36:256][465]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.42.36:282][465]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025521s)
+[2020.04.05-17.42.36:282][465]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.42.36:283][465]LogPlayLevel: PIE: World Init took: (0.000981s)
+[2020.04.05-17.42.36:283][465]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.026727s)
+[2020.04.05-17.42.36:316][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2020.04.05-17.42.36:322][465]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.42.36:346][465]LogInit: FAudioDevice initialized.
+[2020.04.05-17.42.36:376][465]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.42.36:381][465]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.42.36
+[2020.04.05-17.42.36:382][465]LogWorld: Bringing up level for play took: 0.004719
+[2020.04.05-17.42.36:398][465]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.284
+[2020.04.05-17.42.36:398][465]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.42:817][220]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.42:818][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.42.42:854][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.42.42:854][220]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.42:908][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.42.42:912][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.05-17.42.42:933][221]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.05-17.42.43:722][312]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.42.43:812][323]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.42.43:836][323]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.43:836][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.42.43:836][323]PIE: New page: PIE session: Level4 (5 Apr 2020 19:42:43)
+[2020.04.05-17.42.43:836][323]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.42.43:852][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015244s)
+[2020.04.05-17.42.43:852][323]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.42.43:853][323]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2020.04.05-17.42.43:853][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.016137s)
+[2020.04.05-17.42.43:887][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.05-17.42.43:891][323]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.42.43:913][323]LogInit: FAudioDevice initialized.
+[2020.04.05-17.42.43:944][323]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.42.43:951][323]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.42.43
+[2020.04.05-17.42.43:952][323]LogWorld: Bringing up level for play took: 0.006426
+[2020.04.05-17.42.43:965][323]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.717
+[2020.04.05-17.42.43:966][323]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.52:670][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.52:671][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.42.52:705][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.42.52:706][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.42.52:756][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.42.52:760][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.04.05-17.42.52:780][347]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.05-17.43.02:898][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig38)
+[2020.04.05-17.43.06:485][672]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.43.16:163][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.05-17.43.16:507][739]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4360ADEB543611614948714B1C8D38C39.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.43.16:562][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.43.16:773][739]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataD49558284CE5F11891DB718172C495CC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.43.25:680][489]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.43.25:872][503]LogActorFactory: Actor Factory created Blocks_Cube
+[2020.04.05-17.43.26:991][581]LogActorFactory: Actor Factory created Blocks_Cube
+[2020.04.05-17.43.28:139][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.43.46:955][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig38)
+[2020.04.05-17.43.50:712][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube20)
+[2020.04.05-17.43.51:391][808]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube19)
+[2020.04.05-17.43.52:787][965]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.43.53:361][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube20)
+[2020.04.05-17.43.54:284][130]Cmd: DELETE
+[2020.04.05-17.43.54:284][130]Cmd: ACTOR DELETE
+[2020.04.05-17.43.54:289][130]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.43.54:333][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.05-17.43.54:333][130]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2020.04.05-17.43.54:804][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube19)
+[2020.04.05-17.43.54:915][192]Cmd: DELETE
+[2020.04.05-17.43.54:915][192]Cmd: ACTOR DELETE
+[2020.04.05-17.43.54:920][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.43.54:955][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.05-17.43.54:955][192]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2020.04.05-17.43.56:378][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.43.56:655][383]LogActorFactory: Actor Factory created Blocks_CubeBig
+[2020.04.05-17.43.57:266][434]LogActorFactory: Actor Factory created Blocks_CubeBig
+[2020.04.05-17.43.58:664][584]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.44.10:910][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig51)
+[2020.04.05-17.44.36:079][655]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.44.36:382][687]LogActorFactory: Actor Factory created Blocks_Cube
+[2020.04.05-17.44.38:116][800]LogActorFactory: Actor Factory created Blocks_Cube
+[2020.04.05-17.44.44:214][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.45.03:893][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube3)
+[2020.04.05-17.45.07:626][531]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.45.08:875][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube3)
+[2020.04.05-17.45.09:837][725]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.45.12:095][988]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.05-17.45.15:994][380]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.45.20:537][753]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.45.21:291][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube19)
+[2020.04.05-17.45.31:056][907]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.45.31:110][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2020.04.05-17.45.31:475][907]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4FA0FF99C4BA9F34588F527B372B52715.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.45.31:531][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.45.31:753][907]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData9429EACF4637B649F7A7F0B99C032FCB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.45.33:694][125]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.45.33:720][125]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.45.33:720][125]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.45.33:720][125]PIE: New page: PIE session: Level4 (5 Apr 2020 19:45:33)
+[2020.04.05-17.45.33:720][125]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.45.33:736][125]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015543s)
+[2020.04.05-17.45.33:737][125]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.45.33:737][125]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2020.04.05-17.45.33:737][125]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.016624s)
+[2020.04.05-17.45.33:771][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.05-17.45.33:775][125]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.45.33:799][125]LogInit: FAudioDevice initialized.
+[2020.04.05-17.45.33:835][125]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.45.33:849][125]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.45.33
+[2020.04.05-17.45.33:850][125]LogWorld: Bringing up level for play took: 0.012162
+[2020.04.05-17.45.33:865][125]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.817
+[2020.04.05-17.45.33:865][125]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.45.41:283][  4]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.45.41:284][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.45.41:317][  4]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.45.41:318][  4]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.45.41:373][  4]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.45.41:378][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.05-17.45.41:399][  5]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.05-17.45.48:569][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.45.48:739][713]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-17.45.50:855][874]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-17.46.13:280][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.46.14:883][249]Cmd: DELETE
+[2020.04.05-17.46.14:883][249]Cmd: ACTOR DELETE
+[2020.04.05-17.46.14:888][249]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.46.14:921][249]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.05-17.46.14:922][249]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.04.05-17.46.16:878][478]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig51)
+[2020.04.05-17.46.24:105][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig51)
+[2020.04.05-17.46.34:319][169]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.46.34:517][188]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-17.46.37:047][342]LogActorFactory: Actor Factory created Blocks_Cubeup
+[2020.04.05-17.46.49:924][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.47.06:341][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig53)
+[2020.04.05-17.47.13:426][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2020.04.05-17.47.25:200][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig35)
+[2020.04.05-17.48.40:703][126]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.48.43:027][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig55)
+[2020.04.05-17.48.50:349][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.49.09:176][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.49.09:231][896]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.05-17.49.09:608][896]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4CC1CC42541C864A4ACFD468C5152D7B7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.49.09:666][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.49.09:889][896]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData28C6ECB9499D9EB97899E9B3E01AE181.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.49.14:757][279]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.49.14:814][279]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.05-17.49.15:175][279]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level426C0AD434F0E660889297BA3965E08AA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.49.15:233][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.49.15:433][279]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataCB1E11204B3FA8EE87FEC88F1A8475C3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.49.42:338][641]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.49.47:056][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig51)
+[2020.04.05-17.49.53:449][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.50.07:646][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig56)
+[2020.04.05-17.50.14:377][682]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.50.15:222][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig55)
+[2020.04.05-17.50.21:655][477]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.05-17.50.24:568][679]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.50.24:629][679]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.04.05-17.50.25:017][679]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level44771CB594C1847842467018B6583BD74.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.50.25:073][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.50.25:280][679]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataCA0A6811489E7D070012A98DC37DBC6E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.50.27:403][915]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.50.27:429][915]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.50.27:429][915]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.50.27:429][915]PIE: New page: PIE session: Level4 (5 Apr 2020 19:50:27)
+[2020.04.05-17.50.27:429][915]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.50.27:448][915]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018861s)
+[2020.04.05-17.50.27:449][915]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.50.27:449][915]LogPlayLevel: PIE: World Init took: (0.000921s)
+[2020.04.05-17.50.27:449][915]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.019984s)
+[2020.04.05-17.50.27:485][915]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.05-17.50.27:492][915]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.50.27:516][915]LogInit: FAudioDevice initialized.
+[2020.04.05-17.50.27:546][915]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.50.27:561][915]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.50.27
+[2020.04.05-17.50.27:562][915]LogWorld: Bringing up level for play took: 0.013885
+[2020.04.05-17.50.27:578][915]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.896
+[2020.04.05-17.50.27:578][915]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.50.43:932][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.50.43:933][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.50.43:971][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.50.43:971][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.50.44:030][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.50.44:034][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2020.04.05-17.50.44:058][859]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.04.05-17.51.01:666][933]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.51.41:252][664]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.05-17.51.59:003][512]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.05-17.52.01:320][767]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.05-17.52.01:941][837]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.52.02:007][837]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.04.05-17.52.02:400][837]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level49F899336484D79DFAF33DCB29D6CCB45.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.52.02:457][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.52.02:685][837]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData61D21A204396AEB3DBD8648BB310C76E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.52.06:181][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig53)
+[2020.04.05-17.52.16:490][268]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.52.16:555][268]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.05-17.52.16:944][268]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level41FA478BE416402AF7A801187136CA480.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.52.17:001][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.52.17:209][268]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData6121CDFF4D6ED3D5A4F7E5ACF05DB7A1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.52.21:218][526]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig61)
+[2020.04.05-17.52.24:071][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.52.24:130][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2020.04.05-17.52.24:518][842]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level453E87E074BFF69BFD26BB79E054163F6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.52.24:577][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.52.24:780][842]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataACFCCDB9426857C5E4AD0FA5C58DC9B7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.52.32:173][362]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.52.32:231][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.05-17.52.32:619][362]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4AA2FBE83474FF79711CD64A9C9C2C367.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.52.32:675][362]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.52.32:881][362]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataC9D739C049D7915452F24489B4314640.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.52.42:402][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup50)
+[2020.04.05-17.52.50:819][ 87]Cmd: DELETE
+[2020.04.05-17.52.50:819][ 87]Cmd: ACTOR DELETE
+[2020.04.05-17.52.50:826][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:827][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:827][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:827][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:827][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:828][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:828][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:828][ 87]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.05-17.52.50:863][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2020.04.05-17.52.50:864][ 87]LogEditorActor: Deleted 8 Actors (0.044 secs)
+[2020.04.05-17.52.53:421][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.52.53:483][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.04.05-17.52.53:854][340]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level497D7ED0540521D050B7F1E853307BFFF.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.52.53:914][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.52.54:123][340]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataBA190517417A610C9C35F3A73058352E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.52.57:445][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig61)
+[2020.04.05-17.53.01:375][ 18]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.53.01:437][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.05-17.53.01:815][ 18]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4F4D365444DEB880B9589D897B1B2FC16.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.53.01:872][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.53.02:079][ 18]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataF70E294949411E4C816CA2B6CBA5A90B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.53.05:896][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube19)
+[2020.04.05-17.53.25:102][ 38]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.53.25:162][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.05-17.53.25:528][ 38]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4343B5F6547D515103E7C7B8E6D8BD561.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.53.25:586][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.53.25:800][ 38]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataC4987C6F453A28C04ACFC2B1606FFF99.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.53.35:997][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig55)
+[2020.04.05-17.53.45:775][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig60)
+[2020.04.05-17.54.05:669][644]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.54.05:726][644]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.05-17.54.06:108][644]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4560A1E394EEAE18EF5DE8FBF13A8FF4B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.54.06:165][644]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.54.06:383][644]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataC569AF284F797118BD1522B73F1FDF4F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.54.10:278][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig61)
+[2020.04.05-17.54.18:269][656]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.54.18:321][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2020.04.05-17.54.18:708][656]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4EA83FAE049C4EA17F36CF3822256462B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.54.18:766][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.54.18:978][656]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataB5B06D3E43415364D31580A6CC6D9B65.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.54.26:581][281]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.54.28:834][482]LogActorFactory: Actor Factory created Blocks_Scube
+[2020.04.05-17.54.29:913][543]LogActorFactory: Actor Factory created Blocks_Scube
+[2020.04.05-17.54.31:123][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.54.36:591][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.54.46:720][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.54.58:787][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.55.13:862][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-17.55.13:925][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.04.05-17.55.14:306][417]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level461D98F3D4B1D7F3CD987B39422CA1787.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-17.55.14:366][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-17.55.14:572][417]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataDE7D65324DFD6E7E957BEA844362F79D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-17.55.16:486][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.55.16:563][614]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.55.16:589][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.55.16:589][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.55.16:589][614]PIE: New page: PIE session: Level4 (5 Apr 2020 19:55:16)
+[2020.04.05-17.55.16:589][614]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.55.16:606][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016894s)
+[2020.04.05-17.55.16:607][614]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.55.16:608][614]LogPlayLevel: PIE: World Init took: (0.001291s)
+[2020.04.05-17.55.16:608][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.018441s)
+[2020.04.05-17.55.16:643][614]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.05-17.55.16:648][614]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.55.16:671][614]LogInit: FAudioDevice initialized.
+[2020.04.05-17.55.16:703][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.55.16:710][614]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.55.16
+[2020.04.05-17.55.16:711][614]LogWorld: Bringing up level for play took: 0.006003
+[2020.04.05-17.55.16:726][614]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.043
+[2020.04.05-17.55.16:726][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.55.27:888][935]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.55.27:889][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.55.27:921][935]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.55.27:921][935]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.55.27:962][935]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.55.27:966][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2020.04.05-17.55.27:987][936]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2020.04.05-17.55.32:771][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.55.34:032][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Scube5)
+[2020.04.05-17.55.40:096][251]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.55.44:372][697]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/actors/ARC.ARC
+[2020.04.05-17.55.45:182][697]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0050 seconds. Added 121 classes and 0 folders.
+[2020.04.05-17.55.46:916][697]LogSlate: Took 0.008639 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.05-17.57.54:310][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset" SILENT=true
+[2020.04.05-17.57.54:448][132]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC7F6B718049E16B2822DAADA7D120C186.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset'
+[2020.04.05-17.57.55:778][207]BlueprintLog: New page: Compile ARC
+[2020.04.05-17.57.56:089][207]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2020.04.05-17.57.58:172][354]LogSlate: Window 'ARC' being destroyed
+[2020.04.05-17.58.00:093][570]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.58.00:122][570]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.00:122][570]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.58.00:122][570]PIE: New page: PIE session: Level4 (5 Apr 2020 19:58:00)
+[2020.04.05-17.58.00:122][570]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.58.00:148][570]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025870s)
+[2020.04.05-17.58.00:158][570]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.58.00:159][570]LogPlayLevel: PIE: World Init took: (0.010845s)
+[2020.04.05-17.58.00:159][570]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.036939s)
+[2020.04.05-17.58.00:210][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.04.05-17.58.00:217][570]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.58.00:244][570]LogInit: FAudioDevice initialized.
+[2020.04.05-17.58.00:276][570]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.58.00:283][570]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.58.00
+[2020.04.05-17.58.00:284][570]LogWorld: Bringing up level for play took: 0.006937
+[2020.04.05-17.58.00:299][570]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.384
+[2020.04.05-17.58.00:299][570]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.07:972][478]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.07:972][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.58.08:010][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.58.08:010][478]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.08:087][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.58.08:093][478]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.05-17.58.08:117][479]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2020.04.05-17.58.09:090][590]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-17.58.12:709][ 16]LogRenderer: Reallocating scene render targets to support 916x568 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-17.58.20:390][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset" SILENT=true
+[2020.04.05-17.58.20:483][901]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC302998D44F097DD7787F2392D026984F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset'
+[2020.04.05-17.58.25:783][510]BlueprintLog: New page: Compile ARC
+[2020.04.05-17.58.26:060][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.05-17.58.27:002][614]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-17.58.27:030][614]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.27:030][614]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-17.58.27:030][614]PIE: New page: PIE session: Level4 (5 Apr 2020 19:58:27)
+[2020.04.05-17.58.27:030][614]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-17.58.27:048][614]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017657s)
+[2020.04.05-17.58.27:049][614]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-17.58.27:049][614]LogPlayLevel: PIE: World Init took: (0.000688s)
+[2020.04.05-17.58.27:049][614]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.018569s)
+[2020.04.05-17.58.27:100][614]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.04.05-17.58.27:104][614]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-17.58.27:127][614]LogInit: FAudioDevice initialized.
+[2020.04.05-17.58.27:139][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.58.27:230][614]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-17.58.27:241][614]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-18.58.27
+[2020.04.05-17.58.27:241][614]LogWorld: Bringing up level for play took: 0.009704
+[2020.04.05-17.58.27:258][614]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 0.576
+[2020.04.05-17.58.27:258][614]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.27:295][615]LogRenderer: Reallocating scene render targets to support 1016x568 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-17.58.32:248][174]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.32:248][174]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-17.58.32:273][174]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.05-17.58.32:315][174]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-17.58.32:315][174]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-17.58.32:367][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.04.05-17.58.32:385][175]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2020.04.05-17.59.58:071][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Scube5)
+[2020.04.05-18.00.02:327][399]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-18.00.03:815][538]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/models/Meshes/Blocks_Scube.Blocks_Scube
+[2020.04.05-18.00.03:884][538]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.04.05-18.00.05:117][539]LogRenderer: Reallocating scene render targets to support 1084x748 Format 10 NumSamples 1 (Frame:1).
+[2020.04.05-18.00.29:578][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-18.00.55:419][510]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Meshes/Blocks_Scube" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Blocks_Scube.uasset" SILENT=true
+[2020.04.05-18.00.55:470][510]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Blocks_Scube4DE4C2FF49D4C324C17C6BBD40C3B726.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Blocks_Scube.uasset'
+[2020.04.05-18.00.57:881][773]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-18.00.57:910][773]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.00.57:910][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-18.00.57:910][773]PIE: New page: PIE session: Level4 (5 Apr 2020 20:00:57)
+[2020.04.05-18.00.57:910][773]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-18.00.57:928][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018025s)
+[2020.04.05-18.00.57:929][773]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-18.00.57:929][773]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2020.04.05-18.00.57:929][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.018945s)
+[2020.04.05-18.00.57:999][773]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2020.04.05-18.00.58:006][773]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-18.00.58:029][773]LogInit: FAudioDevice initialized.
+[2020.04.05-18.00.58:060][773]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-18.00.58:067][773]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-19.00.58
+[2020.04.05-18.00.58:067][773]LogWorld: Bringing up level for play took: 0.005035
+[2020.04.05-18.00.58:081][773]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.601
+[2020.04.05-18.00.58:082][773]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.01.04:206][495]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.01.04:206][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.01.04:243][495]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-18.01.04:244][495]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.01.04:314][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.01.04:328][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2020.04.05-18.01.04:352][496]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2020.04.05-18.02.18:900][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-18.02.42:708][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset" SILENT=true
+[2020.04.05-18.02.42:813][474]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCB621070F404C4B7D4D0D13A78F036B7D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset'
+[2020.04.05-18.02.43:788][573]BlueprintLog: New page: Compile ARC
+[2020.04.05-18.02.44:101][573]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.04.05-18.02.46:361][831]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-18.02.46:389][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.02.46:389][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-18.02.46:389][831]PIE: New page: PIE session: Level4 (5 Apr 2020 20:02:46)
+[2020.04.05-18.02.46:389][831]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-18.02.46:405][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015977s)
+[2020.04.05-18.02.46:406][831]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-18.02.46:406][831]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2020.04.05-18.02.46:406][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.016973s)
+[2020.04.05-18.02.46:453][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.04.05-18.02.46:458][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-18.02.46:482][831]LogInit: FAudioDevice initialized.
+[2020.04.05-18.02.46:516][831]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-18.02.46:522][831]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-19.02.46
+[2020.04.05-18.02.46:522][831]LogWorld: Bringing up level for play took: 0.005224
+[2020.04.05-18.02.46:537][831]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.145
+[2020.04.05-18.02.46:537][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.02.51:594][424]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.02.51:594][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.02.51:632][424]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-18.02.51:632][424]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.02.51:697][424]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.02.51:703][424]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.05-18.02.51:726][425]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.05-18.02.52:890][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-18.03.10:619][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset" SILENT=true
+[2020.04.05-18.03.10:725][603]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC0EB690974CAD2A9406597F8F7E7359EF.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset'
+[2020.04.05-18.03.13:602][929]BlueprintLog: New page: Compile ARC
+[2020.04.05-18.03.13:907][929]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.04.05-18.03.16:444][223]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.05-18.03.16:480][223]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.03.16:480][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.05-18.03.16:480][223]PIE: New page: PIE session: Level4 (5 Apr 2020 20:03:16)
+[2020.04.05-18.03.16:480][223]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_Level4
+[2020.04.05-18.03.16:498][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017321s)
+[2020.04.05-18.03.16:498][223]LogAIModule: Creating AISystem for world Level4
+[2020.04.05-18.03.16:498][223]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2020.04.05-18.03.16:499][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/Level4.Level4 to /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 (0.018197s)
+[2020.04.05-18.03.16:556][223]LogUObjectHash: Compacting FUObjectHashTables data took   5.80ms
+[2020.04.05-18.03.16:561][223]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.05-18.03.16:582][223]LogInit: FAudioDevice initialized.
+[2020.04.05-18.03.16:615][223]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.05-18.03.16:621][223]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.05-19.03.16
+[2020.04.05-18.03.16:621][223]LogWorld: Bringing up level for play took: 0.005302
+[2020.04.05-18.03.16:637][223]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_Level4 -0.045
+[2020.04.05-18.03.16:637][223]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.03.27:797][545]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.03.27:798][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.03.27:833][545]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.05-18.03.27:834][545]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/testMaps/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/testMaps/Level4.Level4:PersistentLevel.Level4'
+[2020.04.05-18.03.27:899][545]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.05-18.03.27:905][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2020.04.05-18.03.27:929][546]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2020.04.05-18.03.28:796][646]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.05-18.03.28:866][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.05-18.03.29:348][646]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level46CF39BA544924D094FFD1082E8FCC56E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4.umap'
+[2020.04.05-18.03.29:406][646]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/testMaps/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset" SILENT=true
+[2020.04.05-18.03.29:652][646]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData897F9C9B46F51BC2B85023B3E50FFDC9.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/Level4_BuiltData.uasset'
+[2020.04.05-18.03.35:635][356]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.05-18.10.08:675][106]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset" SILENT=true
+[2020.04.05-18.10.08:787][106]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCDA894BE64CE4AF6B3CB3D5A55101AAF2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC.uasset'
+[2020.04.05-18.11.13:098][731]BlueprintLog: New page: Compile ARC
+[2020.04.05-18.11.13:375][731]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
