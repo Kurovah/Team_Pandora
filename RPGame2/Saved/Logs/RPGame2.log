@@ -11018,3 +11018,1486 @@ Script Stack (0 frames):
 [2020.04.06-16.00.44:962][390]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Mainmenu609983FF436EDD1115F02E92D506A7DB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset'
 [2020.04.06-16.00.44:968][390]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/buttonback1_Mat" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/buttonback1_Mat.uasset" SILENT=true
 [2020.04.06-16.00.44:997][390]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/buttonback1_MatCEDD63C646277094639BB385327A05FE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/buttonback1_Mat.uasset'
+[2020.04.06-16.15.07:610][389]BlueprintLog: New page: Compile button
+[2020.04.06-16.15.07:910][389]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2020.04.06-16.18.11:067][280]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2020.04.06-16.18.11:067][280]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/menus/MainMenu' took 0.053
+[2020.04.06-16.18.11:069][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/menucomponents/button] ([1] browsable assets)...
+[2020.04.06-16.18.11:069][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/menucomponents/button]
+[2020.04.06-16.18.11:160][280]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/button_Auto4CFDAE9444589FF36A5FD6A9820B5EFC2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/menucomponents/button_Auto4.uasset'
+[2020.04.06-16.18.11:162][280]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/Mainmenu] ([1] browsable assets)...
+[2020.04.06-16.18.11:162][280]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/Mainmenu]
+[2020.04.06-16.18.11:203][280]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Mainmenu_Auto43B0817F94741E979EEAAA18A89E50E0B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/Mainmenu_Auto4.uasset'
+[2020.04.06-16.18.11:204][280]LogFileHelpers: Auto-saving content packages took 0.137
+[2020.04.06-16.23.23:800][571]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgets/Mainmenu" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset" SILENT=true
+[2020.04.06-16.23.23:844][571]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainmenuE6FFC94E43B02D406B98F287509F509A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset'
+[2020.04.06-16.23.46:800][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgets/Mainmenu" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset" SILENT=true
+[2020.04.06-16.23.46:838][275]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Mainmenu5F0B9F9F43C25758822A158D0163410D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset'
+[2020.04.06-16.23.47:954][406]BlueprintLog: New page: Compile Mainmenu
+[2020.04.06-16.23.48:028][406]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2020.04.06-16.23.57:154][478]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.06-16.23.57:201][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.23.57:202][478]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-16.23.57:202][478]PIE: New page: PIE session: MainMenu (6 Apr 2020 18:23:57)
+[2020.04.06-16.23.57:204][478]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.06-16.23.57:208][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004085s)
+[2020.04.06-16.23.57:216][478]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.06-16.23.57:219][478]LogPlayLevel: PIE: World Init took: (0.010819s)
+[2020.04.06-16.23.57:219][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.015396s)
+[2020.04.06-16.23.57:262][478]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2020.04.06-16.23.57:268][478]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.06-16.23.57:286][478]LogInit: FAudioDevice initialized.
+[2020.04.06-16.23.57:296][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.23.57:334][478]LogLoad: Game class is 'GameModeBase'
+[2020.04.06-16.23.57:337][478]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.06-17.23.57
+[2020.04.06-16.23.57:338][478]LogWorld: Bringing up level for play took: 0.002082
+[2020.04.06-16.23.57:357][478]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.06-16.23.57:372][478]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 1.007
+[2020.04.06-16.23.57:375][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.23.58:458][593]LogNet: Browse: /Game/Maps/Levels/Level4
+[2020.04.06-16.23.58:460][593]LogLoad: LoadMap: /Game/Maps/Levels/Level4
+[2020.04.06-16.23.58:513][593]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.04.06-16.23.58:915][593]LogAIModule: Creating AISystem for world Level4
+[2020.04.06-16.23.58:915][593]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.06-16.23.58:939][593]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.06-17.23.58
+[2020.04.06-16.23.58:940][593]LogWorld: Bringing up level for play took: 0.021275
+[2020.04.06-16.23.58:999][593]LogLoad: Took 0.539708 seconds to LoadMap(/Game/Maps/Levels/Level4)
+[2020.04.06-16.24.07:489][530]LogBlueprintUserMessages: [ARC_C_0] false
+[2020.04.06-16.24.07:498][531]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:510][532]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:518][533]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:527][534]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:537][535]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:546][536]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:553][537]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:563][538]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:571][539]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:580][540]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:587][541]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:597][542]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:605][543]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:614][544]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:621][545]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:632][546]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:640][547]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:649][548]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:658][549]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:668][550]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:677][551]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:685][552]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:695][553]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:703][554]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:713][555]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:720][556]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:730][557]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:738][558]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:747][559]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:755][560]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:766][561]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:775][562]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:784][563]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:793][564]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:802][565]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:812][566]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:819][567]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:828][568]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:837][569]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:846][570]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:853][571]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:863][572]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:871][573]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:880][574]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:888][575]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:899][576]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:907][577]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:916][578]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:924][579]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:935][580]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:944][581]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:953][582]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:963][583]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:972][584]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:982][585]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.07:991][586]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:001][587]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:009][588]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:018][589]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:027][590]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:036][591]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:045][592]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:053][593]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:062][594]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:070][595]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:079][596]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:086][597]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:096][598]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:103][599]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:112][600]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:120][601]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:131][602]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:139][603]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:148][604]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:157][605]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:167][606]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:175][607]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:184][608]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:193][609]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:203][610]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:212][611]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:219][612]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:228][613]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:236][614]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:245][615]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:253][616]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:262][617]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:270][618]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:279][619]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:287][620]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:298][621]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:306][622]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:314][623]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:323][624]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:334][625]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:343][626]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:351][627]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:361][628]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:371][629]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:380][630]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:387][631]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:397][632]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:405][633]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:414][634]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:421][635]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:431][636]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:439][637]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:448][638]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:457][639]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:467][640]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:477][641]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:486][642]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:496][643]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:503][644]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:512][645]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:520][646]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:529][647]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:537][648]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:546][649]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:554][650]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:565][651]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:574][652]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:582][653]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:591][654]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:601][655]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:609][656]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:618][657]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:627][658]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:636][659]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:645][660]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:653][661]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:662][662]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:670][663]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:684][664]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:694][665]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:705][666]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:714][667]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:721][668]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:731][669]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:740][670]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:749][671]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:757][672]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:767][673]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:776][674]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:785][675]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:793][676]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:802][677]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:812][678]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:819][679]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:828][680]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:837][681]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:846][682]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:854][683]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:863][684]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:872][685]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:881][686]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:889][687]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:899][688]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:907][689]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:916][690]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:925][691]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:934][692]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:943][693]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:951][694]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:960][695]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:969][696]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:977][697]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:985][698]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.08:995][699]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:004][700]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:013][701]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:020][702]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:029][703]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:037][704]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:048][705]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:056][706]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:066][707]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:074][708]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:082][709]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:091][710]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:100][711]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:109][712]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:117][713]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:126][714]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:135][715]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:144][716]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:151][717]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:160][718]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:168][719]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:177][720]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:184][721]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:193][722]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:202][723]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:211][724]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:219][725]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:228][726]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:237][727]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:246][728]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:255][729]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:265][730]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:274][731]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:284][732]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:292][733]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:301][734]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:310][735]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:318][736]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:328][737]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:335][738]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:345][739]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:352][740]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:362][741]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:371][742]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:380][743]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:389][744]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:398][745]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:407][746]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:417][747]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:426][748]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:434][749]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:443][750]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:451][751]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:460][752]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:468][753]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:477][754]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:485][755]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:494][756]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:502][757]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:511][758]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:519][759]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:528][760]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:535][761]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:544][762]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:551][763]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:561][764]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:568][765]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:578][766]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:585][767]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:594][768]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:602][769]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:611][770]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:618][771]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:627][772]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:635][773]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:644][774]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:652][775]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:661][776]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:669][777]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:678][778]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:686][779]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:695][780]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:704][781]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:713][782]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:722][783]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:731][784]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:741][785]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:750][786]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:760][787]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:768][788]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:777][789]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:784][790]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:793][791]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:802][792]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:811][793]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:818][794]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:827][795]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:835][796]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:844][797]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:851][798]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:860][799]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:869][800]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:878][801]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:885][802]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:895][803]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:902][804]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:912][805]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:920][806]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:929][807]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:938][808]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:948][809]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:957][810]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:965][811]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:975][812]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:984][813]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.09:993][814]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:002][815]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:012][816]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:020][817]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:029][818]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:038][819]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:048][820]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:057][821]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:065][822]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:074][823]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:084][824]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:093][825]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:101][826]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:110][827]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:118][828]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:127][829]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:134][830]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:144][831]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:152][832]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:160][833]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:168][834]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:178][835]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:185][836]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:194][837]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:202][838]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:212][839]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:219][840]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:228][841]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:236][842]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:246][843]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:254][844]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:263][845]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:271][846]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:281][847]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:291][848]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:299][849]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:307][850]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:317][851]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:326][852]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:333][853]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:343][854]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:351][855]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:361][856]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:368][857]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:378][858]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:385][859]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:394][860]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:401][861]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:413][862]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:428][863]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:437][864]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:447][865]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:455][866]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:464][867]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:473][868]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:484][869]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:494][870]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:501][871]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:511][872]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:519][873]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:528][874]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:535][875]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:544][876]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:551][877]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:561][878]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:568][879]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:579][880]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.10:587][881]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:876][587]LogBlueprintUserMessages: [ARC_C_0] false
+[2020.04.06-16.24.16:885][588]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:894][589]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:902][590]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:910][591]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:920][592]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:928][593]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:937][594]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:955][595]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:964][596]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:972][597]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:981][598]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.16:992][599]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:001][600]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:009][601]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:018][602]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:028][603]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:037][604]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:045][605]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:055][606]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:064][607]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:073][608]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:081][609]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:090][610]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:099][611]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:106][612]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:115][613]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.17:127][614]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.24.18:560][771]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.24.18:560][771]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.24.18:577][771]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.06-16.24.18:618][771]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-16.24.18:618][771]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.24.18:690][771]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2020.04.06-16.24.18:709][772]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2020.04.06-16.24.22:572][232]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.06-16.24.22:608][232]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.24.22:608][232]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-16.24.22:608][232]PIE: New page: PIE session: MainMenu (6 Apr 2020 18:24:22)
+[2020.04.06-16.24.22:608][232]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.06-16.24.22:609][232]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000818s)
+[2020.04.06-16.24.22:609][232]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.06-16.24.22:610][232]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2020.04.06-16.24.22:610][232]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.001511s)
+[2020.04.06-16.24.22:652][232]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.04.06-16.24.22:655][232]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.06-16.24.22:669][232]LogInit: FAudioDevice initialized.
+[2020.04.06-16.24.22:678][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.24.22:712][232]LogLoad: Game class is 'GameModeBase'
+[2020.04.06-16.24.22:713][232]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.06-17.24.22
+[2020.04.06-16.24.22:713][232]LogWorld: Bringing up level for play took: 0.000437
+[2020.04.06-16.24.22:725][232]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.06-16.24.22:730][232]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.365
+[2020.04.06-16.24.22:730][232]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.34:805][815]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.34:805][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.25.34:823][815]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.06-16.25.34:865][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-16.25.34:866][815]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.34:936][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.06-16.25.35:149][816]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2020.04.06-16.25.38:813][101]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.06-16.25.38:851][101]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.38:851][101]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-16.25.38:851][101]PIE: New page: PIE session: MainMenu (6 Apr 2020 18:25:38)
+[2020.04.06-16.25.38:860][101]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.06-16.25.38:861][101]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000960s)
+[2020.04.06-16.25.38:861][101]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.06-16.25.38:861][101]LogPlayLevel: PIE: World Init took: (0.000639s)
+[2020.04.06-16.25.38:862][101]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.001814s)
+[2020.04.06-16.25.38:906][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2020.04.06-16.25.38:909][101]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.06-16.25.38:923][101]LogInit: FAudioDevice initialized.
+[2020.04.06-16.25.38:984][101]LogLoad: Game class is 'GameModeBase'
+[2020.04.06-16.25.38:986][101]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.06-17.25.38
+[2020.04.06-16.25.38:986][101]LogWorld: Bringing up level for play took: 0.000366
+[2020.04.06-16.25.39:001][101]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.636
+[2020.04.06-16.25.39:001][101]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.47:390][869]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.47:391][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.25.47:431][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-16.25.47:431][869]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.47:480][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.25.47:485][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.06-16.25.47:505][870]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2020.04.06-16.25.50:966][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.06-16.25.52:763][451]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.06-16.25.52:801][451]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.25.52:801][451]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.06-16.25.52:802][451]PIE: New page: PIE session: MainMenu (6 Apr 2020 18:25:52)
+[2020.04.06-16.25.52:802][451]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.06-16.25.52:803][451]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000795s)
+[2020.04.06-16.25.52:803][451]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.06-16.25.52:804][451]LogPlayLevel: PIE: World Init took: (0.000937s)
+[2020.04.06-16.25.52:804][451]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.001879s)
+[2020.04.06-16.25.52:856][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.04.06-16.25.52:859][451]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.06-16.25.52:873][451]LogInit: FAudioDevice initialized.
+[2020.04.06-16.25.52:884][451]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.25.52:915][451]LogLoad: Game class is 'GameModeBase'
+[2020.04.06-16.25.52:916][451]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.06-17.25.52
+[2020.04.06-16.25.52:916][451]LogWorld: Bringing up level for play took: 0.000433
+[2020.04.06-16.25.52:929][451]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.06-16.25.52:933][451]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.569
+[2020.04.06-16.25.52:934][451]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.26.24:047][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-16.26.29:050][654]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.06-16.26.37:820][585]LogNet: Browse: /Game/Maps/Levels/Level4
+[2020.04.06-16.26.37:820][585]LogLoad: LoadMap: /Game/Maps/Levels/Level4
+[2020.04.06-16.26.37:872][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2020.04.06-16.26.37:919][585]LogAIModule: Creating AISystem for world Level4
+[2020.04.06-16.26.37:919][585]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.06-16.26.37:926][585]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.06-17.26.37
+[2020.04.06-16.26.37:927][585]LogWorld: Bringing up level for play took: 0.007158
+[2020.04.06-16.26.37:930][585]LogLoad: Took 0.110396 seconds to LoadMap(/Game/Maps/Levels/Level4)
+[2020.04.06-16.26.49:094][700]LogBlueprintUserMessages: [ARC_C_0] false
+[2020.04.06-16.26.49:103][701]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:110][702]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:119][703]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:128][704]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:137][705]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:145][706]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:154][707]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:162][708]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:171][709]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:179][710]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:188][711]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:196][712]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:204][713]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:212][714]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:221][715]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:235][716]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:248][717]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:257][718]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:267][719]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:275][720]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:286][721]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:293][722]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:303][723]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:312][724]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:321][725]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:329][726]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:339][727]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:350][728]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:359][729]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:369][730]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:378][731]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:388][732]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:399][733]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:410][734]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:422][735]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:436][736]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:443][737]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:453][738]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:462][739]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:471][740]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:481][741]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:492][742]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:501][743]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:509][744]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:518][745]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:527][746]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:536][747]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:543][748]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:554][749]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:563][750]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:573][751]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:583][752]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:592][753]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:601][754]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:609][755]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:618][756]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:627][757]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:636][758]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:644][759]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:654][760]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:663][761]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:672][762]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:680][763]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:692][764]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:701][765]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:710][766]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:720][767]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:728][768]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:737][769]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:746][770]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:758][771]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:768][772]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:778][773]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:790][774]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:800][775]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:807][776]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:817][777]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:827][778]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:836][779]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:843][780]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:853][781]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:861][782]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:871][783]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:878][784]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:889][785]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:903][786]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:917][787]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:926][788]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:934][789]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:942][790]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:952][791]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:960][792]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:970][793]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:981][794]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.49:993][795]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:002][796]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:009][797]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:019][798]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:027][799]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:037][800]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:047][801]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:061][802]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:069][803]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:076][804]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:086][805]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:094][806]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:106][807]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:120][808]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:130][809]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:139][810]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:150][811]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:159][812]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:170][813]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:180][814]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:191][815]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:200][816]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:208][817]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:218][818]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:227][819]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:236][820]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:244][821]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:253][822]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:261][823]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:270][824]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:278][825]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:288][826]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:297][827]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:306][828]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:317][829]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:326][830]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:337][831]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:347][832]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:358][833]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:368][834]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:376][835]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:385][836]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:394][837]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:404][838]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:412][839]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:423][840]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:433][841]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:443][842]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:455][843]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:464][844]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:477][845]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:489][846]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:500][847]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:510][848]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:521][849]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:534][850]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:541][851]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:551][852]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:561][853]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:569][854]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:578][855]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:587][856]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:594][857]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:603][858]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:612][859]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:623][860]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:633][861]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:642][862]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:654][863]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:664][864]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:674][865]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:683][866]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:693][867]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:702][868]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:709][869]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:720][870]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:729][871]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:738][872]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:746][873]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:757][874]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:766][875]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:775][876]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:784][877]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:793][878]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:803][879]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:810][880]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:819][881]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:829][882]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:838][883]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:846][884]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:857][885]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:867][886]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:874][887]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:884][888]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:893][889]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:903][890]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:911][891]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:921][892]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:935][893]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:946][894]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:956][895]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:966][896]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:973][897]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:983][898]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.50:992][899]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:001][900]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:009][901]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:018][902]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:027][903]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:036][904]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:043][905]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:054][906]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:064][907]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:073][908]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:083][909]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:092][910]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:102][911]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:110][912]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:119][913]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:127][914]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:137][915]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:146][916]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:158][917]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:166][918]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:174][919]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:184][920]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:193][921]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:202][922]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:210][923]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:220][924]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:227][925]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:237][926]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:246][927]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:257][928]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:266][929]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.51:276][930]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:413][ 46]LogBlueprintUserMessages: [ARC_C_0] false
+[2020.04.06-16.26.52:423][ 47]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:436][ 48]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:449][ 49]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:458][ 50]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:467][ 51]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:481][ 52]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:494][ 53]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:503][ 54]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:517][ 55]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:525][ 56]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:536][ 57]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:543][ 58]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:554][ 59]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:562][ 60]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:576][ 61]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:586][ 62]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:594][ 63]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:603][ 64]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:611][ 65]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:627][ 66]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:637][ 67]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:649][ 68]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:659][ 69]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:669][ 70]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:675][ 71]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:686][ 72]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:694][ 73]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:705][ 74]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:718][ 75]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:726][ 76]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:739][ 77]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:751][ 78]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:760][ 79]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:770][ 80]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:781][ 81]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:791][ 82]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:801][ 83]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:808][ 84]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:821][ 85]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:831][ 86]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:840][ 87]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:854][ 88]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:866][ 89]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:874][ 90]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:884][ 91]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:894][ 92]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:903][ 93]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:911][ 94]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:922][ 95]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:929][ 96]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:941][ 97]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:952][ 98]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:959][ 99]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:970][100]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:984][101]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.52:995][102]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:005][103]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:017][104]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:030][105]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:037][106]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:051][107]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:062][108]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:070][109]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:082][110]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:092][111]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:101][112]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:110][113]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:121][114]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:132][115]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:140][116]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:155][117]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:162][118]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:171][119]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:181][120]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:192][121]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.53:206][122]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:003][378]LogBlueprintUserMessages: [ARC_C_0] false
+[2020.04.06-16.26.56:008][379]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:022][380]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:031][381]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:040][382]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:053][383]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:061][384]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:070][385]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:086][386]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:094][387]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:103][388]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:118][389]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:127][390]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:137][391]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:151][392]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:161][393]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:170][394]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:185][395]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:194][396]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:203][397]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:218][398]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:227][399]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:237][400]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:252][401]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:261][402]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:270][403]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:285][404]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:294][405]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:303][406]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:318][407]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:328][408]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:337][409]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:352][410]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:361][411]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:371][412]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:386][413]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:395][414]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:403][415]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:414][416]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:423][417]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:436][418]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:444][419]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:454][420]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:471][421]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:482][422]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:491][423]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:505][424]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:514][425]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:524][426]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:531][427]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:539][428]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:553][429]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:565][430]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:573][431]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:587][432]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:596][433]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:605][434]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:619][435]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:629][436]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:637][437]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:652][438]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:661][439]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:670][440]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:686][441]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:697][442]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:704][443]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:719][444]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:728][445]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:738][446]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:753][447]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:762][448]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:771][449]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:785][450]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:795][451]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:804][452]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:819][453]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:829][454]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:838][455]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:853][456]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:864][457]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:871][458]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:885][459]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:895][460]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:904][461]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:918][462]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:928][463]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:937][464]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:953][465]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:962][466]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:970][467]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:986][468]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.56:995][469]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:003][470]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:016][471]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:028][472]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:037][473]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:052][474]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:062][475]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:070][476]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:084][477]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:095][478]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:104][479]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:118][480]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:127][481]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:137][482]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:152][483]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:161][484]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:170][485]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:185][486]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:195][487]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:203][488]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:218][489]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:228][490]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:237][491]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:252][492]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:261][493]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:269][494]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:285][495]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:294][496]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:303][497]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:318][498]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:329][499]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:337][500]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:353][501]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:362][502]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:371][503]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:385][504]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:395][505]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:404][506]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:419][507]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:429][508]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:437][509]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:451][510]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:462][511]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:470][512]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:484][513]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:490][514]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:503][515]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:512][516]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:520][517]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:533][518]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:540][519]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:554][520]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:566][521]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:575][522]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:591][523]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:601][524]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:609][525]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:620][526]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:634][527]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:641][528]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:650][529]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:659][530]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:668][531]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:681][532]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:690][533]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:699][534]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:716][535]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:724][536]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:734][537]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:745][538]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:756][539]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:767][540]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:780][541]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:789][542]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:802][543]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:816][544]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:824][545]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:833][546]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:844][547]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:854][548]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:867][549]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:875][550]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:886][551]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:894][552]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:903][553]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:910][554]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:922][555]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:935][556]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:950][557]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:957][558]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:967][559]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:974][560]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:986][561]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.57:999][562]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:007][563]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:019][564]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:032][565]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:039][566]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:052][567]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:059][568]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:070][569]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:085][570]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:094][571]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:101][572]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:110][573]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:121][574]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:133][575]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:142][576]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:151][577]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:160][578]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:172][579]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:184][580]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:195][581]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:203][582]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:211][583]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:225][584]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:234][585]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:244][586]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:254][587]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:269][588]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:275][589]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:284][590]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:293][591]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:304][592]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:317][593]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:328][594]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:336][595]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:348][596]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:358][597]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:368][598]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:375][599]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:385][600]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:393][601]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:404][602]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:416][603]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:425][604]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:434][605]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:444][606]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:453][607]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:467][608]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:478][609]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:487][610]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:495][611]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:507][612]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:517][613]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:525][614]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:536][615]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:552][616]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:560][617]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:568][618]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:578][619]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:588][620]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:597][621]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:608][622]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:618][623]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:626][624]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:636][625]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:643][626]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:656][627]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:668][628]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:681][629]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:689][630]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:701][631]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:714][632]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:722][633]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:734][634]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:749][635]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:760][636]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:769][637]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:781][638]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:791][639]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:802][640]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:809][641]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:822][642]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:837][643]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:849][644]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:858][645]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:867][646]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:879][647]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:888][648]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:899][649]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:907][650]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:917][651]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:925][652]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:936][653]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:950][654]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:958][655]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:968][656]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:978][657]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:987][658]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.58:999][659]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:008][660]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:017][661]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:026][662]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:035][663]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:043][664]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:052][665]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:062][666]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:072][667]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:084][668]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:097][669]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:106][670]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:116][671]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:125][672]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.26.59:137][673]LogBlueprintUserMessages: [ARC_C_0] true
+[2020.04.06-16.27.08:511][630]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.27.08:512][630]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.06-16.27.08:529][630]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.06-16.27.08:570][630]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.06-16.27.08:570][630]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.06-16.27.08:633][630]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.04.06-16.27.08:850][631]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2020.04.06-16.31.09:628][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.06-16.31.09:628][407]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/menus/MainMenu' took 0.041
+[2020.04.06-16.31.09:630][407]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/Mainmenu] ([1] browsable assets)...
+[2020.04.06-16.31.09:630][407]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/Mainmenu]
+[2020.04.06-16.31.09:675][407]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Mainmenu_Auto5818C186E4468CC875A05A58D2CC68993.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/Mainmenu_Auto5.uasset'
+[2020.04.06-16.31.09:677][407]LogFileHelpers: Auto-saving content packages took 0.048
+[2020.04.06-16.36.42:938][817]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.04.06-16.36.43:022][817]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/button4C0378F740579CCAB64D52B172BEDA6E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/menucomponents/button.uasset'
+[2020.04.06-16.36.43:031][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/widgets/Mainmenu" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset" SILENT=true
+[2020.04.06-16.36.43:069][817]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainmenuBD8773BE453F95ED2AD1F2BAA8AB628B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/Mainmenu.uasset'
+[2020.04.06-16.36.44:976][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.06-16.36.46:634][ 34]LogSlate: Window 'RPGame2 - Unreal Editor' being destroyed
+[2020.04.06-16.36.46:639][ 34]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.04.06-16.36.47:187][ 35]Cmd: QUIT_EDITOR
+[2020.04.06-16.36.48:219][ 35]LogExit: Preparing to exit.
+[2020.04.06-16.36.49:510][ 35]LogExit: Editor shut down
+[2020.04.06-16.36.49:520][ 35]LogExit: Transaction tracking system shut down
+[2020.04.06-16.36.51:542][ 35]LogExit: Object subsystem successfully closed.
+[2020.04.06-16.36.51:644][ 35]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.04.06-16.36.51:659][ 35]LogD3D11RHI: Shutdown
+[2020.04.06-16.36.51:659][ 35]LogD3D11RHI: CleanupD3DDevice
+[2020.04.06-16.36.51:680][ 35]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.06-16.36.51:680][ 35]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.06-16.36.51:681][ 35]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.06-16.36.51:681][ 35]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.06-16.36.51:681][ 35]LogRendererCore: FGlobalReadBuffer::ReleaseRHI
+[2020.04.06-16.36.51:681][ 35]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.04.06-16.36.51:992][ 35]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.04.06-16.36.52:246][ 35]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (660)
+[2020.04.06-16.36.52:247][ 35]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (658)
+[2020.04.06-16.36.52:247][ 35]LogModuleManager: Shutting down and abandoning module Voice (656)
+[2020.04.06-16.36.52:248][ 35]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (654)
+[2020.04.06-16.36.52:248][ 35]LogModuleManager: Shutting down and abandoning module MeshBuilder (652)
+[2020.04.06-16.36.52:248][ 35]LogModuleManager: Shutting down and abandoning module FontEditor (650)
+[2020.04.06-16.36.52:251][ 35]LogModuleManager: Shutting down and abandoning module DataTableEditor (648)
+[2020.04.06-16.36.52:253][ 35]LogModuleManager: Shutting down and abandoning module SequencerWidgets (646)
+[2020.04.06-16.36.52:253][ 35]LogModuleManager: Shutting down and abandoning module StatsViewer (644)
+[2020.04.06-16.36.52:255][ 35]LogModuleManager: Shutting down and abandoning module BlueprintGraph (642)
+[2020.04.06-16.36.52:257][ 35]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (640)
+[2020.04.06-16.36.52:258][ 35]LogModuleManager: Shutting down and abandoning module SceneOutliner (638)
+[2020.04.06-16.36.52:258][ 35]LogModuleManager: Shutting down and abandoning module AddContentDialog (636)
+[2020.04.06-16.36.52:287][ 35]LogModuleManager: Shutting down and abandoning module WidgetCarousel (635)
+[2020.04.06-16.36.52:287][ 35]LogModuleManager: Shutting down and abandoning module EditorWidgets (632)
+[2020.04.06-16.36.52:287][ 35]LogModuleManager: Shutting down and abandoning module CollectionManager (630)
+[2020.04.06-16.36.52:288][ 35]LogModuleManager: Shutting down and abandoning module FoliageEdit (628)
+[2020.04.06-16.36.52:288][ 35]LogModuleManager: Shutting down and abandoning module LandscapeEditor (626)
+[2020.04.06-16.36.52:295][ 35]LogModuleManager: Shutting down and abandoning module MeshPaintMode (624)
+[2020.04.06-16.36.52:296][ 35]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (622)
+[2020.04.06-16.36.52:296][ 35]LogModuleManager: Shutting down and abandoning module ActorPickerMode (620)
+[2020.04.06-16.36.52:296][ 35]LogModuleManager: Shutting down and abandoning module GeometryMode (618)
+[2020.04.06-16.36.52:296][ 35]LogModuleManager: Shutting down and abandoning module TextureAlignMode (616)
+[2020.04.06-16.36.52:296][ 35]LogModuleManager: Shutting down and abandoning module BspMode (614)
+[2020.04.06-16.36.52:297][ 35]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (612)
+[2020.04.06-16.36.52:298][ 35]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (610)
+[2020.04.06-16.36.52:298][ 35]LogModuleManager: Shutting down and abandoning module AutomationWorker (608)
+[2020.04.06-16.36.52:299][ 35]LogModuleManager: Shutting down and abandoning module OculusMR (606)
+[2020.04.06-16.36.52:299][ 35]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (604)
+[2020.04.06-16.36.52:299][ 35]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (602)
+[2020.04.06-16.36.52:300][ 35]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (600)
+[2020.04.06-16.36.52:307][ 35]LogModuleManager: Shutting down and abandoning module PlacementMode (599)
+[2020.04.06-16.36.52:307][ 35]LogModuleManager: Shutting down and abandoning module MaterialEditor (598)
+[2020.04.06-16.36.52:309][ 35]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (594)
+[2020.04.06-16.36.52:311][ 35]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (592)
+[2020.04.06-16.36.52:311][ 35]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (590)
+[2020.04.06-16.36.52:311][ 35]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (588)
+[2020.04.06-16.36.52:311][ 35]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (586)
+[2020.04.06-16.36.52:311][ 35]LogModuleManager: Shutting down and abandoning module WebMMedia (584)
+[2020.04.06-16.36.52:312][ 35]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (582)
+[2020.04.06-16.36.52:313][ 35]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (580)
+[2020.04.06-16.36.52:315][ 35]LogModuleManager: Shutting down and abandoning module SequenceRecorder (579)
+[2020.04.06-16.36.52:315][ 35]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (576)
+[2020.04.06-16.36.52:315][ 35]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (574)
+[2020.04.06-16.36.52:315][ 35]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (572)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (570)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (568)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (566)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (564)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (562)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (560)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (558)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (556)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module CharacterAI (554)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module SmartSnapping (552)
+[2020.04.06-16.36.52:316][ 35]LogModuleManager: Shutting down and abandoning module SessionServices (550)
+[2020.04.06-16.36.52:368][ 35]LogModuleManager: Shutting down and abandoning module MeshPaint (548)
+[2020.04.06-16.36.52:368][ 35]LogModuleManager: Shutting down and abandoning module ViewportSnapping (546)
+[2020.04.06-16.36.52:368][ 35]LogModuleManager: Shutting down and abandoning module ViewportInteraction (544)
+[2020.04.06-16.36.52:369][ 35]LogModuleManager: Shutting down and abandoning module ClothPainter (542)
+[2020.04.06-16.36.52:372][ 35]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (541)
+[2020.04.06-16.36.52:375][ 35]LogModuleManager: Shutting down and abandoning module LogVisualizer (538)
+[2020.04.06-16.36.52:378][ 35]LogModuleManager: Shutting down and abandoning module IntroTutorials (536)
+[2020.04.06-16.36.52:388][ 35]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (535)
+[2020.04.06-16.36.52:390][ 35]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (532)
+[2020.04.06-16.36.52:390][ 35]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (530)
+[2020.04.06-16.36.52:391][ 35]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (528)
+[2020.04.06-16.36.52:391][ 35]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (526)
+[2020.04.06-16.36.52:392][ 35]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (525)
+[2020.04.06-16.36.53:573][ 35]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (522)
+[2020.04.06-16.36.53:573][ 35]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (520)
+[2020.04.06-16.36.53:573][ 35]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (518)
+[2020.04.06-16.36.53:574][ 35]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (516)
+[2020.04.06-16.36.53:574][ 35]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (514)
+[2020.04.06-16.36.53:574][ 35]LogModuleManager: Shutting down and abandoning module InputBindingEditor (512)
+[2020.04.06-16.36.53:576][ 35]LogModuleManager: Shutting down and abandoning module MergeActors (510)
+[2020.04.06-16.36.53:577][ 35]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (508)
+[2020.04.06-16.36.53:579][ 35]LogModuleManager: Shutting down and abandoning module LocalizationService (507)
+[2020.04.06-16.36.53:579][ 35]LogModuleManager: Shutting down and abandoning module HardwareTargeting (504)
+[2020.04.06-16.36.53:579][ 35]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (502)
+[2020.04.06-16.36.53:581][ 35]LogModuleManager: Shutting down and abandoning module UndoHistory (500)
+[2020.04.06-16.36.53:582][ 35]LogModuleManager: Shutting down and abandoning module XmlParser (498)
+[2020.04.06-16.36.53:583][ 35]LogModuleManager: Shutting down and abandoning module Blutility (496)
+[2020.04.06-16.36.53:583][ 35]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (494)
+[2020.04.06-16.36.53:584][ 35]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (493)
+[2020.04.06-16.36.53:588][ 35]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (490)
+[2020.04.06-16.36.53:588][ 35]LogModuleManager: Shutting down and abandoning module SettingsEditor (488)
+[2020.04.06-16.36.53:589][ 35]LogModuleManager: Shutting down and abandoning module ProjectLauncher (486)
+[2020.04.06-16.36.53:590][ 35]LogModuleManager: Shutting down and abandoning module SessionFrontend (484)
+[2020.04.06-16.36.53:591][ 35]LogModuleManager: Shutting down and abandoning module ProfilerClient (482)
+[2020.04.06-16.36.53:592][ 35]LogModuleManager: Shutting down and abandoning module DeviceManager (480)
+[2020.04.06-16.36.53:593][ 35]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (479)
+[2020.04.06-16.36.53:649][ 35]LogModuleManager: Shutting down and abandoning module AutomationController (476)
+[2020.04.06-16.36.53:650][ 35]LogModuleManager: Shutting down and abandoning module AutomationWindow (474)
+[2020.04.06-16.36.53:651][ 35]LogModuleManager: Shutting down and abandoning module Layers (472)
+[2020.04.06-16.36.53:653][ 35]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (470)
+[2020.04.06-16.36.53:653][ 35]LogModuleManager: Shutting down and abandoning module DetailCustomizations (468)
+[2020.04.06-16.36.53:654][ 35]LogModuleManager: Shutting down and abandoning module PackagesDialog (466)
+[2020.04.06-16.36.53:657][ 35]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (464)
+[2020.04.06-16.36.53:659][ 35]LogModuleManager: Shutting down and abandoning module Persona (462)
+[2020.04.06-16.36.53:664][ 35]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (461)
+[2020.04.06-16.36.53:664][ 35]LogModuleManager: Shutting down and abandoning module AnimGraph (459)
+[2020.04.06-16.36.53:664][ 35]LogModuleManager: Shutting down and abandoning module Kismet (456)
+[2020.04.06-16.36.53:769][ 35]LogModuleManager: Shutting down and abandoning module GraphEditor (454)
+[2020.04.06-16.36.53:769][ 35]LogModuleManager: Shutting down and abandoning module ClassViewer (452)
+[2020.04.06-16.36.53:780][ 35]LogModuleManager: Shutting down and abandoning module Toolbox (450)
+[2020.04.06-16.36.53:781][ 35]LogModuleManager: Shutting down and abandoning module ModuleUI (448)
+[2020.04.06-16.36.53:781][ 35]LogModuleManager: Shutting down and abandoning module MovieSceneTools (446)
+[2020.04.06-16.36.53:782][ 35]LogModuleManager: Shutting down and abandoning module OutputLog (444)
+[2020.04.06-16.36.53:782][ 35]LogModuleManager: Shutting down and abandoning module GammaUI (442)
+[2020.04.06-16.36.53:783][ 35]LogModuleManager: Shutting down and abandoning module Documentation (440)
+[2020.04.06-16.36.53:793][ 35]LogModuleManager: Shutting down and abandoning module LiveCoding (438)
+[2020.04.06-16.36.53:794][ 35]LogModuleManager: Shutting down and abandoning module LevelSequence (436)
+[2020.04.06-16.36.53:794][ 35]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (434)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module MovieScene (432)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (430)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module LauncherPlatform (428)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module AnalyticsET (426)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module PortalServices (424)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module PortalRpc (422)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module MessagingRpc (420)
+[2020.04.06-16.36.53:795][ 35]LogModuleManager: Shutting down and abandoning module AIModule (418)
+[2020.04.06-16.36.53:796][ 35]LogModuleManager: Shutting down and abandoning module GameplayDebugger (417)
+[2020.04.06-16.36.53:797][ 35]LogModuleManager: Shutting down and abandoning module AITestSuite (415)
+[2020.04.06-16.36.53:797][ 35]LogModuleManager: Shutting down and abandoning module NavigationSystem (413)
+[2020.04.06-16.36.53:798][ 35]LogModuleManager: Shutting down and abandoning module DesktopPlatform (410)
+[2020.04.06-16.36.53:799][ 35]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (408)
+[2020.04.06-16.36.53:802][ 35]LogModuleManager: Shutting down and abandoning module ProfilerService (406)
+[2020.04.06-16.36.53:871][ 35]LogModuleManager: Shutting down and abandoning module TaskGraph (404)
+[2020.04.06-16.36.53:872][ 35]LogModuleManager: Shutting down and abandoning module SteamVRController (402)
+[2020.04.06-16.36.53:872][ 35]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (400)
+[2020.04.06-16.36.53:873][ 35]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (398)
+[2020.04.06-16.36.53:873][ 35]LogModuleManager: Shutting down and abandoning module OculusEditor (396)
+[2020.04.06-16.36.53:875][ 35]LogModuleManager: Shutting down and abandoning module OculusInput (394)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (392)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module EditableMesh (390)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (388)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module CableComponent (386)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module AudioCapture (384)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (382)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module AndroidPermission (380)
+[2020.04.06-16.36.53:876][ 35]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (378)
+[2020.04.06-16.36.53:877][ 35]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (376)
+[2020.04.06-16.36.53:880][ 35]LogModuleManager: Shutting down and abandoning module MediaCompositing (374)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module LinearTimecode (372)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module ImgMedia (370)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (368)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (366)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (364)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2020.04.06-16.36.53:881][ 35]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2020.04.06-16.36.53:882][ 35]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2020.04.06-16.36.53:882][ 35]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (352)
+[2020.04.06-16.36.53:882][ 35]LogModuleManager: Shutting down and abandoning module AppleImageUtils (350)
+[2020.04.06-16.36.53:882][ 35]LogModuleManager: Shutting down and abandoning module AlembicImporter (348)
+[2020.04.06-16.36.53:882][ 35]LogModuleManager: Shutting down and abandoning module AlembicLibrary (347)
+[2020.04.06-16.36.53:883][ 35]LogModuleManager: Shutting down and abandoning module GeometryCache (346)
+[2020.04.06-16.36.53:883][ 35]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (345)
+[2020.04.06-16.36.53:883][ 35]LogModuleManager: Shutting down and abandoning module VariantManagerContent (340)
+[2020.04.06-16.36.53:883][ 35]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (338)
+[2020.04.06-16.36.53:884][ 35]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (336)
+[2020.04.06-16.36.53:884][ 35]LogModuleManager: Shutting down and abandoning module PluginBrowser (334)
+[2020.04.06-16.36.53:888][ 35]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (332)
+[2020.04.06-16.36.53:889][ 35]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (330)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2020.04.06-16.36.53:890][ 35]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2020.04.06-16.36.53:892][ 35]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2020.04.06-16.36.53:895][ 35]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2020.04.06-16.36.53:897][ 35]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2020.04.06-16.36.53:901][ 35]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2020.04.06-16.36.53:901][ 35]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (308)
+[2020.04.06-16.36.53:901][ 35]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (306)
+[2020.04.06-16.36.53:902][ 35]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (304)
+[2020.04.06-16.36.53:902][ 35]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (302)
+[2020.04.06-16.36.53:902][ 35]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (300)
+[2020.04.06-16.36.53:902][ 35]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (298)
+[2020.04.06-16.36.53:903][ 35]LogModuleManager: Shutting down and abandoning module Paper2DEditor (296)
+[2020.04.06-16.36.53:906][ 35]LogModuleManager: Shutting down and abandoning module SignificanceManager (294)
+[2020.04.06-16.36.53:906][ 35]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (292)
+[2020.04.06-16.36.53:906][ 35]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (290)
+[2020.04.06-16.36.53:907][ 35]LogModuleManager: Shutting down and abandoning module PhysXVehicles (288)
+[2020.04.06-16.36.53:907][ 35]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (286)
+[2020.04.06-16.36.53:907][ 35]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2020.04.06-16.36.53:907][ 35]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2020.04.06-16.36.54:008][ 35]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2020.04.06-16.36.54:126][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (278)
+[2020.04.06-16.36.54:126][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (276)
+[2020.04.06-16.36.54:126][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (274)
+[2020.04.06-16.36.54:127][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (272)
+[2020.04.06-16.36.54:128][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapController (270)
+[2020.04.06-16.36.54:132][ 35]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.04.06-16.36.54:133][ 35]LogModuleManager: Shutting down and abandoning module MagicLeapAR (268)
+[2020.04.06-16.36.54:133][ 35]LogModuleManager: Shutting down and abandoning module AugmentedReality (267)
+[2020.04.06-16.36.54:133][ 35]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (264)
+[2020.04.06-16.36.54:133][ 35]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (262)
+[2020.04.06-16.36.54:134][ 35]LogModuleManager: Shutting down and abandoning module FacialAnimation (260)
+[2020.04.06-16.36.54:135][ 35]LogModuleManager: Shutting down and abandoning module DataValidation (258)
+[2020.04.06-16.36.54:135][ 35]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (256)
+[2020.04.06-16.36.54:137][ 35]LogModuleManager: Shutting down and abandoning module LevelEditor (255)
+[2020.04.06-16.36.54:149][ 35]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (254)
+[2020.04.06-16.36.54:150][ 35]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (252)
+[2020.04.06-16.36.54:154][ 35]LogModuleManager: Shutting down and abandoning module MainFrame (250)
+[2020.04.06-16.36.54:156][ 35]LogModuleManager: Shutting down and abandoning module HotReload (249)
+[2020.04.06-16.36.54:158][ 35]LogModuleManager: Shutting down and abandoning module ContentBrowser (245)
+[2020.04.06-16.36.54:170][ 35]LogModuleManager: Shutting down and abandoning module TreeMap (243)
+[2020.04.06-16.36.54:171][ 35]LogModuleManager: Shutting down and abandoning module AnimationSharing (240)
+[2020.04.06-16.36.54:171][ 35]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2020.04.06-16.36.54:171][ 35]LogModuleManager: Shutting down and abandoning module AISupportModule (236)
+[2020.04.06-16.36.54:171][ 35]LogModuleManager: Shutting down and abandoning module Paper2D (234)
+[2020.04.06-16.36.54:172][ 35]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (232)
+[2020.04.06-16.36.54:173][ 35]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (230)
+[2020.04.06-16.36.54:173][ 35]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2020.04.06-16.36.54:173][ 35]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2020.04.06-16.36.54:173][ 35]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2020.04.06-16.36.54:193][ 35]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2020.04.06-16.36.54:224][ 35]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2020.04.06-16.36.54:224][ 35]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2020.04.06-16.36.54:225][ 35]LogModuleManager: Shutting down and abandoning module VREditor (216)
+[2020.04.06-16.36.54:265][ 35]LogModuleManager: Shutting down and abandoning module StringTableEditor (214)
+[2020.04.06-16.36.54:311][ 35]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (212)
+[2020.04.06-16.36.54:311][ 35]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (210)
+[2020.04.06-16.36.54:328][ 35]LogModuleManager: Shutting down and abandoning module FunctionalTesting (208)
+[2020.04.06-16.36.54:331][ 35]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (206)
+[2020.04.06-16.36.54:345][ 35]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (205)
+[2020.04.06-16.36.54:370][ 35]LogModuleManager: Shutting down and abandoning module UMG (202)
+[2020.04.06-16.36.54:370][ 35]LogModuleManager: Shutting down and abandoning module UMGEditor (201)
+[2020.04.06-16.36.54:371][ 35]LogModuleManager: Shutting down and abandoning module Sequencer (200)
+[2020.04.06-16.36.54:372][ 35]LogModuleManager: Shutting down and abandoning module MessageLog (197)
+[2020.04.06-16.36.54:372][ 35]LogModuleManager: Shutting down and abandoning module SlateReflector (192)
+[2020.04.06-16.36.54:381][ 35]LogModuleManager: Shutting down and abandoning module Slate (190)
+[2020.04.06-16.36.54:381][ 35]LogModuleManager: Shutting down and abandoning module EditorStyle (188)
+[2020.04.06-16.36.54:501][ 35]LogModuleManager: Shutting down and abandoning module UnrealEd (186)
+[2020.04.06-16.36.54:510][ 35]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2020.04.06-16.36.54:510][ 35]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2020.04.06-16.36.54:510][ 35]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2020.04.06-16.36.54:520][ 35]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2020.04.06-16.36.54:520][ 35]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2020.04.06-16.36.54:520][ 35]LogModuleManager: Shutting down and abandoning module Core (174)
+[2020.04.06-16.36.54:520][ 35]LogModuleManager: Shutting down and abandoning module KismetCompiler (172)
+[2020.04.06-16.36.54:520][ 35]LogModuleManager: Shutting down and abandoning module MeshUtilities (170)
+[2020.04.06-16.36.54:524][ 35]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (169)
+[2020.04.06-16.36.54:530][ 35]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (168)
+[2020.04.06-16.36.54:531][ 35]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (167)
+[2020.04.06-16.36.54:540][ 35]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (165)
+[2020.04.06-16.36.54:553][ 35]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (163)
+[2020.04.06-16.36.54:562][ 35]LogModuleManager: Shutting down and abandoning module MaterialBaking (159)
+[2020.04.06-16.36.54:569][ 35]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2020.04.06-16.36.54:597][ 35]LogDerivedDataCache: Shutdown
+[2020.04.06-16.36.54:597][ 35]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2020.04.06-16.36.54:601][ 35]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2020.04.06-16.36.54:609][ 35]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2020.04.06-16.36.54:619][ 35]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2020.04.06-16.36.54:631][ 35]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2020.04.06-16.36.54:635][ 35]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2020.04.06-16.36.54:636][ 35]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2020.04.06-16.36.54:637][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2020.04.06-16.36.54:641][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2020.04.06-16.36.54:654][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2020.04.06-16.36.54:654][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2020.04.06-16.36.54:666][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2020.04.06-16.36.54:666][ 35]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2020.04.06-16.36.54:666][ 35]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2020.04.06-16.36.54:667][ 35]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2020.04.06-16.36.54:678][ 35]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2020.04.06-16.36.54:678][ 35]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2020.04.06-16.36.54:678][ 35]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (119)
+[2020.04.06-16.36.54:838][ 35]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2020.04.06-16.36.54:838][ 35]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2020.04.06-16.36.54:838][ 35]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2020.04.06-16.36.54:838][ 35]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2020.04.06-16.36.54:838][ 35]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2020.04.06-16.36.54:851][ 35]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2020.04.06-16.36.54:851][ 35]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2020.04.06-16.36.54:859][ 35]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2020.04.06-16.36.54:860][ 35]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (101)
+[2020.04.06-16.36.54:912][ 35]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (99)
+[2020.04.06-16.36.54:913][ 35]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (97)
+[2020.04.06-16.36.54:913][ 35]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (95)
+[2020.04.06-16.36.54:914][ 35]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (93)
+[2020.04.06-16.36.54:914][ 35]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (91)
+[2020.04.06-16.36.54:914][ 35]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (89)
+[2020.04.06-16.36.54:915][ 35]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (87)
+[2020.04.06-16.36.54:915][ 35]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (85)
+[2020.04.06-16.36.54:915][ 35]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (83)
+[2020.04.06-16.36.54:915][ 35]LogModuleManager: Shutting down and abandoning module InputCore (80)
+[2020.04.06-16.36.54:915][ 35]LogModuleManager: Shutting down and abandoning module Settings (78)
+[2020.04.06-16.36.54:916][ 35]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (76)
+[2020.04.06-16.36.54:918][ 35]LogModuleManager: Shutting down and abandoning module PhysXCooking (74)
+[2020.04.06-16.36.54:918][ 35]LogModuleManager: Shutting down and abandoning module SteamVR (72)
+[2020.04.06-16.36.54:918][ 35]LogHMD: Freeing OpenVRDLLHandle.
+[2020.04.06-16.36.54:918][ 35]LogModuleManager: Shutting down and abandoning module OculusHMD (70)
+[2020.04.06-16.36.54:919][ 35]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (68)
+[2020.04.06-16.36.54:919][ 35]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (66)
+[2020.04.06-16.36.54:919][ 35]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (64)
+[2020.04.06-16.36.54:919][ 35]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (60)
+[2020.04.06-16.36.54:921][ 35]LogModuleManager: Shutting down and abandoning module XMPP (55)
+[2020.04.06-16.36.54:922][ 35]LogModuleManager: Shutting down and abandoning module WebSockets (54)
+[2020.04.06-16.36.54:952][ 35]LogModuleManager: Shutting down and abandoning module HTTP (51)
+[2020.04.06-16.36.54:953][ 35]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.04.06-16.36.54:953][ 35]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF667D8B6-45D1-A085-AB0D-A98B09B50595%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2468d657458d7c265741b096f3940825%7Ca6c340edab2b4ae281f9adb0290d3f33%7C4bffe0fa-036a-4855-8c82-96f544d91d42&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.06-16.36.54:953][ 35]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF667D8B6-45D1-A085-AB0D-A98B09B50595%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2468d657458d7c265741b096f3940825%7Ca6c340edab2b4ae281f9adb0290d3f33%7C4bffe0fa-036a-4855-8c82-96f544d91d42&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.04.06-16.36.54:976][ 35]LogModuleManager: Shutting down and abandoning module SSL (50)
+[2020.04.06-16.36.54:991][ 35]LogModuleManager: Shutting down and abandoning module WmfMedia (46)
+[2020.04.06-16.36.54:994][ 35]LogModuleManager: Shutting down and abandoning module Media (45)
+[2020.04.06-16.36.55:002][ 35]LogModuleManager: Shutting down and abandoning module MagicLeap (42)
+[2020.04.06-16.36.55:003][ 35]LogModuleManager: Shutting down and abandoning module DatasmithContent (40)
+[2020.04.06-16.36.55:003][ 35]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.04.06-16.36.55:005][ 35]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.04.06-16.36.55:012][ 35]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.04.06-16.36.55:020][ 35]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.04.06-16.36.55:020][ 35]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.04.06-16.36.55:021][ 35]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.04.06-16.36.55:021][ 35]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.04.06-16.36.55:052][ 35]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.04.06-16.36.55:053][ 35]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.04.06-16.36.55:053][ 35]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.04.06-16.36.55:053][ 35]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.04.06-16.36.55:054][ 35]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.04.06-16.36.55:056][ 35]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.04.06-16.36.55:057][ 35]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.04.06-16.36.55:057][ 35]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.04.06-16.36.55:057][ 35]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.04.06-16.36.55:057][ 35]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.04.06-16.36.55:058][ 35]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.04.06-16.36.55:060][ 35]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.04.06-16.36.55:073][ 35]LogExit: Exiting.
+[2020.04.06-16.36.55:148][ 35]Log file closed, 04/06/20 17:36:55
