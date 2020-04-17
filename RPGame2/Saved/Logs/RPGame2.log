@@ -2350,3 +2350,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.17-17.28.31:496][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
 [2020.04.17-17.28.31:546][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
 [2020.04.17-17.28.31:573][737]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.04.17-17.29.27:799][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2020.04.17-17.29.27:799][ 63]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.037
+[2020.04.17-17.29.27:801][ 63]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/testARC/animations/ARCtypeTABP] ([1] browsable assets)...
+[2020.04.17-17.29.27:835][ 63]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/models/testARC/animations/ARCtypeTABP.ARCtypeTABP]
+[2020.04.17-17.29.27:835][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/testARC/animations/ARCtypeTABP]
+[2020.04.17-17.29.27:945][ 63]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCtypeTABP_Auto532168E2B404C1E7BCD25D9BF719C696A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/testARC/animations/ARCtypeTABP_Auto5.uasset'
+[2020.04.17-17.29.27:947][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/actors/ARCChar] ([1] browsable assets)...
+[2020.04.17-17.29.27:947][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/actors/ARCChar]
+[2020.04.17-17.29.28:075][ 63]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar_Auto5D6AD9E6D4AF54CDBA6FE1FA9656BCAEC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/actors/ARCChar_Auto5.uasset'
+[2020.04.17-17.29.28:078][ 63]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/Wallride] ([1] browsable assets)...
+[2020.04.17-17.29.28:078][ 63]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/Wallride]
+[2020.04.17-17.29.28:128][ 63]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Wallride_Auto5B780485447A680ECEB53DDB833436BED.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/Components/Wallride_Auto5.uasset'
+[2020.04.17-17.29.28:130][ 63]LogFileHelpers: Auto-saving content packages took 0.330
