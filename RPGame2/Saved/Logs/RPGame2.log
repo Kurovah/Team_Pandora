@@ -2296,3 +2296,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.17-17.24.55:214][683]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
 [2020.04.17-17.24.55:286][683]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
 [2020.04.17-17.24.55:322][684]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2020.04.17-17.26.54:592][ 10]BlueprintLog: New page: Compile ARCChar
+[2020.04.17-17.26.54:839][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.17-17.26.56:099][ 77]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-17.26.56:131][ 77]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.26.56:132][ 77]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-17.26.56:132][ 77]PIE: New page: PIE session: Level4 (17 Apr 2020 19:26:56)
+[2020.04.17-17.26.56:132][ 77]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.17-17.26.56:142][ 77]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010039s)
+[2020.04.17-17.26.56:142][ 77]LogAIModule: Creating AISystem for world Level4
+[2020.04.17-17.26.56:143][ 77]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2020.04.17-17.26.56:143][ 77]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.010739s)
+[2020.04.17-17.26.56:182][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.17-17.26.56:185][ 77]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.26.56:200][ 77]LogInit: FAudioDevice initialized.
+[2020.04.17-17.26.56:208][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.26.56:242][ 77]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.17-17.26.56:247][ 77]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.17-18.26.56
+[2020.04.17-17.26.56:248][ 77]LogWorld: Bringing up level for play took: 0.005391
+[2020.04.17-17.26.56:265][ 77]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 1.117
+[2020.04.17-17.26.56:265][ 77]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.27.09:802][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.27.09:802][889]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.27.09:820][889]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.17-17.27.09:861][889]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-17.27.09:862][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.27.09:910][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.17-17.27.09:934][890]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2020.04.17-17.28.19:873][ 78]BlueprintLog: New page: Compile ARCChar
+[2020.04.17-17.28.20:105][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.04.17-17.28.21:281][139]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.17-17.28.21:313][139]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.28.21:313][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.17-17.28.21:314][139]PIE: New page: PIE session: Level4 (17 Apr 2020 19:28:21)
+[2020.04.17-17.28.21:314][139]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.17-17.28.21:324][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009999s)
+[2020.04.17-17.28.21:324][139]LogAIModule: Creating AISystem for world Level4
+[2020.04.17-17.28.21:324][139]LogPlayLevel: PIE: World Init took: (0.000520s)
+[2020.04.17-17.28.21:324][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.010663s)
+[2020.04.17-17.28.21:361][139]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.17-17.28.21:364][139]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.17-17.28.21:377][139]LogInit: FAudioDevice initialized.
+[2020.04.17-17.28.21:384][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.28.21:419][139]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.17-17.28.21:424][139]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.17-18.28.21
+[2020.04.17-17.28.21:425][139]LogWorld: Bringing up level for play took: 0.005224
+[2020.04.17-17.28.21:442][139]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.294
+[2020.04.17-17.28.21:442][139]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.28.31:441][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.28.31:442][736]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.17-17.28.31:459][736]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.17-17.28.31:496][736]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.17-17.28.31:496][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.17-17.28.31:546][736]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.17-17.28.31:573][737]LogPlayLevel: Display: Destroying online subsystem :Context_77
