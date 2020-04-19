@@ -1,4 +1,4 @@
-﻿Log file open, 04/18/20 23:36:17
+﻿Log file open, 04/20/20 00:28:53
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: RPGame2
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.407334
+LogStats: Stats thread started at 0.364850
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,595 +156,691 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.04.18-22.36.18:327][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.04.18-22.36.18:327][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.04.18-22.36.18:327][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:327][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.04.18-22.36.18:327][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.04.18-22.36.18:328][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.04.18-22.36.18:329][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:329][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:334][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.18-22.36.18:334][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.18-22.36.18:335][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.18-22.36.18:336][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.18-22.36.18:337][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:338][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.18-22.36.18:338][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.18-22.36.18:338][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.18-22.36.18:338][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.04.18-22.36.18:383][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2020.04.18-22.36.18:383][  0]LogInit: Going up to parent DeviceProfile []
-[2020.04.18-22.36.18:383][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.18-22.36.18:383][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.18-22.36.18:384][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.18-22.36.18:385][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.18-22.36.18:386][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.18-22.36.18:386][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.18-22.36.18:386][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.18-22.36.18:386][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.04.18-22.36.18:386][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.04.18-22.36.18:386][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.04.18-22.36.18:386][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.18-22.36.18:386][  0]LogInit: Computer: LAPTOP-I19E2VM6
-[2020.04.18-22.36.18:386][  0]LogInit: User: danny
-[2020.04.18-22.36.18:386][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.04.18-22.36.18:386][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.04.18-22.36.18:387][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
-[2020.04.18-22.36.18:387][  0]LogMemory: Platform Memory Stats for Windows
-[2020.04.18-22.36.18:387][  0]LogMemory: Process Physical Memory: 99.22 MB used, 99.23 MB peak
-[2020.04.18-22.36.18:387][  0]LogMemory: Process Virtual Memory: 92.89 MB used, 92.89 MB peak
-[2020.04.18-22.36.18:388][  0]LogMemory: Physical Memory: 5975.21 MB used,  2059.09 MB free, 8034.30 MB total
-[2020.04.18-22.36.18:388][  0]LogMemory: Virtual Memory: 4646.23 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2020.04.18-22.36.18:429][  0]LogInit: Using OS detected language (en-GB).
-[2020.04.18-22.36.18:429][  0]LogInit: Using OS detected locale (en-GB).
-[2020.04.18-22.36.18:431][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2020.04.18-22.36.18:798][  0]LogInit: Setting process to per monitor DPI aware
-[2020.04.18-22.36.18:886][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.04.18-22.36.18:886][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.04.18-22.36.19:416][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.18-22.36.19:416][  0]LogD3D11RHI: D3D11 adapters:
-[2020.04.18-22.36.19:538][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2020.04.18-22.36.19:538][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.04.18-22.36.19:567][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2020.04.18-22.36.19:567][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2020.04.18-22.36.19:572][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.04.18-22.36.19:572][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.04.18-22.36.19:572][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.04.18-22.36.19:655][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.04.18-22.36.19:656][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
-[2020.04.18-22.36.19:656][  0]LogWindows: EnumDisplayDevices:
-[2020.04.18-22.36.19:656][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2020.04.18-22.36.19:657][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.04.18-22.36.19:658][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.04.18-22.36.19:659][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2020.04.18-22.36.19:659][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
-[2020.04.18-22.36.19:659][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2020.04.18-22.36.19:659][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
-[2020.04.18-22.36.19:659][  0]LogD3D11RHI:      Driver Date: 9-12-2018
-[2020.04.18-22.36.19:659][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
-[2020.04.18-22.36.19:765][  0]LogD3D11RHI: Async texture creation enabled
-[2020.04.18-22.36.19:775][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.18-22.36.19:776][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.18-22.36.19:776][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.18-22.36.19:793][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2020.04.18-22.36.20:833][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2020.04.18-22.36.20:867][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2020.04.18-22.36.20:900][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2020.04.18-22.36.20:934][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2020.04.18-22.36.20:976][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2020.04.18-22.36.21:016][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.04.18-22.36.21:061][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.04.18-22.36.21:110][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.04.18-22.36.21:133][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2020.04.18-22.36.21:370][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2020.04.18-22.36.21:374][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2020.04.18-22.36.21:474][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2020.04.18-22.36.21:474][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2020.04.18-22.36.21:557][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2020.04.18-22.36.21:558][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2020.04.18-22.36.21:599][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2020.04.18-22.36.21:638][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2020.04.18-22.36.21:678][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2020.04.18-22.36.21:715][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2020.04.18-22.36.21:841][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2020.04.18-22.36.21:841][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2020.04.18-22.36.21:841][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.04.18-22.36.21:866][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.04.18-22.36.22:022][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Intermediate/Shaders/WorkingDirectory/1360/).
-[2020.04.18-22.36.22:022][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/E629E40C4068466FEA45B1932A0D8F8A/'.
-[2020.04.18-22.36.22:027][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.04.18-22.36.22:027][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.04.18-22.36.22:027][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.04.18-22.36.23:469][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.04.18-22.36.23:562][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.04.18-22.36.23:563][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2020.04.18-22.36.23:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.04.18-22.36.23:563][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.04.18-22.36.23:563][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.18-22.36.23:563][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.04.18-22.36.23:594][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.04.18-22.36.23:595][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.18-22.36.23:595][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.04.18-22.36.23:609][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.04.18-22.36.23:609][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.04.18-22.36.23:609][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.04.18-22.36.23:671][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.04.18-22.36.23:674][  0]LogSlate: Using FreeType 2.6.0
-[2020.04.18-22.36.23:676][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.04.18-22.36.23:864][  0]LogAssetRegistry: FAssetRegistry took 0.0511 seconds to start up
-[2020.04.18-22.36.24:375][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.18-22.36.24:611][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.04.18-22.36.24:611][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.04.18-22.36.24:611][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.04.18-22.36.24:611][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.04.18-22.36.24:611][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.04.18-22.36.24:629][  0]LogNetVersion: RPGame2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1706130992)
-[2020.04.18-22.36.25:353][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.075259 seconds
-[2020.04.18-22.36.25:361][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2020.04.18-22.36.25:361][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2020.04.18-22.36.25:361][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.04.18-22.36.26:798][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.04.18-22.36.26:814][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.04.18-22.36.27:016][  0]SourceControl: Source control is disabled
-[2020.04.18-22.36.27:016][  0]SourceControl: Source control is disabled
-[2020.04.18-22.36.27:020][  0]SourceControl: Source control is disabled
-[2020.04.18-22.36.27:023][  0]SourceControl: Source control is disabled
-[2020.04.18-22.36.27:144][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.04.18-22.36.27:241][  0]LogOcInput: OculusInput pre-init called
-[2020.04.18-22.36.28:349][  0]LogEngine: Initializing Engine...
-[2020.04.18-22.36.28:351][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.18-22.36.28:353][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.04.18-22.36.28:730][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.04.18-22.36.28:755][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.04.18-22.36.28:862][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.04.18-22.36.29:043][  0]LogInit: FAudioDevice initialized.
-[2020.04.18-22.36.29:043][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.04.18-22.36.29:185][  0]LogDerivedDataCache: Saved boot cache 0.14s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.04.18-22.36.29:198][  0]LogInit: Texture streaming: Enabled
-[2020.04.18-22.36.29:260][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.04.18-22.36.29:320][  0]LogInit: Transaction tracking system initialized
-[2020.04.18-22.36.29:395][  0]BlueprintLog: New page: Editor Load
-[2020.04.18-22.36.29:574][  0]LocalizationService: Localization service is disabled
-[2020.04.18-22.36.30:082][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/' took 0.02s
-[2020.04.18-22.36.30:082][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.04.18-22.36.30:082][  0]LogCook: Display: Mobile HDR setting 1
-[2020.04.18-22.36.30:369][  0]SourceControl: Source control is disabled
-[2020.04.18-22.36.30:369][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.04.18-22.36.30:369][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
-[2020.04.18-22.36.30:370][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.04.18-22.36.30:370][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.27ms to complete.
-[2020.04.18-22.36.30:370][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
-[2020.04.18-22.36.30:645][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-22.36.30:671][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-22.36.30:697][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-22.36.30:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-22.36.30:756][  0]LogCollectionManager: Loaded 0 collections in 0.004711 seconds
-[2020.04.18-22.36.30:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Collections/' took 0.01s
-[2020.04.18-22.36.30:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Developers/danny/Collections/' took 0.00s
-[2020.04.18-22.36.30:813][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Collections/' took 0.00s
-[2020.04.18-22.36.30:813][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2020.04.18-22.36.30:839][  0]LogContentBrowser: Native class hierarchy populated in 0.0233 seconds. Added 2732 classes and 659 folders.
-[2020.04.18-22.36.30:870][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
-[2020.04.18-22.36.30:897][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.30:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.30:972][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.30:989][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:005][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:021][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:037][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:053][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:070][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:089][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:105][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:138][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:156][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:173][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:191][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:281][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:296][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:309][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:323][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:338][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:352][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:366][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:380][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:394][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:408][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.18-22.36.31:960][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2020.04.18-22.36.31:993][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2020.04.18-22.36.35:545][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2020.04.18-22.36.35:628][  0]LogSlate: Took 0.000599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.04.18-22.36.35:637][  0]LogSlate: Took 0.000518 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.04.18-22.36.35:938][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
-[2020.04.18-22.36.36:143][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2020.04.18-22.36.36:143][  0]LogLoad: (Engine Initialization) Total time: 22.46 seconds
-[2020.04.18-22.36.36:143][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.04.18-22.36.36:252][  0]LogAssetRegistry: Asset discovery search completed in 12.4107 seconds
-[2020.04.18-22.36.36:257][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2020.04.18-22.36.36:257][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000078 seconds (updated 0 objects)
-[2020.04.18-22.36.36:260][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.04.18-22.36.39:719][196]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.18-22.36.39:744][196]LogSlate: Took 0.019711 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.04.18-22.36.39:809][196]LogSlate: Took 0.008235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.04.18-22.39.02:988][246]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.04.18-22.39.10:246][246]LogSlate: Window 'Pick Parent Class' being destroyed
-[2020.04.18-22.39.28:953][357]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CustomGameInstance.CustomGameInstance
-[2020.04.18-22.39.29:951][357]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
-[2020.04.18-22.39.31:734][357]LogSlate: Took 0.015913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2020.04.18-22.40.05:508][316]LogSlate: Took 0.009114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
-[2020.04.18-22.40.53:750][155]BlueprintLog: New page: Compile CustomGameInstance
-[2020.04.18-22.40.53:811][155]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
-[2020.04.18-22.41.09:506][ 52]BlueprintLog: New page: Compile CustomGameInstance
-[2020.04.18-22.41.09:553][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
-[2020.04.18-22.46.36:527][732]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
-[2020.04.18-22.46.36:527][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.045
-[2020.04.18-22.46.36:529][732]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CustomGameInstance] ([1] browsable assets)...
-[2020.04.18-22.46.36:529][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CustomGameInstance]
-[2020.04.18-22.46.36:548][732]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance_Auto181F743414844DCA668CC08A2B3B19547.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/CustomGameInstance_Auto1.uasset'
-[2020.04.18-22.46.36:550][732]LogFileHelpers: Auto-saving content packages took 0.021
-[2020.04.18-22.48.07:099][313]BlueprintLog: New page: Compile CustomGameInstance
-[2020.04.18-22.48.07:109][313]LogClass: Warning: Type mismatch in menuState of CustomGameInstance_C - Previous (ArrayProperty) Current(IntProperty) for package:  FObjectReader
-[2020.04.18-22.48.07:157][313]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
-[2020.04.18-22.48.27:008][687]LogSlate: Window 'CustomGameInstance' being destroyed
-[2020.04.18-22.54.17:943][692]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2020.04.18-22.56.03:809][350]LogAIModule: Creating AISystem for world MainMenu
-[2020.04.18-22.56.03:826][350]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/menus/MainMenu.MainMenu
-[2020.04.18-22.56.03:878][350]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
-[2020.04.18-22.56.05:933][350]LogSlate: Window 'Save Content' being destroyed
-[2020.04.18-22.56.05:946][350]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomGameInstance" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset" SILENT=true
-[2020.04.18-22.56.05:970][350]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance0F9543094DF88C191F5987BA7E56E482.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset'
-[2020.04.18-22.56.05:983][350]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.04.18-22.56.05:983][350]LightingResults: New page: Lighting Build
-[2020.04.18-22.56.05:993][350]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
-[2020.04.18-22.56.05:993][350]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0004 seconds. Added 5 classes and 0 folders.
-[2020.04.18-22.56.05:996][350]LoadErrors: New page: Loading map: MainMenu.umap
-[2020.04.18-22.56.05:999][350]MapCheck: New page: Map Check
-[2020.04.18-22.56.05:999][350]LightingResults: New page: Lighting Build
-[2020.04.18-22.56.06:059][350]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
-[2020.04.18-22.56.06:071][350]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2020.04.18-22.56.06:120][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
-[2020.04.18-22.56.06:183][350]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.04.18-22.56.06:185][350]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.751ms to complete.
-[2020.04.18-22.56.06:185][350]LogFileHelpers: Loading map 'MainMenu' took 0.204
-[2020.04.18-22.56.09:510][630]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu
-[2020.04.18-22.56.10:431][631]LogSlate: Took 0.007760 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2020.04.18-22.57.37:563][815]BlueprintLog: New page: Compile MainMenu
-[2020.04.18-22.57.37:939][815]LogUObjectHash: Compacting FUObjectHashTables data took   8.05ms
-[2020.04.18-23.04.56:547][ 99]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget
-[2020.04.18-23.04.57:081][ 99]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
-[2020.04.18-23.06.21:294][ 53]BlueprintLog: New page: Compile InstructionsWidget
-[2020.04.18-23.06.21:422][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   9.49ms
-[2020.04.18-23.06.27:362][398]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/InstructionsWidgetD2CAAFA64EAB2675BFF5379AAB62F023.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/InstructionsWidget.uasset'
-[2020.04.18-23.06.38:297][ 50]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/widgets/LevelSelectWidget.LevelSelectWidget
-[2020.04.18-23.06.43:312][312]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/widgets/MainmenuWidget.MainmenuWidget
-[2020.04.18-23.06.45:824][430]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/widgets/ModelViewerWidget.ModelViewerWidget
-[2020.04.18-23.06.50:656][680]LogUObjectHash: Compacting FUObjectHashTables data took   6.71ms
-[2020.04.18-23.06.51:034][680]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu55295EF74126513EF1949A9F4D31A3F3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap'
-[2020.04.18-23.06.51:101][680]LogFileHelpers: Saving map 'MainMenu' took 0.523
-[2020.04.18-23.07.31:019][ 54]BlueprintLog: New page: Compile LevelSelectWidget
-[2020.04.18-23.07.31:144][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   8.89ms
-[2020.04.18-23.07.38:020][464]BlueprintLog: New page: Compile LevelSelectWidget
-[2020.04.18-23.07.38:119][464]LogUObjectHash: Compacting FUObjectHashTables data took   7.17ms
-[2020.04.18-23.07.44:304][830]BlueprintLog: New page: Compile LevelSelectWidget
-[2020.04.18-23.07.44:377][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
-[2020.04.18-23.09.14:908][220]BlueprintLog: New page: Compile MainmenuWidget
-[2020.04.18-23.09.14:958][220]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
-[2020.04.18-23.09.36:067][484]BlueprintLog: New page: Compile ModelViewerWidget
-[2020.04.18-23.09.36:109][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
-[2020.04.18-23.10.57:739][381]BlueprintLog: New page: Compile ModelViewerWidget
-[2020.04.18-23.10.57:784][381]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
-[2020.04.18-23.11.16:299][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
-[2020.04.18-23.11.21:393][487]LogSlate: Window 'Delete Assets' being destroyed
-[2020.04.18-23.11.21:598][487]LogUObjectGlobals: Force Deleting 1 Package(s):
-	Asset Name: /Game/Blueprints/actors/MenuHandler.MenuHandler
-[2020.04.18-23.11.22:203][487]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
-[2020.04.18-23.11.22:406][487]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
-[2020.04.18-23.11.22:432][487]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
-[2020.04.18-23.11.22:452][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
-[2020.04.18-23.11.26:153][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
-[2020.04.18-23.11.26:201][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
-[2020.04.18-23.11.26:359][707]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu89C41A4B4F0AA2E07274E29455C6E15A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap'
-[2020.04.18-23.11.26:399][707]LogFileHelpers: Saving map 'MainMenu' took 0.225
-[2020.04.18-23.11.26:441][707]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ModelViewerWidgetA9A3F66941301A942784F9A9ACAD70B2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/ModelViewerWidget.uasset'
-[2020.04.18-23.11.26:496][707]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LevelSelectWidget2F4AF4EA4008A91E5CCEAC93B1B9CA90.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/LevelSelectWidget.uasset'
-[2020.04.18-23.11.26:552][707]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainmenuWidgetBA88FAAC47A47267D20F95A33F74472B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/MainmenuWidget.uasset'
-[2020.04.18-23.11.52:231][246]LogTemp: Repeating last play command: Selected Viewport
-[2020.04.18-23.11.52:261][246]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.11.52:263][246]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.04.18-23.11.52:266][246]PIE: New page: PIE session: MainMenu (19 Apr 2020 01:11:52)
-[2020.04.18-23.11.52:289][246]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
-[2020.04.18-23.11.52:293][246]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003727s)
-[2020.04.18-23.11.52:294][246]LogAIModule: Creating AISystem for world MainMenu
-[2020.04.18-23.11.52:295][246]LogPlayLevel: PIE: World Init took: (0.002530s)
-[2020.04.18-23.11.52:295][246]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.006576s)
-[2020.04.18-23.11.52:322][246]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
-[2020.04.18-23.11.52:332][246]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.04.18-23.11.52:350][246]LogInit: FAudioDevice initialized.
-[2020.04.18-23.11.52:420][246]LogLoad: Game class is 'ARCGM_C'
-[2020.04.18-23.11.52:420][246]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.19-00.11.52
-[2020.04.18-23.11.52:423][246]LogWorld: Bringing up level for play took: 0.002031
-[2020.04.18-23.11.52:467][246]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
-[2020.04.18-23.11.52:475][246]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
-[2020.04.18-23.11.52:476][246]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0017 seconds. Added 20 classes and 0 folders.
-[2020.04.18-23.11.52:501][246]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.925
-[2020.04.18-23.11.52:501][246]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.12.02:754][844]LogNet: Browse: /Game/Maps/Levels/Level4
-[2020.04.18-23.12.02:754][844]LogLoad: LoadMap: /Game/Maps/Levels/Level4
-[2020.04.18-23.12.02:820][844]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
-[2020.04.18-23.12.03:251][844]LogAIModule: Creating AISystem for world Level4
-[2020.04.18-23.12.03:251][844]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2020.04.18-23.12.03:262][844]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.19-00.12.03
-[2020.04.18-23.12.03:263][844]LogWorld: Bringing up level for play took: 0.011564
-[2020.04.18-23.12.03:267][844]LogLoad: Took 0.512479 seconds to LoadMap(/Game/Maps/Levels/Level4)
-[2020.04.18-23.12.32:479][592]LogNet: Browse: /Game/Maps/menus/MainMenu
-[2020.04.18-23.12.32:479][592]LogLoad: LoadMap: /Game/Maps/menus/MainMenu
-[2020.04.18-23.12.32:533][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
-[2020.04.18-23.12.32:533][592]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
-[2020.04.18-23.12.32:535][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001717s)
-[2020.04.18-23.12.32:535][592]LogAIModule: Creating AISystem for world MainMenu
-[2020.04.18-23.12.32:536][592]LogPlayLevel: PIE: World Init took: (0.001089s)
-[2020.04.18-23.12.32:536][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002962s)
-[2020.04.18-23.12.32:536][592]LogLoad: Game class is 'ARCGM_C'
-[2020.04.18-23.12.32:537][592]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.19-00.12.32
-[2020.04.18-23.12.32:537][592]LogWorld: Bringing up level for play took: 0.000293
-[2020.04.18-23.12.32:537][592]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.04.18-23.12.32:543][592]LogLoad: Took 0.063764 seconds to LoadMap(/Game/Maps/menus/UEDPIE_0_MainMenu)
-[2020.04.18-23.12.35:378][762]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.12.35:379][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-23.12.35:413][762]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.04.18-23.12.35:413][762]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.12.35:441][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-23.12.35:446][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
-[2020.04.18-23.12.35:473][764]LogPlayLevel: Display: Destroying online subsystem :Context_15
-[2020.04.18-23.12.39:901][ 29]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.40:315][ 54]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.48:963][573]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.49:581][610]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.49:697][617]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.50:330][655]LogEditorViewport: Clicking Background
-[2020.04.18-23.12.57:931][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.18-23.13.00:098][240]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
-[2020.04.18-23.13.12:932][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
-[2020.04.18-23.13.12:954][  7]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gamemodes/ARCGM" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/gamemodes/ARCGM.uasset" SILENT=true
-[2020.04.18-23.13.12:989][  7]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCGMA41AD822414C84986ED148BFCB934E36.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/gamemodes/ARCGM.uasset'
-[2020.04.18-23.13.15:287][145]LogTemp: Repeating last play command: Selected Viewport
-[2020.04.18-23.13.15:304][145]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.13.15:305][145]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2020.04.18-23.13.15:305][145]PIE: New page: PIE session: MainMenu (19 Apr 2020 01:13:15)
-[2020.04.18-23.13.15:305][145]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
-[2020.04.18-23.13.15:306][145]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001654s)
-[2020.04.18-23.13.15:307][145]LogAIModule: Creating AISystem for world MainMenu
-[2020.04.18-23.13.15:307][145]LogPlayLevel: PIE: World Init took: (0.000570s)
-[2020.04.18-23.13.15:307][145]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002318s)
-[2020.04.18-23.13.15:332][145]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
-[2020.04.18-23.13.15:334][145]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.04.18-23.13.15:349][145]LogInit: FAudioDevice initialized.
-[2020.04.18-23.13.15:376][145]LogLoad: Game class is 'ARCGM_C'
-[2020.04.18-23.13.15:377][145]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.19-00.13.15
-[2020.04.18-23.13.15:377][145]LogWorld: Bringing up level for play took: 0.000297
-[2020.04.18-23.13.15:395][145]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu -0.179
-[2020.04.18-23.13.15:395][145]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.13.19:089][367]LogNet: Browse: /Game/Maps/Levels/Level4
-[2020.04.18-23.13.19:089][367]LogLoad: LoadMap: /Game/Maps/Levels/Level4
-[2020.04.18-23.13.19:112][367]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
-[2020.04.18-23.13.19:159][367]LogAIModule: Creating AISystem for world Level4
-[2020.04.18-23.13.19:159][367]LogLoad: Game class is 'ThirdPersonGameMode_C'
-[2020.04.18-23.13.19:166][367]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.19-00.13.19
-[2020.04.18-23.13.19:167][367]LogWorld: Bringing up level for play took: 0.006674
-[2020.04.18-23.13.19:168][367]LogLoad: Took 0.078760 seconds to LoadMap(/Game/Maps/Levels/Level4)
-[2020.04.18-23.13.45:078][921]LogNet: Browse: /Game/Maps/menus/MainMenu
-[2020.04.18-23.13.45:079][921]LogLoad: LoadMap: /Game/Maps/menus/MainMenu
-[2020.04.18-23.13.45:105][921]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
-[2020.04.18-23.13.45:105][921]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
-[2020.04.18-23.13.45:107][921]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001678s)
-[2020.04.18-23.13.45:107][921]LogAIModule: Creating AISystem for world MainMenu
-[2020.04.18-23.13.45:108][921]LogPlayLevel: PIE: World Init took: (0.000406s)
-[2020.04.18-23.13.45:108][921]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002185s)
-[2020.04.18-23.13.45:108][921]LogLoad: Game class is 'ARCGM_C'
-[2020.04.18-23.13.45:109][921]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.19-00.13.45
-[2020.04.18-23.13.45:109][921]LogWorld: Bringing up level for play took: 0.000256
-[2020.04.18-23.13.45:109][921]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
-[2020.04.18-23.13.45:114][921]LogLoad: Took 0.035677 seconds to LoadMap(/Game/Maps/menus/UEDPIE_0_MainMenu)
-[2020.04.18-23.13.49:672][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.18-23.13.49:740][199]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.13.49:740][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-23.13.49:769][199]LogPlayLevel: Display: Shutting down PIE online subsystems
-[2020.04.18-23.13.49:769][199]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
-[2020.04.18-23.13.49:795][199]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.18-23.13.49:799][199]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
-[2020.04.18-23.13.49:843][202]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.19-23.28.54:450][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.19-23.28.54:451][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:451][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:456][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-23.28.54:456][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-23.28.54:457][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-23.28.54:458][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-23.28.54:459][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-23.28.54:459][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-23.28.54:459][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.19-23.28.54:509][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.19-23.28.54:510][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.19-23.28.54:510][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.19-23.28.54:510][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.19-23.28.54:511][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.19-23.28.54:512][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.19-23.28.54:513][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.19-23.28.54:514][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.19-23.28.54:515][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.19-23.28.54:515][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.19-23.28.54:515][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.19-23.28.54:515][  0]LogInit: Computer: LAPTOP-I19E2VM6
+[2020.04.19-23.28.54:515][  0]LogInit: User: danny
+[2020.04.19-23.28.54:515][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.19-23.28.54:515][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.19-23.28.54:516][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.04.19-23.28.54:516][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.19-23.28.54:516][  0]LogMemory: Process Physical Memory: 99.05 MB used, 99.05 MB peak
+[2020.04.19-23.28.54:516][  0]LogMemory: Process Virtual Memory: 95.98 MB used, 95.98 MB peak
+[2020.04.19-23.28.54:516][  0]LogMemory: Physical Memory: 5042.56 MB used,  2991.74 MB free, 8034.30 MB total
+[2020.04.19-23.28.54:516][  0]LogMemory: Virtual Memory: 4649.29 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.04.19-23.28.54:565][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.19-23.28.54:565][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.19-23.28.54:567][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.19-23.28.54:977][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.19-23.28.55:021][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.19-23.28.55:021][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.19-23.28.55:358][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-23.28.55:358][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.19-23.28.55:466][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.04.19-23.28.55:466][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.19-23.28.55:489][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.19-23.28.55:489][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.19-23.28.55:493][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.19-23.28.55:493][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.19-23.28.55:493][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.19-23.28.55:539][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.19-23.28.55:539][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.04.19-23.28.55:539][  0]LogWindows: EnumDisplayDevices:
+[2020.04.19-23.28.55:539][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.19-23.28.55:540][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.19-23.28.55:540][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.19-23.28.55:541][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.04.19-23.28.55:542][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.19-23.28.55:542][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.04.19-23.28.55:542][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
+[2020.04.19-23.28.55:542][  0]LogD3D11RHI:      Driver Date: 9-12-2018
+[2020.04.19-23.28.55:542][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.04.19-23.28.55:612][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.19-23.28.55:619][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.19-23.28.55:620][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.19-23.28.55:620][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.19-23.28.55:636][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.19-23.28.56:255][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.19-23.28.56:283][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.19-23.28.56:316][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.19-23.28.56:349][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.19-23.28.56:383][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.19-23.28.56:420][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.19-23.28.56:455][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.19-23.28.56:489][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.19-23.28.56:505][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.19-23.28.56:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.19-23.28.56:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.19-23.28.56:674][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.19-23.28.56:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.19-23.28.56:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.19-23.28.56:675][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.19-23.28.56:676][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.19-23.28.56:677][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.19-23.28.56:765][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.19-23.28.56:765][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.19-23.28.56:801][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.19-23.28.56:801][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.19-23.28.56:819][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.19-23.28.56:838][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.19-23.28.56:856][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.19-23.28.56:875][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.19-23.28.56:944][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.19-23.28.56:944][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.19-23.28.56:944][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.19-23.28.56:960][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.19-23.28.57:060][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Intermediate/Shaders/WorkingDirectory/2184/).
+[2020.04.19-23.28.57:061][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/697F7A904FAE25CA29160E8A6FE688D6/'.
+[2020.04.19-23.28.57:065][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.19-23.28.57:066][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.19-23.28.57:066][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.19-23.28.58:036][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.19-23.28.58:116][  0]LogDerivedDataCache: Loaded boot cache 0.08s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.19-23.28.58:116][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.19-23.28.58:116][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.19-23.28.58:116][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.19-23.28.58:117][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-23.28.58:117][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.19-23.28.58:137][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.19-23.28.58:137][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.19-23.28.58:137][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.19-23.28.58:149][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.19-23.28.58:149][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.19-23.28.58:149][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.19-23.28.58:187][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.19-23.28.58:189][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.19-23.28.58:189][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.19-23.28.58:312][  0]LogAssetRegistry: FAssetRegistry took 0.0424 seconds to start up
+[2020.04.19-23.28.59:136][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.19-23.28.59:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.19-23.28.59:427][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.19-23.28.59:427][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.19-23.28.59:427][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.19-23.28.59:427][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.19-23.28.59:452][  0]LogNetVersion: RPGame2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1706130992)
+[2020.04.19-23.29.00:355][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.088019 seconds
+[2020.04.19-23.29.00:363][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.19-23.29.00:364][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.19-23.29.00:364][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.19-23.29.02:159][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.19-23.29.02:175][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.19-23.29.02:380][  0]SourceControl: Source control is disabled
+[2020.04.19-23.29.02:380][  0]SourceControl: Source control is disabled
+[2020.04.19-23.29.02:384][  0]SourceControl: Source control is disabled
+[2020.04.19-23.29.02:387][  0]SourceControl: Source control is disabled
+[2020.04.19-23.29.02:614][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.19-23.29.02:791][  0]LogOcInput: OculusInput pre-init called
+[2020.04.19-23.29.04:565][  0]LogEngine: Initializing Engine...
+[2020.04.19-23.29.04:567][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.19-23.29.04:569][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.19-23.29.05:093][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.19-23.29.05:144][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.19-23.29.05:284][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.29.05:490][  0]LogInit: FAudioDevice initialized.
+[2020.04.19-23.29.05:491][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.19-23.29.05:594][  0]LogDerivedDataCache: Saved boot cache 0.10s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.19-23.29.05:618][  0]LogInit: Texture streaming: Enabled
+[2020.04.19-23.29.05:675][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.19-23.29.05:750][  0]LogInit: Transaction tracking system initialized
+[2020.04.19-23.29.05:822][  0]BlueprintLog: New page: Editor Load
+[2020.04.19-23.29.05:946][  0]LocalizationService: Localization service is disabled
+[2020.04.19-23.29.06:466][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/' took 0.02s
+[2020.04.19-23.29.06:466][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.19-23.29.06:466][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.19-23.29.06:736][  0]SourceControl: Source control is disabled
+[2020.04.19-23.29.06:736][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-23.29.06:737][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.19-23.29.06:737][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-23.29.06:737][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2020.04.19-23.29.06:737][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2020.04.19-23.29.06:990][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.29.07:016][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.29.07:038][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.29.07:053][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.29.07:087][  0]LogCollectionManager: Loaded 0 collections in 0.002820 seconds
+[2020.04.19-23.29.07:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Collections/' took 0.01s
+[2020.04.19-23.29.07:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Developers/danny/Collections/' took 0.00s
+[2020.04.19-23.29.07:122][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Collections/' took 0.00s
+[2020.04.19-23.29.07:122][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.19-23.29.07:141][  0]LogContentBrowser: Native class hierarchy populated in 0.0168 seconds. Added 2732 classes and 659 folders.
+[2020.04.19-23.29.07:162][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.19-23.29.07:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:206][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:259][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:278][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:294][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:310][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:328][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:345][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:399][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:416][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:432][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:449][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:466][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:483][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:574][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:603][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:622][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:643][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:660][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:677][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:689][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:703][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:715][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.07:724][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.19-23.29.08:140][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2020.04.19-23.29.08:171][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2020.04.19-23.29.11:712][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.19-23.29.11:760][  0]LogSlate: Took 0.000262 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.19-23.29.11:764][  0]LogSlate: Took 0.000266 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.19-23.29.11:790][  0]LogSlate: Took 0.013056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.19-23.29.12:022][  0]LogRenderer: Reallocating scene render targets to support 916x460 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-23.29.12:408][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2020.04.19-23.29.12:409][  0]LogLoad: (Engine Initialization) Total time: 22.87 seconds
+[2020.04.19-23.29.12:410][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.19-23.29.12:578][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.19-23.29.12:979][  2]LogAssetRegistry: Asset discovery search completed in 14.6888 seconds
+[2020.04.19-23.29.12:985][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.04.19-23.29.12:985][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000110 seconds (updated 0 objects)
+[2020.04.19-23.29.17:056][ 14]LogSlate: Took 0.022743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-23.29.39:908][400]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.29.41:480][534]LogSlate: Took 0.000386 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.19-23.29.41:498][534]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CustomGameInstance.CustomGameInstance
+[2020.04.19-23.29.42:617][534]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0018 seconds. Added 121 classes and 0 folders.
+[2020.04.19-23.29.44:799][534]LogSlate: Took 0.020550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.19-23.30.05:069][  5]LogSlate: Took 0.010007 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.19-23.30.23:802][348]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.19-23.30.23:855][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2020.04.19-23.31.07:116][ 20]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.19-23.31.07:164][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   4.71ms
+[2020.04.19-23.32.04:451][650]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.19-23.32.04:503][650]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.19-23.32.27:626][471]LogSlate: Window 'CustomGameInstance' being destroyed
+[2020.04.19-23.32.33:900][ 10]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/actors/ARC12.ARC12
+[2020.04.19-23.32.36:885][215]LogSlate: Took 0.024488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.19-23.34.12:515][164]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.34.12:849][164]LogUObjectHash: Compacting FUObjectHashTables data took   6.64ms
+[2020.04.19-23.35.50:489][748]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.19-23.35.50:543][748]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2020.04.19-23.36.16:070][616]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.36.16:349][616]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2020.04.19-23.37.35:235][901]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-23.38.29:099][392]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-23.38.31:431][629]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-23.38.34:237][943]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.19-23.38.34:293][943]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.04.19-23.38.42:430][577]LogAIModule: Creating AISystem for world Level5
+[2020.04.19-23.38.42:439][577]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level5.Level5
+[2020.04.19-23.38.42:487][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2020.04.19-23.38.44:203][577]LogSlate: Window 'Save Content' being destroyed
+[2020.04.19-23.38.44:237][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC12" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset" SILENT=true
+[2020.04.19-23.38.44:451][577]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC1228FE98FA4E303B06C9D76DB41461B325.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset'
+[2020.04.19-23.38.44:458][577]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomGameInstance" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset" SILENT=true
+[2020.04.19-23.38.44:521][577]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance5D3A16174A36850067CD1D915995834D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset'
+[2020.04.19-23.38.44:529][577]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-23.38.44:529][577]LightingResults: New page: Lighting Build
+[2020.04.19-23.38.44:539][577]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.04.19-23.38.44:541][577]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2020.04.19-23.38.44:542][577]LoadErrors: New page: Loading map: Level5.umap
+[2020.04.19-23.38.44:543][577]MapCheck: New page: Map Check
+[2020.04.19-23.38.44:543][577]LightingResults: New page: Lighting Build
+[2020.04.19-23.38.44:607][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.04.19-23.38.44:623][577]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.19-23.38.44:705][577]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2020.04.19-23.38.44:828][577]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-23.38.44:832][577]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.841ms to complete.
+[2020.04.19-23.38.44:832][577]LogFileHelpers: Loading map 'Level5' took 0.304
+[2020.04.19-23.38.49:154][753]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.38.49:196][753]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.19-23.38.49:280][753]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2020.04.19-23.38.49:281][753]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.19-23.38.49:281][753]LightingResults: New page: Lighting Build
+[2020.04.19-23.38.49:282][753]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.19-23.38.49:282][753]MapCheck: New page: Map Check
+[2020.04.19-23.38.49:282][753]LightingResults: New page: Lighting Build
+[2020.04.19-23.38.49:341][753]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.04.19-23.38.49:368][753]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.19-23.38.49:420][753]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.04.19-23.38.49:514][753]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.19-23.38.49:515][753]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.323ms to complete.
+[2020.04.19-23.38.49:515][753]LogFileHelpers: Loading map 'Level4' took 0.235
+[2020.04.19-23.38.51:691][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.38.51:734][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.38.51:734][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.38.51:745][914]PIE: New page: PIE session: Level4 (20 Apr 2020 01:38:51)
+[2020.04.19-23.38.51:760][914]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.38.51:808][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047364s)
+[2020.04.19-23.38.51:810][914]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.38.51:810][914]LogPlayLevel: PIE: World Init took: (0.001681s)
+[2020.04.19-23.38.51:810][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.049940s)
+[2020.04.19-23.38.51:891][914]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.04.19-23.38.51:900][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.38.51:944][914]LogInit: FAudioDevice initialized.
+[2020.04.19-23.38.51:989][914]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.38.52:016][914]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.20-00.38.52
+[2020.04.19-23.38.52:020][914]LogWorld: Bringing up level for play took: 0.019568
+[2020.04.19-23.38.52:050][914]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.04.19-23.38.52:065][914]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.04.19-23.38.52:066][914]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0010 seconds. Added 20 classes and 0 folders.
+[2020.04.19-23.38.52:069][914]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.38.52:074][914]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.83
+[2020.04.19-23.38.52:074][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.39.13:185][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.39.19:652][790]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.39.19:653][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.39.19:695][790]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.39.19:695][790]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.39.19:789][790]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.39.19:900][790]LogUObjectHash: Compacting FUObjectHashTables data took  12.41ms
+[2020.04.19-23.39.19:934][791]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2020.04.19-23.39.24:960][172]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.40.33:897][538]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.40.34:335][538]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2020.04.19-23.40.35:703][692]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.40.35:746][692]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.40.35:746][692]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.40.35:746][692]PIE: New page: PIE session: Level4 (20 Apr 2020 01:40:35)
+[2020.04.19-23.40.35:747][692]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.40.35:767][692]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020160s)
+[2020.04.19-23.40.35:767][692]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.40.35:768][692]LogPlayLevel: PIE: World Init took: (0.000723s)
+[2020.04.19-23.40.35:768][692]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.021112s)
+[2020.04.19-23.40.35:821][692]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2020.04.19-23.40.35:827][692]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.40.35:853][692]LogInit: FAudioDevice initialized.
+[2020.04.19-23.40.35:866][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.40.35:897][692]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.40.35:907][692]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.20-00.40.35
+[2020.04.19-23.40.35:908][692]LogWorld: Bringing up level for play took: 0.009671
+[2020.04.19-23.40.35:923][692]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.40.35:924][692]LogBlueprintUserMessages: [ARC12_C_0] Arc
+[2020.04.19-23.40.35:926][692]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.682
+[2020.04.19-23.40.35:927][692]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.40.36:053][694]LogRenderer: Reallocating scene render targets to support 1016x544 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-23.40.37:820][834]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.40.37:820][834]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.40.37:880][834]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-23.40.37:931][834]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.40.37:931][834]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.40.38:053][834]LogUObjectHash: Compacting FUObjectHashTables data took   7.02ms
+[2020.04.19-23.40.38:083][835]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.04.19-23.42.27:740][240]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.42.28:137][240]LogUObjectHash: Compacting FUObjectHashTables data took   5.81ms
+[2020.04.19-23.42.44:167][170]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.42.44:648][170]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2020.04.19-23.42.46:545][278]LogRenderer: Reallocating scene render targets to support 1016x568 Format 10 NumSamples 1 (Frame:1).
+[2020.04.19-23.42.55:262][788]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.43.31:021][915]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC12" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset" SILENT=true
+[2020.04.19-23.43.31:156][915]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC1225E19EB94FBFDAA145070A9735662609.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset'
+[2020.04.19-23.43.31:931][960]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.43.32:449][960]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.04.19-23.43.33:679][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.43.33:722][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.43.33:722][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.43.33:722][ 30]PIE: New page: PIE session: Level4 (20 Apr 2020 01:43:33)
+[2020.04.19-23.43.33:723][ 30]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.43.33:748][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024605s)
+[2020.04.19-23.43.33:748][ 30]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.43.33:749][ 30]LogPlayLevel: PIE: World Init took: (0.000927s)
+[2020.04.19-23.43.33:749][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.025768s)
+[2020.04.19-23.43.33:801][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.19-23.43.33:807][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.43.33:831][ 30]LogInit: FAudioDevice initialized.
+[2020.04.19-23.43.33:845][ 30]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.43.33:879][ 30]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.43.33:890][ 30]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.20-00.43.33
+[2020.04.19-23.43.33:890][ 30]LogWorld: Bringing up level for play took: 0.010023
+[2020.04.19-23.43.33:905][ 30]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.43.33:907][ 30]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.663
+[2020.04.19-23.43.33:908][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.43.36:764][195]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.43.36:764][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.43.36:824][195]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-23.43.36:874][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.43.36:875][195]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.43.36:987][195]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.04.19-23.43.37:021][196]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2020.04.19-23.43.46:509][728]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.19-23.43.48:115][792]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.43.48:116][792]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.43.48:116][792]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.43.49:833][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.44.15:207][254]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.44.19:031][483]Cmd: TRANSACTION UNDO
+[2020.04.19-23.44.19:031][483]LogEditorTransaction: Undo Modify Component(s)
+[2020.04.19-23.44.24:481][793]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.44.34:722][330]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.44.51:387][320]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.44.51:907][320]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.04.19-23.45.01:190][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.19-23.45.04:453][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.46.20:001][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.46.50:453][478]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.46.50:875][478]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2020.04.19-23.47.07:289][442]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.47.07:767][442]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2020.04.19-23.47.23:963][244]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.47.41:966][282]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.47.59:982][205]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-23.48.37:967][384]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.48.49:174][ 17]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.48.49:724][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.19-23.48.51:523][122]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.48.51:573][122]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.48.51:573][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.48.51:573][122]PIE: New page: PIE session: Level4 (20 Apr 2020 01:48:51)
+[2020.04.19-23.48.51:574][122]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.48.51:609][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036090s)
+[2020.04.19-23.48.51:610][122]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.48.51:611][122]LogPlayLevel: PIE: World Init took: (0.001327s)
+[2020.04.19-23.48.51:611][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.037743s)
+[2020.04.19-23.48.51:668][122]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.04.19-23.48.51:675][122]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.48.51:700][122]LogInit: FAudioDevice initialized.
+[2020.04.19-23.48.51:713][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.48.51:813][122]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.48.51:826][122]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.20-00.48.51
+[2020.04.19-23.48.51:827][122]LogWorld: Bringing up level for play took: 0.012603
+[2020.04.19-23.48.51:842][122]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.48.51:846][122]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.601
+[2020.04.19-23.48.51:846][122]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.48.58:027][446]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.48.58:028][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.48.58:084][446]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-23.48.58:127][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.48.58:127][446]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.48.58:225][446]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2020.04.19-23.48.58:239][447]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.04.19-23.49.28:261][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.19-23.49.28:261][747]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.059
+[2020.04.19-23.49.28:263][747]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/actors/ARC12] ([1] browsable assets)...
+[2020.04.19-23.49.28:287][747]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/actors/ARC12.ARC12]
+[2020.04.19-23.49.28:287][747]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/actors/ARC12]
+[2020.04.19-23.49.28:401][747]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC12_Auto12240C6364827376EC32AC181AA4783CC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/actors/ARC12_Auto1.uasset'
+[2020.04.19-23.49.28:403][747]LogFileHelpers: Auto-saving content packages took 0.140
+[2020.04.19-23.50.28:109][547]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.19-23.50.35:162][ 35]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.50.35:163][ 35]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.50.35:163][ 35]LogAnimation: Warning: AnimBP ARCtypeTABP_C is incompatible with skeleton Arc_Skeleton, removing AnimBP from actor.
+[2020.04.19-23.50.56:792][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.19-23.50.56:800][265]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.19-23.51.04:581][ 66]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.19-23.51.14:662][ 95]BlueprintLog: New page: Compile ARC12
+[2020.04.19-23.51.15:117][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.19-23.51.26:520][448]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.51.26:570][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.51.26:570][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.51.26:570][448]PIE: New page: PIE session: Level4 (20 Apr 2020 01:51:26)
+[2020.04.19-23.51.26:571][448]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.51.26:588][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017517s)
+[2020.04.19-23.51.26:589][448]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.51.26:589][448]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2020.04.19-23.51.26:590][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.018729s)
+[2020.04.19-23.51.26:638][448]LogUObjectHash: Compacting FUObjectHashTables data took   4.36ms
+[2020.04.19-23.51.26:644][448]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.51.26:669][448]LogInit: FAudioDevice initialized.
+[2020.04.19-23.51.26:679][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.51.26:711][448]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.51.26:722][448]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.20-00.51.26
+[2020.04.19-23.51.26:722][448]LogWorld: Bringing up level for play took: 0.009574
+[2020.04.19-23.51.26:740][448]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 -0.504
+[2020.04.19-23.51.26:740][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.51.39:625][887]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.51.39:625][887]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.51.39:666][887]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-23.51.39:702][887]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.51.39:702][887]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.51.39:772][887]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2020.04.19-23.51.39:786][888]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2020.04.19-23.51.50:581][ 23]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/models/ARCMain/animations/ARCM_ABP.ARCM_ABP
+[2020.04.19-23.51.50:618][ 23]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.04.19-23.51.50:618][ 23]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.04.19-23.51.50:984][ 23]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.19-23.51.50:995][ 23]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.04.19-23.51.50:995][ 23]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2020.04.19-23.51.51:447][ 23]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.19-23.51.52:368][ 23]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.19-23.52.05:035][366]BlueprintLog: New page: Compile ARCM_ABP
+[2020.04.19-23.52.05:455][366]LogUObjectHash: Compacting FUObjectHashTables data took   7.42ms
+[2020.04.19-23.52.10:302][904]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.19-23.52.10:344][904]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.52.10:344][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.19-23.52.10:344][904]PIE: New page: PIE session: Level4 (20 Apr 2020 01:52:10)
+[2020.04.19-23.52.10:345][904]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.19-23.52.10:370][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024639s)
+[2020.04.19-23.52.10:370][904]LogAIModule: Creating AISystem for world Level4
+[2020.04.19-23.52.10:371][904]LogPlayLevel: PIE: World Init took: (0.000784s)
+[2020.04.19-23.52.10:371][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.026134s)
+[2020.04.19-23.52.10:431][904]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.04.19-23.52.10:436][904]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.19-23.52.10:460][904]LogInit: FAudioDevice initialized.
+[2020.04.19-23.52.10:472][904]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.52.10:559][904]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.19-23.52.10:570][904]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.20-00.52.10
+[2020.04.19-23.52.10:571][904]LogWorld: Bringing up level for play took: 0.010590
+[2020.04.19-23.52.10:586][904]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 -0.658
+[2020.04.19-23.52.10:587][904]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.52.27:094][144]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.52.27:095][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.19-23.52.27:135][144]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.19-23.52.27:177][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.19-23.52.27:178][144]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.19-23.52.27:253][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.04.19-23.52.27:271][145]LogPlayLevel: Display: Destroying online subsystem :Context_18
