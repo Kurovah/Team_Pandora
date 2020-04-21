@@ -1,4 +1,4 @@
-﻿Log file open, 04/21/20 19:30:02
+﻿Log file open, 04/21/20 19:51:16
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
@@ -10,7 +10,7 @@ LogInit: Display: Running engine for game: RPGame2
 LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.369091
+LogStats: Stats thread started at 0.369939
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -156,662 +156,617 @@ LogInit: Presizing for max 16777216 objects, including 0 objects not considered 
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[r.VSync:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
-[2020.04.21-18.30.03:216][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
-[2020.04.21-18.30.03:217][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:217][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:222][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.21-18.30.03:222][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.21-18.30.03:223][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.21-18.30.03:224][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.21-18.30.03:225][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.21-18.30.03:225][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2020.04.21-18.30.03:275][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
-[2020.04.21-18.30.03:275][  0]LogInit: Going up to parent DeviceProfile []
-[2020.04.21-18.30.03:275][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
-[2020.04.21-18.30.03:275][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
-[2020.04.21-18.30.03:276][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
-[2020.04.21-18.30.03:277][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
-[2020.04.21-18.30.03:278][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
-[2020.04.21-18.30.03:279][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
-[2020.04.21-18.30.03:279][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
-[2020.04.21-18.30.03:279][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
-[2020.04.21-18.30.03:279][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
-[2020.04.21-18.30.03:279][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
-[2020.04.21-18.30.03:280][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
-[2020.04.21-18.30.03:280][  0]LogInit: Computer: LAPTOP-I19E2VM6
-[2020.04.21-18.30.03:280][  0]LogInit: User: danny
-[2020.04.21-18.30.03:280][  0]LogInit: CPU Page size=4096, Cores=4
-[2020.04.21-18.30.03:280][  0]LogInit: High frequency timer resolution =10.000000 MHz
-[2020.04.21-18.30.03:281][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
-[2020.04.21-18.30.03:281][  0]LogMemory: Platform Memory Stats for Windows
-[2020.04.21-18.30.03:281][  0]LogMemory: Process Physical Memory: 99.33 MB used, 99.33 MB peak
-[2020.04.21-18.30.03:281][  0]LogMemory: Process Virtual Memory: 96.21 MB used, 96.21 MB peak
-[2020.04.21-18.30.03:281][  0]LogMemory: Physical Memory: 6172.11 MB used,  1862.19 MB free, 8034.30 MB total
-[2020.04.21-18.30.03:281][  0]LogMemory: Virtual Memory: 4649.29 MB used,  134213080.00 MB free, 134217728.00 MB total
-[2020.04.21-18.30.03:333][  0]LogInit: Using OS detected language (en-GB).
-[2020.04.21-18.30.03:333][  0]LogInit: Using OS detected locale (en-GB).
-[2020.04.21-18.30.03:334][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
-[2020.04.21-18.30.03:692][  0]LogInit: Setting process to per monitor DPI aware
-[2020.04.21-18.30.03:785][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
-[2020.04.21-18.30.03:785][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
-[2020.04.21-18.30.04:320][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.21-18.30.04:320][  0]LogD3D11RHI: D3D11 adapters:
-[2020.04.21-18.30.04:458][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
-[2020.04.21-18.30.04:458][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2020.04.21-18.30.04:490][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
-[2020.04.21-18.30.04:490][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2020.04.21-18.30.04:494][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2020.04.21-18.30.04:494][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2020.04.21-18.30.04:494][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2020.04.21-18.30.04:563][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2020.04.21-18.30.04:563][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
-[2020.04.21-18.30.04:563][  0]LogWindows: EnumDisplayDevices:
-[2020.04.21-18.30.04:563][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
-[2020.04.21-18.30.04:564][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.04.21-18.30.04:565][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
-[2020.04.21-18.30.04:566][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
-[2020.04.21-18.30.04:567][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
-[2020.04.21-18.30.04:567][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
-[2020.04.21-18.30.04:567][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
-[2020.04.21-18.30.04:567][  0]LogD3D11RHI:      Driver Date: 9-12-2018
-[2020.04.21-18.30.04:567][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
-[2020.04.21-18.30.04:677][  0]LogD3D11RHI: Async texture creation enabled
-[2020.04.21-18.30.04:686][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.21-18.30.04:687][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.21-18.30.04:687][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
-[2020.04.21-18.30.04:704][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
-[2020.04.21-18.30.05:704][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
-[2020.04.21-18.30.05:737][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
-[2020.04.21-18.30.05:770][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
-[2020.04.21-18.30.05:805][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
-[2020.04.21-18.30.05:844][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
-[2020.04.21-18.30.05:882][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
-[2020.04.21-18.30.05:926][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
-[2020.04.21-18.30.05:968][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
-[2020.04.21-18.30.05:987][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
-[2020.04.21-18.30.06:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
-[2020.04.21-18.30.06:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
-[2020.04.21-18.30.06:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
-[2020.04.21-18.30.06:187][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
-[2020.04.21-18.30.06:188][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
-[2020.04.21-18.30.06:192][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
-[2020.04.21-18.30.06:295][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
-[2020.04.21-18.30.06:296][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
-[2020.04.21-18.30.06:363][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
-[2020.04.21-18.30.06:363][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
-[2020.04.21-18.30.06:398][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
-[2020.04.21-18.30.06:432][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
-[2020.04.21-18.30.06:466][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
-[2020.04.21-18.30.06:503][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
-[2020.04.21-18.30.06:626][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
-[2020.04.21-18.30.06:626][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
-[2020.04.21-18.30.06:626][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2020.04.21-18.30.06:662][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
-[2020.04.21-18.30.06:828][  0]LogShaderCompilers: Guid format shader working directory is -21 characters bigger than the processId version (../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Intermediate/Shaders/WorkingDirectory/9324/).
-[2020.04.21-18.30.06:829][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/ECFE598D43766090B777D7B77E36B3C4/'.
-[2020.04.21-18.30.06:836][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
-[2020.04.21-18.30.06:836][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
-[2020.04.21-18.30.06:836][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2020.04.21-18.30.08:314][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.21-18.30.08:408][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2020.04.21-18.30.08:439][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2020.04.21-18.30.08:439][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2020.04.21-18.30.08:439][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
-[2020.04.21-18.30.08:453][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2020.04.21-18.30.08:453][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
-[2020.04.21-18.30.08:453][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
-[2020.04.21-18.30.08:528][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2020.04.21-18.30.08:531][  0]LogSlate: Using FreeType 2.6.0
-[2020.04.21-18.30.08:532][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2020.04.21-18.30.08:723][  0]LogAssetRegistry: FAssetRegistry took 0.0495 seconds to start up
-[2020.04.21-18.30.09:272][  0]LogInit: Selected Device Profile: [Windows]
-[2020.04.21-18.30.09:475][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2020.04.21-18.30.09:475][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
-[2020.04.21-18.30.09:475][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
-[2020.04.21-18.30.09:475][  0]LogMeshReduction: No distributed automatic mesh merging module available
-[2020.04.21-18.30.09:475][  0]LogMeshMerging: No distributed automatic mesh merging module available
-[2020.04.21-18.30.09:493][  0]LogNetVersion: RPGame2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1706130992)
-[2020.04.21-18.30.10:270][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.110299 seconds
-[2020.04.21-18.30.10:283][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
-[2020.04.21-18.30.10:283][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
-[2020.04.21-18.30.10:283][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2020.04.21-18.30.11:751][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2020.04.21-18.30.11:767][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2020.04.21-18.30.11:973][  0]SourceControl: Source control is disabled
-[2020.04.21-18.30.11:973][  0]SourceControl: Source control is disabled
-[2020.04.21-18.30.11:977][  0]SourceControl: Source control is disabled
-[2020.04.21-18.30.11:981][  0]SourceControl: Source control is disabled
-[2020.04.21-18.30.12:182][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2020.04.21-18.30.12:358][  0]LogOcInput: OculusInput pre-init called
-[2020.04.21-18.30.13:510][  0]LogEngine: Initializing Engine...
-[2020.04.21-18.30.13:511][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2020.04.21-18.30.13:513][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
-[2020.04.21-18.30.13:856][  0]LogInit: Initializing FReadOnlyCVARCache
-[2020.04.21-18.30.13:884][  0]LogAIModule: Creating AISystem for world Untitled
-[2020.04.21-18.30.13:952][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
-[2020.04.21-18.30.13:982][  0]LogInit: FAudioDevice initialized.
-[2020.04.21-18.30.13:982][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
-[2020.04.21-18.30.14:057][  0]LogDerivedDataCache: Saved boot cache 0.07s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
-[2020.04.21-18.30.14:064][  0]LogInit: Texture streaming: Enabled
-[2020.04.21-18.30.14:101][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2020.04.21-18.30.14:144][  0]LogInit: Transaction tracking system initialized
-[2020.04.21-18.30.14:184][  0]BlueprintLog: New page: Editor Load
-[2020.04.21-18.30.14:341][  0]LocalizationService: Localization service is disabled
-[2020.04.21-18.30.14:874][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/' took 0.03s
-[2020.04.21-18.30.14:874][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2020.04.21-18.30.14:874][  0]LogCook: Display: Mobile HDR setting 1
-[2020.04.21-18.30.15:131][  0]SourceControl: Source control is disabled
-[2020.04.21-18.30.15:131][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2020.04.21-18.30.15:131][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
-[2020.04.21-18.30.15:131][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2020.04.21-18.30.15:133][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.337ms to complete.
-[2020.04.21-18.30.15:133][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
-[2020.04.21-18.30.15:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.21-18.30.15:339][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.21-18.30.15:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.21-18.30.15:360][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
-[2020.04.21-18.30.15:386][  0]LogCollectionManager: Loaded 0 collections in 0.003194 seconds
-[2020.04.21-18.30.15:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Collections/' took 0.01s
-[2020.04.21-18.30.15:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Developers/danny/Collections/' took 0.00s
-[2020.04.21-18.30.15:428][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Collections/' took 0.00s
-[2020.04.21-18.30.15:428][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
-[2020.04.21-18.30.15:449][  0]LogContentBrowser: Native class hierarchy populated in 0.0188 seconds. Added 2732 classes and 659 folders.
-[2020.04.21-18.30.15:478][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2020.04.21-18.30.15:503][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:522][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:570][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:587][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:602][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:618][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:633][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:649][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:665][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:684][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:698][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:714][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:730][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:746][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:760][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:775][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:853][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:872][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:889][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:906][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:941][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:958][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:975][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.15:992][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.16:009][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
-[2020.04.21-18.30.16:361][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
-[2020.04.21-18.30.16:387][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2020.04.21-18.30.19:560][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
-[2020.04.21-18.30.19:647][  0]LogSlate: Took 0.000308 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2020.04.21-18.30.19:653][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2020.04.21-18.30.19:683][  0]LogSlate: Took 0.009253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2020.04.21-18.30.19:916][  0]LogRenderer: Reallocating scene render targets to support 804x460 Format 10 NumSamples 1 (Frame:1).
-[2020.04.21-18.30.20:124][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2020.04.21-18.30.20:124][  0]LogLoad: (Engine Initialization) Total time: 21.21 seconds
-[2020.04.21-18.30.20:124][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2020.04.21-18.30.20:254][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2020.04.21-18.30.20:406][  1]LogAssetRegistry: Asset discovery search completed in 11.7049 seconds
-[2020.04.21-18.30.20:416][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2020.04.21-18.30.20:416][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000144 seconds (updated 0 objects)
-[2020.04.21-18.30.23:918][199]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.21-18.30.23:986][199]LogSlate: Took 0.010951 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.04.21-18.30.45:231][847]LogSlate: Took 0.000294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
-[2020.04.21-18.30.45:261][847]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Light.fbx)
-[2020.04.21-18.30.45:318][847]LogFbx: Loading FBX Scene from ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Light.fbx
-[2020.04.21-18.30.45:339][847]LogFbx: FBX Scene Loaded Succesfully
-[2020.04.21-18.30.48:018][847]LogSlate: Window 'FBX Import Options' being destroyed
-[2020.04.21-18.30.48:106][847]LogLinker: Can't find file '/Game/models/Cubestandard'
-[2020.04.21-18.30.48:106][847]LogLinker: Can't find file '/Game/models/Cubestandard'
-[2020.04.21-18.30.48:124][847]LogTexture: Display: Building textures: Cubestandard (AutoDXT, 512X512)
-[2020.04.21-18.30.48:207][847]LogFbx: Display: Triangulating static mesh Cube
-[2020.04.21-18.30.48:227][847]LogStaticMesh: Building static mesh Light...
-[2020.04.21-18.30.48:242][847]LogStaticMesh: Built static mesh [0.02s] /Game/models/Light.Light
-[2020.04.21-18.30.48:271][847]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2020.04.21-18.31.01:327][459]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Emission.png)
-[2020.04.21-18.31.01:337][459]LogTexture: Display: Building textures: Emission (AutoDXT, 512X512)
-[2020.04.21-18.31.03:011][545]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/models/Emission.Emission
-[2020.04.21-18.31.03:037][545]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0008 seconds. Added 1 classes and 2 folders.
-[2020.04.21-18.31.07:275][737]LogSlate: Window 'Emission' being destroyed
-[2020.04.21-18.31.09:997][889]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/models/Light.Light
-[2020.04.21-18.31.11:044][889]LogRenderer: Reallocating scene render targets to support 1084x748 Format 10 NumSamples 1 (Frame:1).
-[2020.04.21-18.31.11:045][889]LogSlate: Took 0.009980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2020.04.21-18.31.19:934][353]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.04.21-18.31.28:567][765]LogSlate: Window 'Light' being destroyed
-[2020.04.21-18.31.28:579][765]LogSlate: Window 'Light' being destroyed
-[2020.04.21-18.31.44:632][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Cubestandard" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Cubestandard.uasset" SILENT=true
-[2020.04.21-18.31.44:694][667]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Cubestandard8B5125EF40AB5140B5DF479A28265536.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Cubestandard.uasset'
-[2020.04.21-18.31.44:744][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Emission" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Emission.uasset" SILENT=true
-[2020.04.21-18.31.44:800][667]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Emission833DD05E49619D62AD4856808B163569.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Emission.uasset'
-[2020.04.21-18.31.45:149][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
-[2020.04.21-18.31.45:181][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
-[2020.04.21-18.31.45:224][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
-[2020.04.21-18.31.45:256][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
-[2020.04.21-18.31.55:628][384]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Light.Light
-[2020.04.21-18.31.55:636][384]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.31.55:855][384]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.31.55:884][384]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.31.55:910][384]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.31.56:038][384]LogSlate: Took 0.013776 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2020.04.21-18.31.57:973][468]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.01:848][714]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.01:881][714]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.01:881][714]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.32.03:259][764]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.04:208][802]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.04:209][802]LogMaterial: Warning: /Engine/Transient.Light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2020.04.21-18.32.04:209][802]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
-[2020.04.21-18.32.04:221][802]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.32.04:249][802]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
-[2020.04.21-18.32.11:017][111]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.11:045][111]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.11:045][111]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.32.11:081][111]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.11:656][137]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.13:209][214]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: Base pass shader: 110 instructions
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: Texture samplers: 4/16
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
-[2020.04.21-18.32.15:647][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.32.17:018][394]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.17:076][394]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.17:097][394]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.32.17:122][394]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.32.17:727][417]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.19:842][498]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.24:209][655]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.24:235][655]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.24:241][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.32.26:614][745]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.32:477][888]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.32:544][888]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.32:545][888]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.32.35:679][961]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: Base pass shader: 111 instructions
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 185 instructions
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: Texture samplers: 4/16
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.32.38:196][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.32.44:395][403]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.44:430][403]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.44:460][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.32.44:474][403]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.44:552][403]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.32.45:612][452]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.46:627][510]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.46:663][510]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.32.47:612][555]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.48:929][620]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.49:533][650]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.50:864][697]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.53:205][732]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.55:621][755]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.55:730][755]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.32.55:799][755]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.57:200][784]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.32.58:320][828]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.32.58:785][847]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.58:830][847]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.32.58:876][847]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.32.59:508][871]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.01:851][943]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: Base pass shader: 112 instructions
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.33.05:895][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.33.09:097][250]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.09:117][250]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.09:123][250]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.09:709][276]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.10:773][327]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.11:387][358]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.11:705][371]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.13:133][431]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.22:896][907]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.22:994][908]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.24:075][957]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: Base pass shader: 112 instructions
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.33.26:958][ 99]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.33.33:768][477]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.33:804][478]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.34:907][529]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.33.39:453][646]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.33.47:086][970]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.47:112][970]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.47:154][971]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.48:307][ 24]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.48:546][ 34]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.48:947][ 51]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.49:589][ 79]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.49:617][ 79]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.33.49:855][ 89]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.33.51:115][145]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.33.55:765][315]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.34.00:106][470]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.00:167][471]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.34.01:692][527]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.34.03:899][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.34.03:922][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.03:943][567]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.34.03:943][567]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.03:992][567]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.04:331][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.34.04:348][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.04:365][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.04:410][578]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.04:454][578]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.04:503][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.04:548][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.34.04:564][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.04:578][578]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.04:617][578]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.05:111][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.34.05:124][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.05:136][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.05:172][599]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.05:215][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
-[2020.04.21-18.34.05:230][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.05:247][599]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
-[2020.04.21-18.34.05:283][599]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.05:313][599]LogSlate: Window 'Color Picker' being destroyed
-[2020.04.21-18.34.06:354][648]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.34.07:988][720]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.34.13:183][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.34.20:397][249]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.21-18.34.23:840][423]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.23:867][423]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.34.23:875][423]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.25:652][504]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.34.28:080][621]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.34.36:490][998]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.21-18.34.36:582][  2]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_1, compiling. 
-[2020.04.21-18.34.52:662][800]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.52:704][800]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.34.53:947][869]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.34.55:850][971]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.55:850][971]LogMaterial: Warning: /Engine/Transient.Light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2020.04.21-18.34.55:850][971]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Textures/Emission.Emission
-[2020.04.21-18.34.55:873][971]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.34.55:905][971]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.34.55:906][971]LogMaterial: Warning: /Engine/Transient.Light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2020.04.21-18.34.55:906][971]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Textures/Emission.Emission
-[2020.04.21-18.34.55:914][971]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Textures/Emission.Emission
-[2020.04.21-18.35.35:879][961]LogSlate: Window 'Light' being destroyed
-[2020.04.21-18.35.44:336][620]LogEditorFactories: Performing atomic reimport of [C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Emission.png]
-[2020.04.21-18.35.44:336][620]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Emission.png)
-[2020.04.21-18.35.44:344][620]LogTexture: Display: Building textures: Emission (AutoDXT, 512X512)
-[2020.04.21-18.35.44:360][620]LogEditorFactories: -- imported successfully
-[2020.04.21-18.35.48:766][911]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.35.48:768][911]LogMaterial: Warning: /Engine/Transient.Light (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
-[2020.04.21-18.35.48:768][911]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Alpha, should be Color for /Game/Textures/Emission.Emission
-[2020.04.21-18.35.49:949][997]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.35.49:982][997]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.35.49:982][997]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
-[2020.04.21-18.35.50:023][997]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.35.51:058][ 83]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.35.52:408][200]LogShaderCompilers: Display: Shaders left to compile 10
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.35.54:829][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.36.08:014][454]LogSlate: FSceneViewport::OnFocusLost() reason 0
-[2020.04.21-18.36.08:114][462]LogMaterialEditor: Applying material Light
-[2020.04.21-18.36.12:866][462]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.36.12:999][462]LogShaderCompilers: Display: Shaders left to compile 20
-[2020.04.21-18.36.13:085][462]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.36.13:116][462]LogMaterial: Display: Missing cached shader map for material Light, compiling. 
-[2020.04.21-18.36.13:177][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
-[2020.04.21-18.36.13:192][462]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
-[2020.04.21-18.36.15:559][462]LogShaderCompilers: Display: Shaders left to compile 40
-[2020.04.21-18.36.15:559][462]LogShaderCompilers: Display: Shaders left to compile 30
-[2020.04.21-18.36.15:561][462]TextureStreamingBuild: Display: Compiling optional shaders took 2.383 seconds.
-[2020.04.21-18.36.15:610][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
-[2020.04.21-18.36.21:007][929]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/models/Light.Light
-[2020.04.21-18.36.22:399][954]MaterialEditorStats: Base pass shader: 113 instructions
-[2020.04.21-18.36.22:400][954]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
-[2020.04.21-18.36.22:400][954]MaterialEditorStats: Base pass vertex shader: 45 instructions
-[2020.04.21-18.36.22:400][954]MaterialEditorStats: Texture samplers: 5/16
-[2020.04.21-18.36.22:400][954]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
-[2020.04.21-18.36.22:400][954]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
-[2020.04.21-18.36.31:700][717]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.04.21-18.36.31:756][717]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Light" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset" SILENT=true
-[2020.04.21-18.36.31:810][717]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light79887269437373C82A35ECA4E542654E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset'
-[2020.04.21-18.36.48:190][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
-[2020.04.21-18.36.48:234][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Light" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset" SILENT=true
-[2020.04.21-18.36.48:439][212]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light3CD4EC62448DE649785EC3A06F08EDD6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset'
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.04.21-18.51.17:299][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.04.21-18.51.17:300][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:300][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:305][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:305][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.21-18.51.17:305][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.21-18.51.17:305][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.21-18.51.17:306][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.21-18.51.17:307][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.21-18.51.17:308][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.21-18.51.17:308][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.21-18.51.17:308][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.04.21-18.51.17:358][  0]LogHAL: Display: Platform has ~ 8 GB [8424574976 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.04.21-18.51.17:358][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2020.04.21-18.51.17:358][  0]LogInit: Going up to parent DeviceProfile []
+[2020.04.21-18.51.17:358][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:358][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.04.21-18.51.17:358][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.04.21-18.51.17:358][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:358][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.04.21-18.51.17:359][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.04.21-18.51.17:360][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Scalability.ini]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.04.21-18.51.17:361][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.04.21-18.51.17:361][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.04.21-18.51.17:362][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.04.21-18.51.17:362][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Config/Windows/Engine.ini]
+[2020.04.21-18.51.17:362][  0]LogInit: Computer: LAPTOP-I19E2VM6
+[2020.04.21-18.51.17:362][  0]LogInit: User: danny
+[2020.04.21-18.51.17:362][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.04.21-18.51.17:362][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.04.21-18.51.17:362][  0]LogMemory: Memory total: Physical=7.8GB (8GB approx)
+[2020.04.21-18.51.17:362][  0]LogMemory: Platform Memory Stats for Windows
+[2020.04.21-18.51.17:362][  0]LogMemory: Process Physical Memory: 99.14 MB used, 99.14 MB peak
+[2020.04.21-18.51.17:362][  0]LogMemory: Process Virtual Memory: 95.99 MB used, 95.99 MB peak
+[2020.04.21-18.51.17:362][  0]LogMemory: Physical Memory: 5442.55 MB used,  2591.75 MB free, 8034.30 MB total
+[2020.04.21-18.51.17:362][  0]LogMemory: Virtual Memory: 4649.29 MB used,  134213080.00 MB free, 134217728.00 MB total
+[2020.04.21-18.51.17:408][  0]LogInit: Using OS detected language (en-GB).
+[2020.04.21-18.51.17:408][  0]LogInit: Using OS detected locale (en-GB).
+[2020.04.21-18.51.17:411][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2020.04.21-18.51.17:802][  0]LogInit: Setting process to per monitor DPI aware
+[2020.04.21-18.51.17:869][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.04.21-18.51.17:869][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.04.21-18.51.18:405][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.21-18.51.18:405][  0]LogD3D11RHI: D3D11 adapters:
+[2020.04.21-18.51.18:546][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2020.04.21-18.51.18:546][  0]LogD3D11RHI:       4019/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.04.21-18.51.18:580][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2020.04.21-18.51.18:580][  0]LogD3D11RHI:       128/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.04.21-18.51.18:586][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.04.21-18.51.18:586][  0]LogD3D11RHI:       0/0/4017 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.04.21-18.51.18:586][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.04.21-18.51.18:658][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.04.21-18.51.18:658][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2020.04.21-18.51.18:658][  0]LogWindows: EnumDisplayDevices:
+[2020.04.21-18.51.18:658][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2020.04.21-18.51.18:658][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.21-18.51.18:659][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2020.04.21-18.51.18:661][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2020.04.21-18.51.18:661][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2020.04.21-18.51.18:661][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2020.04.21-18.51.18:661][  0]LogD3D11RHI:   Driver Version: 399.31 (internal:24.21.13.9931, unified:399.31)
+[2020.04.21-18.51.18:661][  0]LogD3D11RHI:      Driver Date: 9-12-2018
+[2020.04.21-18.51.18:661][  0]LogRHI: Texture pool is 2813 MB (70% of 4019 MB)
+[2020.04.21-18.51.18:761][  0]LogD3D11RHI: Async texture creation enabled
+[2020.04.21-18.51.18:768][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.21-18.51.18:769][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.21-18.51.18:769][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2020.04.21-18.51.18:785][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2020.04.21-18.51.19:814][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.04.21-18.51.19:866][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.04.21-18.51.19:919][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.04.21-18.51.19:966][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.04.21-18.51.20:017][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.04.21-18.51.20:067][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.04.21-18.51.20:115][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.04.21-18.51.20:150][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.04.21-18.51.20:170][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.04.21-18.51.20:392][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.04.21-18.51.20:393][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.04.21-18.51.20:393][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.04.21-18.51.20:397][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.04.21-18.51.20:493][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.04.21-18.51.20:493][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.04.21-18.51.20:554][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.04.21-18.51.20:554][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.04.21-18.51.20:584][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.04.21-18.51.20:624][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.04.21-18.51.20:662][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.04.21-18.51.20:701][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.04.21-18.51.20:835][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.04.21-18.51.20:835][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.04.21-18.51.20:836][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.04.21-18.51.20:861][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.04.21-18.51.21:010][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Intermediate/Shaders/WorkingDirectory/15976/).
+[2020.04.21-18.51.21:010][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/danny/AppData/Local/Temp/UnrealShaderWorkingDir/82B3E34647D3A32B8A4A42AE69B71A24/'.
+[2020.04.21-18.51.21:017][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.04.21-18.51.21:017][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.04.21-18.51.21:017][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.04.21-18.51.21:999][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.04.21-18.51.22:063][  0]LogDerivedDataCache: Loaded boot cache 0.06s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.21-18.51.22:063][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2020.04.21-18.51.22:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.04.21-18.51.22:064][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.04.21-18.51.22:064][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.21-18.51.22:064][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.04.21-18.51.22:089][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.04.21-18.51.22:090][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.04.21-18.51.22:090][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.04.21-18.51.22:103][  0]LogDerivedDataCache: Using Local data cache path C:/Users/danny/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.04.21-18.51.22:103][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.04.21-18.51.22:103][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.04.21-18.51.22:152][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.04.21-18.51.22:154][  0]LogSlate: Using FreeType 2.6.0
+[2020.04.21-18.51.22:155][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.04.21-18.51.22:281][  0]LogAssetRegistry: FAssetRegistry took 0.0397 seconds to start up
+[2020.04.21-18.51.22:773][  0]LogInit: Selected Device Profile: [Windows]
+[2020.04.21-18.51.23:020][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.04.21-18.51.23:020][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.04.21-18.51.23:020][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.04.21-18.51.23:020][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.04.21-18.51.23:020][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.04.21-18.51.23:048][  0]LogNetVersion: RPGame2 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 1706130992)
+[2020.04.21-18.51.23:836][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.091127 seconds
+[2020.04.21-18.51.23:846][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2020.04.21-18.51.23:846][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2020.04.21-18.51.23:846][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.04.21-18.51.25:300][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.04.21-18.51.25:316][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.04.21-18.51.25:496][  0]SourceControl: Source control is disabled
+[2020.04.21-18.51.25:496][  0]SourceControl: Source control is disabled
+[2020.04.21-18.51.25:499][  0]SourceControl: Source control is disabled
+[2020.04.21-18.51.25:501][  0]SourceControl: Source control is disabled
+[2020.04.21-18.51.25:662][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.04.21-18.51.25:785][  0]LogOcInput: OculusInput pre-init called
+[2020.04.21-18.51.27:074][  0]LogEngine: Initializing Engine...
+[2020.04.21-18.51.27:075][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.04.21-18.51.27:077][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.04.21-18.51.27:398][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.04.21-18.51.27:426][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.04.21-18.51.27:458][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.21-18.51.27:485][  0]LogInit: FAudioDevice initialized.
+[2020.04.21-18.51.27:486][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.04.21-18.51.27:550][  0]LogDerivedDataCache: Saved boot cache 0.06s 71MB C:/Users/danny/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2020.04.21-18.51.27:557][  0]LogInit: Texture streaming: Enabled
+[2020.04.21-18.51.27:589][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.04.21-18.51.27:623][  0]LogInit: Transaction tracking system initialized
+[2020.04.21-18.51.27:665][  0]BlueprintLog: New page: Editor Load
+[2020.04.21-18.51.27:797][  0]LocalizationService: Localization service is disabled
+[2020.04.21-18.51.28:330][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/' took 0.02s
+[2020.04.21-18.51.28:330][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.04.21-18.51.28:330][  0]LogCook: Display: Mobile HDR setting 1
+[2020.04.21-18.51.28:610][  0]SourceControl: Source control is disabled
+[2020.04.21-18.51.28:611][  0]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-18.51.28:611][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2020.04.21-18.51.28:611][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-18.51.28:611][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.26ms to complete.
+[2020.04.21-18.51.28:611][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.001
+[2020.04.21-18.51.28:801][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.21-18.51.28:815][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.21-18.51.28:829][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.21-18.51.28:843][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.21-18.51.28:857][  0]LogCollectionManager: Loaded 0 collections in 0.003933 seconds
+[2020.04.21-18.51.28:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Collections/' took 0.01s
+[2020.04.21-18.51.28:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Developers/danny/Collections/' took 0.00s
+[2020.04.21-18.51.28:881][  0]LogFileCache: Scanning file cache for directory 'C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Collections/' took 0.00s
+[2020.04.21-18.51.28:881][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2020.04.21-18.51.28:899][  0]LogContentBrowser: Native class hierarchy populated in 0.0174 seconds. Added 2732 classes and 659 folders.
+[2020.04.21-18.51.28:916][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.21-18.51.28:923][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.28:943][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.28:991][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:008][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:023][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:040][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:055][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:071][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:087][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:106][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:121][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:137][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:152][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:168][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:184][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:198][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:282][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:302][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:314][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:326][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:339][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:351][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:363][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:375][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:388][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:401][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2020.04.21-18.51.29:558][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2020.04.21-18.51.29:573][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2020.04.21-18.51.32:600][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.21-18.51.32:656][  0]LogSlate: Took 0.000534 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.04.21-18.51.32:665][  0]LogSlate: Took 0.000567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.04.21-18.51.32:701][  0]LogSlate: Took 0.000934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.04.21-18.51.32:802][  0]LogRenderer: Reallocating scene render targets to support 804x460 Format 10 NumSamples 1 (Frame:1).
+[2020.04.21-18.51.32:984][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2020.04.21-18.51.32:985][  0]LogLoad: (Engine Initialization) Total time: 19.98 seconds
+[2020.04.21-18.51.32:985][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.04.21-18.51.33:281][  0]LogAssetRegistry: Asset discovery search completed in 11.0229 seconds
+[2020.04.21-18.51.33:285][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2020.04.21-18.51.33:285][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2020.04.21-18.51.33:287][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.04.21-18.51.33:369][  0]LogSlate: Took 0.022164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.21-18.51.40:622][737]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-18.53.00:005][375]LogLinker: Warning: Can't find file '/Game/Materials/Light'
+[2020.04.21-18.53.00:006][375]LogLinker: Warning: Can't find file for asset '/Game/Materials/Light' while loading NULL.
+[2020.04.21-18.53.00:007][375]LogLinker: Warning: Can't find file '/Game/Materials/Light'
+[2020.04.21-18.53.00:007][375]LogLinker: Warning: Can't find file for asset '/Game/Materials/Light' while loading NULL.
+[2020.04.21-18.53.00:008][375]LogLinker: Warning: Can't find file '/Game/Materials/Light'
+[2020.04.21-18.53.00:009][375]LoadErrors: Failed to load /Game/Materials/Light.Light Referenced by Light
+[2020.04.21-18.53.00:009][375]LogLinker: Warning: Can't find file for asset '/Game/Materials/Light' while loading NULL.
+[2020.04.21-18.53.00:009][375]LogLinker: Warning: Can't find file '/Game/Materials/Light'
+[2020.04.21-18.53.00:009][375]LogLinker: Warning: Can't find file for asset '/Game/Materials/Light' while loading NULL.
+[2020.04.21-18.53.00:322][395]LogActorFactory: Actor Factory created Light
+[2020.04.21-18.53.01:169][463]LogActorFactory: Actor Factory created Light
+[2020.04.21-18.53.07:190][906]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-18.53.28:921][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.21-18.53.33:378][786]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-18.53.44:873][541]LogSlate: Took 0.000354 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.21-18.53.49:330][925]LogLinker: Warning: Can't find file '/Game/ARC/ARC/Materials/DissolveAlpha'
+[2020.04.21-18.53.49:330][925]LogLinker: Warning: Can't find file for asset '/Game/ARC/ARC/Materials/DissolveAlpha' while loading NULL.
+[2020.04.21-18.53.49:330][925]LogLinker: Warning: Can't find file '/Game/ARC/ARC/Materials/DissolveAlpha'
+[2020.04.21-18.53.49:330][925]LogLinker: Warning: Can't find file for asset '/Game/ARC/ARC/Materials/DissolveAlpha' while loading NULL.
+[2020.04.21-18.53.49:332][925]LogLinker: Warning: Can't find file '/Game/ARC/ARC/Materials/DissolveAlpha'
+[2020.04.21-18.53.49:332][925]LoadErrors: Failed to load /Game/ARC/ARC/Materials/DissolveAlpha.DissolveAlpha Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2020.04.21-18.53.49:332][925]LogLinker: Warning: Can't find file for asset '/Game/ARC/ARC/Materials/DissolveAlpha' while loading NULL.
+[2020.04.21-18.53.49:340][925]LogMaterial: Display: Missing cached shader map for material PhaseMat, compiling. 
+[2020.04.21-18.53.49:341][925]LogMaterial: Warning: C:\Users\danny\Documents\GitHub\Team_Pandora\RPGame2\Content\Materials\PhaseMat.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.53.49:341][925]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2020.04.21-18.53.49:341][925]LogMaterial: 	(Node If) If input B must be of type float.
+[2020.04.21-18.54.53:399][163]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/LightMaterials.LightMaterials
+[2020.04.21-18.54.53:410][163]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.54.54:030][163]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.54.54:063][163]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.54.54:103][163]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.54.54:191][163]LogSlate: Took 0.000802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.21-18.54.55:698][214]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.54.59:792][414]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.54.59:816][414]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.21-18.54.59:869][415]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.55.00:729][453]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.55.02:519][539]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.02:520][539]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.02:520][539]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.02:532][539]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.21-18.55.02:562][539]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.04:831][655]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.04:832][655]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.04:833][655]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.04:872][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.21-18.55.04:881][655]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.21-18.55.12:546][ 40]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.12:546][ 40]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.12:546][ 40]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.12:581][ 40]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.21-18.55.18:151][324]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.18:152][324]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.18:152][324]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.22:913][589]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.22:914][589]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.22:914][589]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.22:993][590]LogSlate: Took 0.011102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.21-18.55.29:604][865]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.29:604][865]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.29:604][865]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.36:379][178]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.36:380][178]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.36:380][178]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.36:386][178]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.36:387][178]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.36:387][178]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.38:279][252]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.38:281][252]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.38:281][252]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.38:885][273]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.38:886][273]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.38:886][273]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.40:116][325]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.40:116][325]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.40:116][325]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.40:121][325]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.40:122][325]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.40:122][325]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.41:680][388]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.41:682][388]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.41:682][388]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.43:977][482]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.43:978][482]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.43:978][482]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.43:983][482]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.43:983][482]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.43:983][482]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.45:226][532]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.45:228][532]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.45:228][532]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.48:226][656]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.48:226][656]LogMaterial: Warning: /Engine/Transient.LightMaterials (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.21-18.55.48:227][656]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.21-18.55.53:123][898]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.53:150][898]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.55.53:156][898]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.21-18.55.53:195][898]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.55.54:194][941]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.55.55:506][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.00:008][169]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.00:035][169]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.00:040][169]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.21-18.56.00:080][169]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.00:595][188]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.01:965][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.21-18.56.04:333][356]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.21-18.56.08:548][591]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.08:571][591]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.21-18.56.08:638][592]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.10:318][658]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.12:837][757]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.21-18.56.12:837][757]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.21-18.56.12:838][757]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.21-18.56.12:838][757]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.21-18.56.12:838][757]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.21-18.56.12:838][757]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.21-18.56.17:960][963]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.17:988][963]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.17:988][963]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.21-18.56.18:929][  0]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.18:963][  0]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.21-18.56.18:994][  0]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.21-18.56.19:512][ 21]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.20:884][ 85]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.20:917][ 86]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.20:952][ 86]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.21-18.56.21:563][111]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.22:771][168]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.22:925][175]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.22:959][175]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.21-18.56.23:612][199]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.25:345][265]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.26:535][322]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.27:128][347]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.28:485][392]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: Base pass shader: 113 instructions
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.21-18.56.31:371][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.21-18.56.33:604][585]LogMaterialEditor: Applying material LightMaterials
+[2020.04.21-18.56.34:441][585]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.34:572][585]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.34:634][585]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.34:688][585]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.34:806][585]LogUObjectHash: Compacting FUObjectHashTables data took   5.88ms
+[2020.04.21-18.56.34:837][585]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.21-18.56.38:906][585]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.21-18.56.38:906][585]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.21-18.56.38:909][585]TextureStreamingBuild: Display: Compiling optional shaders took 4.102 seconds.
+[2020.04.21-18.56.38:955][585]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: Base pass shader: 113 instructions
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.21-18.56.45:792][876]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.21-18.56.45:913][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightMaterials" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightMaterials.uasset" SILENT=true
+[2020.04.21-18.56.45:960][879]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightMaterials0CB7F0E7441EA8D5A49965965F9A2DDB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightMaterials.uasset'
+[2020.04.21-18.56.49:231][101]LogSlate: Window 'LightMaterials' being destroyed
+[2020.04.21-18.56.51:500][293]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.21-18.56.51:538][293]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.21-18.56.51:538][293]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.21-18.56.53:058][425]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: Base pass shader: 113 instructions
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 187 instructions
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.21-18.56.55:099][617]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.21-18.57.02:535][166]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-18.57.10:461][571]LogEditorFactories: Performing atomic reimport of [C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Emission.png]
+[2020.04.21-18.57.10:473][571]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Emission.png)
+[2020.04.21-18.57.10:480][571]LogTexture: Display: Building textures: Emission (AutoDXT, 512X512)
+[2020.04.21-18.57.10:501][571]LogEditorFactories: -- imported successfully
+[2020.04.21-18.57.12:000][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Emission" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Emission.uasset" SILENT=true
+[2020.04.21-18.57.12:132][638]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/EmissionD4A213D74179602765080388E22D4EC1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Emission.uasset'
+[2020.04.21-18.57.23:242][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-18.57.32:084][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.21-18.57.32:383][837]Cmd: DELETE
+[2020.04.21-18.57.32:383][837]Cmd: ACTOR DELETE
+[2020.04.21-18.57.32:401][837]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.21-18.57.32:460][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.04.21-18.57.32:461][837]LogEditorActor: Deleted 1 Actors (0.066 secs)
+[2020.04.21-18.57.33:599][901]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.21-18.57.35:390][901]LogSlate: Window 'Save Level As' being destroyed
+[2020.04.21-18.57.42:227][186]LogAIModule: Creating AISystem for world Level4
+[2020.04.21-18.57.42:272][186]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.21-18.57.42:313][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2020.04.21-18.57.45:814][186]LogSlate: Window 'Save Content' being destroyed
+[2020.04.21-18.57.45:832][186]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-18.57.45:834][186]LightingResults: New page: Lighting Build
+[2020.04.21-18.57.45:839][186]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2020.04.21-18.57.45:842][186]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.21-18.57.45:843][186]MapCheck: New page: Map Check
+[2020.04.21-18.57.45:843][186]LightingResults: New page: Lighting Build
+[2020.04.21-18.57.45:881][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.21-18.57.45:908][186]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.21-18.57.45:958][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.21-18.57.46:044][186]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-18.57.46:047][186]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.26ms to complete.
+[2020.04.21-18.57.46:047][186]LogFileHelpers: Loading map 'Level4' took 0.225
