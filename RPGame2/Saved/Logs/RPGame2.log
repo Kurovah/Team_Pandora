@@ -804,3 +804,48 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-19.08.56:113][ 97]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4EBE4C775491D3182E35DC197C75B1EF8.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
 [2020.04.21-19.08.56:196][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
 [2020.04.21-19.08.56:564][ 97]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData682DC6FE4729E5FBAEBC39A58642D23B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.21-19.10.38:181][305]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-19.10.38:380][325]LogAIModule: Creating AISystem for world Level5
+[2020.04.21-19.10.38:384][325]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level5.Level5
+[2020.04.21-19.10.38:421][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.21-19.10.38:422][325]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-19.10.38:422][325]LightingResults: New page: Lighting Build
+[2020.04.21-19.10.38:424][325]LoadErrors: New page: Loading map: Level5.umap
+[2020.04.21-19.10.38:426][325]MapCheck: New page: Map Check
+[2020.04.21-19.10.38:426][325]LightingResults: New page: Lighting Build
+[2020.04.21-19.10.38:465][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.21-19.10.38:468][325]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.21-19.10.38:505][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.21-19.10.38:565][325]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-19.10.38:565][325]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.196ms to complete.
+[2020.04.21-19.10.38:565][325]LogFileHelpers: Loading map 'Level5' took 0.143
+[2020.04.21-19.10.41:205][416]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.04.21-19.10.41:205][416]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.04.21-19.10.41:205][416]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.04.21-19.10.41:205][416]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.04.21-19.10.41:206][416]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.21-19.10.41:210][416]LogAIModule: Creating AISystem for world Level4
+[2020.04.21-19.10.41:246][416]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.21-19.10.41:287][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.21-19.10.41:288][416]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.21-19.10.41:288][416]LightingResults: New page: Lighting Build
+[2020.04.21-19.10.41:291][416]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.21-19.10.41:291][416]MapCheck: New page: Map Check
+[2020.04.21-19.10.41:291][416]LightingResults: New page: Lighting Build
+[2020.04.21-19.10.41:329][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.04.21-19.10.41:344][416]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.21-19.10.41:384][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.21-19.10.41:441][416]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.21-19.10.41:441][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2020.04.21-19.10.41:441][416]LogFileHelpers: Loading map 'Level4' took 0.154
+[2020.04.21-19.10.48:464][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-19.14.09:735][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
