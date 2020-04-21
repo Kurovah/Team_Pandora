@@ -826,3 +826,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-18.40.20:714][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Light]
 [2020.04.21-18.40.20:797][989]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light_Auto17B5F58504BDA0A3986DF05B57D1E985A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Light_Auto1.uasset'
 [2020.04.21-18.40.20:802][989]LogFileHelpers: Auto-saving content packages took 0.282
+[2020.04.21-18.43.01:315][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
