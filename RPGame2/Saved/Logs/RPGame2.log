@@ -848,3 +848,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-19.10.41:441][416]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
 [2020.04.21-19.10.41:441][416]LogFileHelpers: Loading map 'Level4' took 0.154
 [2020.04.21-19.10.48:464][210]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.21-19.14.09:735][702]LogSlate: FSceneViewport::OnFocusLost() reason 0
