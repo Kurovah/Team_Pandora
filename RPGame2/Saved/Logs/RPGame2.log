@@ -815,3 +815,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.21-18.36.48:190][212]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2020.04.21-18.36.48:234][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Light" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset" SILENT=true
 [2020.04.21-18.36.48:439][212]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light3CD4EC62448DE649785EC3A06F08EDD6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light.uasset'
+[2020.04.21-18.40.20:517][989]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2020.04.21-18.40.20:518][989]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.076
+[2020.04.21-18.40.20:521][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Emission] ([1] browsable assets)...
+[2020.04.21-18.40.20:539][989]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Emission.Emission]
+[2020.04.21-18.40.20:539][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Emission]
+[2020.04.21-18.40.20:661][989]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Emission_Auto19EE1B6DE413CE7B838BF9DBB79517EF2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Textures/Emission_Auto1.uasset'
+[2020.04.21-18.40.20:663][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Light] ([1] browsable assets)...
+[2020.04.21-18.40.20:714][989]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Light.Light]
+[2020.04.21-18.40.20:714][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Light]
+[2020.04.21-18.40.20:797][989]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light_Auto17B5F58504BDA0A3986DF05B57D1E985A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Light_Auto1.uasset'
+[2020.04.21-18.40.20:802][989]LogFileHelpers: Auto-saving content packages took 0.282
