@@ -604,3 +604,32 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.23-08.45.20:609][518]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.04.23-08.45.20:610][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
 [2020.04.23-08.45.20:610][518]LogFileHelpers: Loading map 'Level5' took 0.101
+[2020.04.23-08.52.30:667][153]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.04.23-08.52.30:667][153]LogMaterial: Display: Missing cached shader map for material LightMaterials, compiling. 
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 1024X1024)
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 1024X1024)
+[2020.04.23-08.52.30:826][153]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 1024X512)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2020.04.23-08.52.31:848][153]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2020.04.23-08.52.31:848][153]LogAIModule: Creating AISystem for world Level4
+[2020.04.23-08.52.31:894][153]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.23-08.52.31:934][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2020.04.23-08.52.31:935][153]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-08.52.31:935][153]LightingResults: New page: Lighting Build
+[2020.04.23-08.52.31:936][153]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.23-08.52.31:936][153]MapCheck: New page: Map Check
+[2020.04.23-08.52.31:936][153]LightingResults: New page: Lighting Build
+[2020.04.23-08.52.31:972][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.23-08.52.32:011][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-08.52.32:044][153]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2020.04.23-08.52.32:066][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-08.52.32:066][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
+[2020.04.23-08.52.32:066][153]LogFileHelpers: Loading map 'Level4' took 0.132
