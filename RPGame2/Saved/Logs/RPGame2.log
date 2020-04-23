@@ -590,3 +590,17 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.23-08.43.39:677][741]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.04.23-08.43.39:677][741]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.152ms to complete.
 [2020.04.23-08.43.39:677][741]LogFileHelpers: Loading map 'Level4' took 0.089
+[2020.04.23-08.45.20:454][518]LogAIModule: Creating AISystem for world Level5
+[2020.04.23-08.45.20:460][518]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level5.Level5
+[2020.04.23-08.45.20:507][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.23-08.45.20:508][518]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.23-08.45.20:508][518]LightingResults: New page: Lighting Build
+[2020.04.23-08.45.20:508][518]LoadErrors: New page: Loading map: Level5.umap
+[2020.04.23-08.45.20:510][518]MapCheck: New page: Map Check
+[2020.04.23-08.45.20:510][518]LightingResults: New page: Lighting Build
+[2020.04.23-08.45.20:556][518]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2020.04.23-08.45.20:563][518]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.23-08.45.20:594][518]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2020.04.23-08.45.20:609][518]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.23-08.45.20:610][518]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2020.04.23-08.45.20:610][518]LogFileHelpers: Loading map 'Level5' took 0.101
