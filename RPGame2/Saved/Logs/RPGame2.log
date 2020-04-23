@@ -633,3 +633,615 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.23-08.52.32:066][153]Cmd: MAP CHECKDEP NOCLEARLOG
 [2020.04.23-08.52.32:066][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.201ms to complete.
 [2020.04.23-08.52.32:066][153]LogFileHelpers: Loading map 'Level4' took 0.132
+[2020.04.23-08.52.46:540][469]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.23-08.52.46:556][469]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-08.52.46:559][469]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-08.52.46:561][469]PIE: New page: PIE session: Level4 (23 Apr 2020 10:52:46)
+[2020.04.23-08.52.46:584][469]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.23-08.52.46:609][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025136s)
+[2020.04.23-08.52.46:610][469]LogAIModule: Creating AISystem for world Level4
+[2020.04.23-08.52.46:611][469]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2020.04.23-08.52.46:611][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.027479s)
+[2020.04.23-08.52.46:638][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.23-08.52.46:646][469]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.23-08.52.46:659][469]LogInit: FAudioDevice initialized.
+[2020.04.23-08.52.46:715][469]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.23-08.52.46:732][469]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.23-09.52.46
+[2020.04.23-08.52.46:735][469]LogWorld: Bringing up level for play took: 0.018045
+[2020.04.23-08.52.46:766][469]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.04.23-08.52.46:771][469]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.04.23-08.52.46:771][469]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.23-08.52.46:792][469]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.555
+[2020.04.23-08.52.46:792][469]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-08.52.54:753][931]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-08.52.54:756][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-08.52.54:788][931]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-08.52.54:788][931]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-08.52.54:826][931]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-08.52.54:867][931]LogUObjectHash: Compacting FUObjectHashTables data took   4.47ms
+[2020.04.23-08.52.54:911][932]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2020.04.23-08.53.11:751][934]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.23-08.53.22:803][587]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.53.45:804][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.23-08.53.47:993][ 82]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.53.59:404][748]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.03:962][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.08:511][293]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.14:724][665]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.33:124][747]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.40:378][181]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.54.49:002][696]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.55.01:446][433]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.55.08:514][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig60)
+[2020.04.23-08.55.09:529][915]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2020.04.23-08.55.10:377][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.55.26:430][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2020.04.23-08.55.34:253][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.55.55:287][638]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.55.55:387][644]MapCheck: New page: Map Check
+[2020.04.23-08.55.55:413][644]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.23-08.55.55:414][644]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.23-08.55.55:471][644]LogBlueprintActionDatabase: Requesting refresh due to module change: HierarchicalLODUtilities (loaded)
+[2020.04.23-08.55.55:530][644]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2020.04.23-08.55.55:642][644]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-08.55.55:653][644]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-08.55.55:661][644]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-08.55.56:229][644]TextureStreamingBuild: Display: Compiling optional shaders took 0.609 seconds.
+[2020.04.23-08.55.56:245][644]LogLevel: Display: Export Material TexCoord Scales took 0.016 seconds.
+[2020.04.23-08.55.56:347][644]TextureStreamingBuild: Display: Build Texture Streaming took 0.101 seconds.
+[2020.04.23-08.55.56:384][644]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.23-08.55.56:386][644]LightingResults: New page: Lighting Build - 23 Apr 2020 10:55:56
+[2020.04.23-08.55.56:437][644]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.23-08.55.56:559][644]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.23-08.55.56:578][644]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.23-08.55.57:642][644]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.23-08.55.57:642][644]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26024
+[2020.04.23-08.56.04:148][644]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.23-08.56.04:149][644]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.23-08.56.04:149][644]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.23-08.56.04:149][644]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.23-08.56.04:149][644]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.23-08.56.04:149][644]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.23-08.56.04:311][644]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.23-08.56.04:311][644]MapCheck: New page: Level4 - 23 Apr 2020 10:56:04
+[2020.04.23-08.56.04:312][644]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.04.23-08.56.04:313][644]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.04:313][644]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.04:313][644]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.04:313][644]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.04:314][644]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.04:315][644]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 3.67ms to complete.
+[2020.04.23-08.56.04:339][644]LogEditorBuildUtils: Build time 0:08
+[2020.04.23-08.56.04:693][645]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LightMaterials, compiling. 
+[2020.04.23-08.56.04:703][645]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LightMaterials, compiling. 
+[2020.04.23-08.56.05:344][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2020.04.23-08.56.20:423][501]Job is a success!
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.037s
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:          1: 6.0% covering 34.4% of volume
+[2020.04.23-08.56.20:538][502]LogVolumetricLightmapImport:          2: 93.7% covering 8.3% of volume
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 1024X512)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.04.23-08.56.21:819][502]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.04.23-08.56.22:035][502]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2020.04.23-08.56.22:036][502]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2020.04.23-08.56.22:070][502]Lightmass on LAPTOP-I19E2VM6: 16.0 sec total, 206 ms importing, 24 ms setup, 1.78 sec photons, 13.9 sec processing, 0 ms extra exporting [300/300 mappings]. Threads: 1:37 min total, 1:04 min processing.
+[2020.04.23-08.56.22:073][502]LogStaticLightingSystem: Level4_BuiltData storing lightmap data for 300 meshes in 6 LightmapResourceClusters (50.0 Meshes per cluster).
+[2020.04.23-08.56.22:142][502]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2020.04.23-08.56.22:152][502]LogStaticLightingSystem: Illumination: 25.7 sec (1.13 sec encoding lightmaps, 212 ms encoding shadowmaps)
+[2020.04.23-08.56.22:152][502]LogStaticLightingSystem: Lightmap texture memory:  8.0 MB (8.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.04.23-08.56.22:152][502]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.23-08.56.22:165][502]DumpUnbuiltLightIteractions
+[2020.04.23-08.56.22:165][502]Lights with unbuilt interactions: 0
+[2020.04.23-08.56.22:165][502]
+[2020.04.23-08.56.22:165][502]Primitives with unbuilt interactions: 0
+[2020.04.23-08.56.22:375][503]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.23-08.56.22:375][503]MapCheck: New page: Level4 - 23 Apr 2020 10:56:22
+[2020.04.23-08.56.22:375][503]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.22:375][503]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.22:375][503]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.22:375][503]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.22:375][503]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-08.56.22:376][503]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 1.404ms to complete.
+[2020.04.23-08.57.17:232][791]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.57.52:630][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.23-08.57.54:404][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.58.00:952][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.58.06:058][712]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.58.26:785][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.58.41:129][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.58.55:876][663]Cmd: DELETE
+[2020.04.23-08.58.55:876][663]Cmd: ACTOR DELETE
+[2020.04.23-08.58.55:913][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:914][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:915][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:915][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:915][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:916][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:916][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:916][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:916][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:917][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:917][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:917][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:918][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:918][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:918][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:918][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-08.58.55:947][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2020.04.23-08.58.55:948][663]LogEditorActor: Deleted 16 Actors (0.052 secs)
+[2020.04.23-08.59.01:172][973]Cmd: DELETE
+[2020.04.23-08.59.01:172][973]Cmd: ACTOR DELETE
+[2020.04.23-08.59.01:206][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.23-08.59.01:206][973]LogEditorActor: Deleted 0 Actors (0.034 secs)
+[2020.04.23-08.59.04:558][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.23-08.59.05:080][170]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level42CC637624350015C5F1A7B9578932422.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.23-08.59.05:115][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.23-08.59.05:428][170]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataA519C1854C43308B3CC06D8A595C601A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.23-08.59.06:082][204]LogEditorViewport: Clicking on Actor (LMB): MovingLightLamp_C (MovingLightLamp4)
+[2020.04.23-08.59.08:876][370]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.59.15:809][786]Cmd: DELETE
+[2020.04.23-08.59.15:809][786]Cmd: ACTOR DELETE
+[2020.04.23-08.59.15:818][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:819][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:819][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:820][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:820][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:820][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:821][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:821][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:821][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:822][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:822][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:822][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:823][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:823][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:823][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:824][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:824][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:824][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:825][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:825][786]LogEditorActor: Deleted Actor: MovingLight3_C
+[2020.04.23-08.59.15:825][786]LogEditorActor: Deleted Actor: MovingLight4_C
+[2020.04.23-08.59.15:826][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:826][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:827][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:827][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:827][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:828][786]LogEditorActor: Deleted Actor: MovingLightLamp_C
+[2020.04.23-08.59.15:828][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:828][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:829][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:829][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:829][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:830][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:830][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:830][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:831][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:831][786]LogEditorActor: Deleted Actor: MovingLightLampBackWards_C
+[2020.04.23-08.59.15:858][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2020.04.23-08.59.15:859][786]LogEditorActor: Deleted 37 Actors (0.050 secs)
+[2020.04.23-08.59.37:052][ 53]LogActorFactory: Actor Factory created Light
+[2020.04.23-08.59.38:098][116]LogActorFactory: Actor Factory created Light
+[2020.04.23-08.59.39:479][197]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.59.48:181][718]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-08.59.57:563][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.00.13:496][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.00.24:301][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.00.28:351][122]MapCheck: New page: Map Check
+[2020.04.23-09.00.28:371][122]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.23-09.00.28:372][122]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.23-09.00.28:434][122]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.04.23-09.00.28:523][122]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.00.28:529][122]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.00.28:536][122]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.00.29:081][122]TextureStreamingBuild: Display: Compiling optional shaders took 0.561 seconds.
+[2020.04.23-09.00.29:085][122]LogLevel: Display: Export Material TexCoord Scales took 0.005 seconds.
+[2020.04.23-09.00.29:178][122]TextureStreamingBuild: Display: Build Texture Streaming took 0.092 seconds.
+[2020.04.23-09.00.29:216][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2020.04.23-09.00.29:216][122]LightingResults: New page: Lighting Build - 23 Apr 2020 11:00:29
+[2020.04.23-09.00.29:225][122]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.23-09.00.29:227][122]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.23-09.00.29:227][122]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.23-09.00.29:228][122]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.23-09.00.29:228][122]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26024
+[2020.04.23-09.00.33:792][122]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.23-09.00.33:793][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.23-09.00.33:793][122]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.23-09.00.33:793][122]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.23-09.00.33:793][122]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.23-09.00.33:793][122]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.23-09.00.33:926][122]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.23-09.00.33:926][122]MapCheck: New page: Level4 - 23 Apr 2020 11:00:33
+[2020.04.23-09.00.33:926][122]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.04.23-09.00.33:926][122]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.33:927][122]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.33:927][122]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.33:927][122]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.33:927][122]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.33:927][122]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 1.416ms to complete.
+[2020.04.23-09.00.33:951][122]LogEditorBuildUtils: Build time 0:05
+[2020.04.23-09.00.34:133][126]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.23-09.00.48:082][934]Job is a success!
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:          1: 6.0% covering 34.4% of volume
+[2020.04.23-09.00.48:175][935]LogVolumetricLightmapImport:          2: 93.7% covering 8.3% of volume
+[2020.04.23-09.00.49:370][935]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2020.04.23-09.00.49:370][935]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 1024X512)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 1024X1024)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 1024X1024)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 512X256)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: SkyOcclusion0_4 (AutoDXT, 64X32)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2020.04.23-09.00.49:371][935]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2020.04.23-09.00.49:571][935]LogTexture: Display: Building textures: ShadowMapTexture2D_5 (G8, 32X32)
+[2020.04.23-09.00.49:648][935]LogTexture: Display: Building textures: ShadowMapTexture2D_4 (G8, 1024X1024)
+[2020.04.23-09.00.49:661][935]Lightmass on LAPTOP-I19E2VM6: 15.0 sec total, 147 ms importing, 30 ms setup, 1.64 sec photons, 13.2 sec processing, 0 ms extra exporting [285/285 mappings]. Threads: 1:32 min total, 1:01 min processing.
+[2020.04.23-09.00.49:662][935]LogStaticLightingSystem: Level4_BuiltData storing lightmap data for 285 meshes in 6 LightmapResourceClusters (47.5 Meshes per cluster).
+[2020.04.23-09.00.49:713][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.23-09.00.49:721][935]LogStaticLightingSystem: Illumination: 20.4 sec (1.09 sec encoding lightmaps, 270 ms encoding shadowmaps)
+[2020.04.23-09.00.49:721][935]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.04.23-09.00.49:721][935]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.23-09.00.49:809][935]DumpUnbuiltLightIteractions
+[2020.04.23-09.00.49:809][935]Lights with unbuilt interactions: 0
+[2020.04.23-09.00.49:809][935]
+[2020.04.23-09.00.49:809][935]Primitives with unbuilt interactions: 0
+[2020.04.23-09.00.50:038][936]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.23-09.00.50:038][936]MapCheck: New page: Level4 - 23 Apr 2020 11:00:50
+[2020.04.23-09.00.50:038][936]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.50:038][936]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.50:038][936]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.50:038][936]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.50:038][936]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.00.50:039][936]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 1.317ms to complete.
+[2020.04.23-09.01.02:136][661]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.01.02:237][667]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.23-09.01.02:252][667]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-09.01.02:252][667]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.23-09.01.02:252][667]PIE: New page: PIE session: Level4 (23 Apr 2020 11:01:02)
+[2020.04.23-09.01.02:252][667]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.23-09.01.02:269][667]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016676s)
+[2020.04.23-09.01.02:269][667]LogAIModule: Creating AISystem for world Level4
+[2020.04.23-09.01.02:269][667]LogPlayLevel: PIE: World Init took: (0.000560s)
+[2020.04.23-09.01.02:269][667]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.017420s)
+[2020.04.23-09.01.02:300][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2020.04.23-09.01.02:303][667]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.23-09.01.02:316][667]LogInit: FAudioDevice initialized.
+[2020.04.23-09.01.02:347][667]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.23-09.01.02:352][667]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.23-10.01.02
+[2020.04.23-09.01.02:353][667]LogWorld: Bringing up level for play took: 0.004575
+[2020.04.23-09.01.02:366][667]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.129
+[2020.04.23-09.01.02:366][667]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-09.01.10:000][124]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-09.01.10:000][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.01.10:033][124]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.23-09.01.10:033][124]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.23-09.01.10:067][124]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.23-09.01.10:071][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.23-09.01.10:118][125]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.04.23-09.01.12:662][274]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.01.14:646][392]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Block_Tex.Block_Tex
+[2020.04.23-09.01.14:656][392]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.14:769][392]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.14:790][392]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.01.14:817][392]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.23-09.01.14:824][392]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.23-09.01.15:292][411]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.01.16:089][460]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.01.17:107][521]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.01.18:035][576]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.01.24:083][938]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.24:103][938]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.23-09.01.24:118][938]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.01.24:760][977]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.01.25:860][ 43]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.01.26:970][109]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.01.29:037][233]LogMaterialEditor: Applying material Block_Tex
+[2020.04.23-09.01.30:595][233]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.30:665][233]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.01.30:690][233]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.30:723][233]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.01.30:786][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.23-09.01.30:795][233]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.01.32:986][233]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.23-09.01.32:986][233]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.23-09.01.33:000][233]TextureStreamingBuild: Display: Compiling optional shaders took 2.213 seconds.
+[2020.04.23-09.01.33:038][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.01.36:330][427]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.01.56:670][645]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig19)
+[2020.04.23-09.02.00:246][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig11)
+[2020.04.23-09.02.01:230][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig4)
+[2020.04.23-09.02.02:457][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig18)
+[2020.04.23-09.02.04:621][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.23-09.02.20:644][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.02.33:859][848]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Blocks_Cubeup105)
+[2020.04.23-09.02.33:930][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.23-09.02.35:325][930]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig24)
+[2020.04.23-09.02.49:096][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.02.55:322][121]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.02.55:356][122]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.02.56:081][166]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.02.57:134][229]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.02.58:428][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.02.59:375][362]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.02.59:394][362]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.02.59:418][364]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.02.59:921][394]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.00:988][458]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.02:118][525]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.02:139][525]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.02:676][558]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.03:726][621]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.04:981][693]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.03.04:981][693]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.03.04:981][693]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.03.04:982][693]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.03.04:982][693]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.03.04:982][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.03.04:982][693]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.03.11:050][ 56]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.11:091][ 57]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.11:600][ 88]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.12:703][154]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.13:100][177]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.13:121][177]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.13:836][221]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.14:903][285]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.03.16:279][367]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.03.28:385][ 93]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.28:403][ 93]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.28:429][ 95]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.28:964][127]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.30:034][191]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.30:080][193]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.30:234][202]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.30:867][240]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.31:916][303]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.03.33:160][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.03.35:157][496]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.35:175][496]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.35:202][498]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.35:704][528]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.36:754][591]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.38:047][668]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.03.38:047][668]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.03.38:048][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.03.38:048][668]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.03.38:048][668]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.03.38:048][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.03.38:048][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.03.39:976][783]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.39:992][783]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.39:995][783]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.40:275][800]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.40:809][832]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.41:270][858]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.41:303][859]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.41:977][900]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.42:779][947]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.42:802][947]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.42:806][947]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.42:865][949]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.43:523][989]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.44:618][ 54]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.03.46:062][140]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.03.48:190][267]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.48:212][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.23-09.03.48:227][267]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.48:881][306]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.49:943][369]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.50:234][386]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.50:816][421]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.23-09.03.51:883][485]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.23-09.03.52:326][511]LogMaterialEditor: Applying material Block_Tex
+[2020.04.23-09.03.52:858][511]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.52:936][511]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.52:963][511]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.52:990][511]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.53:056][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.23-09.03.53:068][511]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.03.55:361][511]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.23-09.03.55:361][511]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.23-09.03.55:361][511]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.23-09.03.55:371][511]TextureStreamingBuild: Display: Compiling optional shaders took 2.313 seconds.
+[2020.04.23-09.03.55:410][511]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.23-09.03.57:840][652]LogMaterialEditor: Applying material Block_Tex
+[2020.04.23-09.03.58:284][652]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.58:363][652]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.23-09.03.58:392][652]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.58:421][652]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.23-09.03.58:482][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.23-09.03.58:495][652]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.04.00:841][652]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.23-09.04.00:841][652]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.23-09.04.00:841][652]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.23-09.04.00:853][652]TextureStreamingBuild: Display: Compiling optional shaders took 2.370 seconds.
+[2020.04.23-09.04.00:893][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.23-09.04.04:148][842]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.23-09.04.04:148][842]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.23-09.04.04:148][842]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.23-09.04.04:148][842]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.23-09.04.04:149][842]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.23-09.04.04:149][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.23-09.04.04:149][842]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.23-09.04.09:889][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.23-09.04.22:468][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig19)
+[2020.04.23-09.04.24:540][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig11)
+[2020.04.23-09.04.25:843][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig19)
+[2020.04.23-09.04.27:246][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig4)
+[2020.04.23-09.04.28:101][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig19)
+[2020.04.23-09.04.28:821][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig20)
+[2020.04.23-09.04.29:656][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig12)
+[2020.04.23-09.04.35:413][697]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.04.35:512][703]MapCheck: New page: Map Check
+[2020.04.23-09.04.35:531][703]Cmd: MAP REBUILD ALLVISIBLE
+[2020.04.23-09.04.35:531][703]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2020.04.23-09.04.35:590][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.23-09.04.35:686][703]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.04.35:692][703]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.04.35:699][703]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.23-09.04.36:253][703]TextureStreamingBuild: Display: Compiling optional shaders took 0.570 seconds.
+[2020.04.23-09.04.36:257][703]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2020.04.23-09.04.36:348][703]TextureStreamingBuild: Display: Build Texture Streaming took 0.091 seconds.
+[2020.04.23-09.04.36:385][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.23-09.04.36:385][703]LightingResults: New page: Lighting Build - 23 Apr 2020 11:04:36
+[2020.04.23-09.04.36:394][703]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.04.23-09.04.36:396][703]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.04.23-09.04.36:396][703]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.04.23-09.04.36:397][703]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.04.23-09.04.36:397][703]LogSwarmInterface: [TryOpenConnection] Local Process ID is 26024
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.04.23-09.04.40:936][703]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.04.23-09.04.41:079][703]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2020.04.23-09.04.41:079][703]MapCheck: New page: Level4 - 23 Apr 2020 11:04:41
+[2020.04.23-09.04.41:079][703]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2020.04.23-09.04.41:079][703]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.41:079][703]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.41:079][703]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.41:079][703]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.41:079][703]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.41:080][703]MapCheck: Map check complete: 1 Error(s), 5 Warning(s), took 1.42ms to complete.
+[2020.04.23-09.04.41:104][703]LogEditorBuildUtils: Build time 0:05
+[2020.04.23-09.04.41:116][703]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Block_Tex, compiling. 
+[2020.04.23-09.04.41:124][703]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Block_Tex, compiling. 
+[2020.04.23-09.04.41:668][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2020.04.23-09.04.55:603][518]Job is a success!
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.033s
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:      BrickData 1280x10x5 = 2.5Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:      Bricks at Level
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:          0: 0.3% covering 100.0% of volume
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:          1: 6.0% covering 34.4% of volume
+[2020.04.23-09.04.55:692][519]LogVolumetricLightmapImport:          2: 93.7% covering 8.3% of volume
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 1024X512)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 1024X512)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2020.04.23-09.04.56:886][519]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 512X256)
+[2020.04.23-09.04.56:887][519]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 512X512)
+[2020.04.23-09.04.56:887][519]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 512X512)
+[2020.04.23-09.04.56:887][519]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 64X32)
+[2020.04.23-09.04.56:887][519]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 64X64)
+[2020.04.23-09.04.56:887][519]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 64X64)
+[2020.04.23-09.04.57:087][519]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 32X32)
+[2020.04.23-09.04.57:128][519]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 1024X1024)
+[2020.04.23-09.04.57:143][519]Lightmass on LAPTOP-I19E2VM6: 15.0 sec total, 133 ms importing, 30 ms setup, 1.67 sec photons, 13.1 sec processing, 0 ms extra exporting [285/285 mappings]. Threads: 1:32 min total, 1:00 min processing.
+[2020.04.23-09.04.57:143][519]LogStaticLightingSystem: Level4_BuiltData storing lightmap data for 285 meshes in 6 LightmapResourceClusters (47.5 Meshes per cluster).
+[2020.04.23-09.04.57:194][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2020.04.23-09.04.57:201][519]LogStaticLightingSystem: Illumination: 20.8 sec (1.08 sec encoding lightmaps, 235 ms encoding shadowmaps)
+[2020.04.23-09.04.57:201][519]LogStaticLightingSystem: Lightmap texture memory:  6.0 MB (6.0 MB streaming, 0.0 MB non-streaming), 8 textures
+[2020.04.23-09.04.57:201][519]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2020.04.23-09.04.57:954][519]DumpUnbuiltLightIteractions
+[2020.04.23-09.04.57:954][519]Lights with unbuilt interactions: 0
+[2020.04.23-09.04.57:954][519]
+[2020.04.23-09.04.57:954][519]Primitives with unbuilt interactions: 0
+[2020.04.23-09.04.58:195][520]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.04.23-09.04.58:195][520]MapCheck: New page: Level4 - 23 Apr 2020 11:04:58
+[2020.04.23-09.04.58:195][520]MapCheck: Warning: Floor Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.58:196][520]MapCheck: Warning: Floor2 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.58:196][520]MapCheck: Warning: Floor3 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.58:196][520]MapCheck: Warning: Floor4 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.58:196][520]MapCheck: Warning: Floor5 Static mesh actor has NULL StaticMesh property 
+[2020.04.23-09.04.58:196][520]MapCheck: Map check complete: 0 Error(s), 5 Warning(s), took 1.282ms to complete.
+[2020.04.23-09.05.07:081][ 52]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.05.11:386][309]Cmd: DELETE
+[2020.04.23-09.05.11:386][309]Cmd: ACTOR DELETE
+[2020.04.23-09.05.11:391][309]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.05.11:422][309]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.23-09.05.11:423][309]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2020.04.23-09.05.13:605][440]Cmd: DELETE
+[2020.04.23-09.05.13:605][440]Cmd: ACTOR DELETE
+[2020.04.23-09.05.13:609][440]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.05.13:638][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.04.23-09.05.13:638][440]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.04.23-09.05.15:172][532]Cmd: DELETE
+[2020.04.23-09.05.15:172][532]Cmd: ACTOR DELETE
+[2020.04.23-09.05.15:176][532]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.05.15:206][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.23-09.05.15:206][532]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2020.04.23-09.05.16:555][613]Cmd: DELETE
+[2020.04.23-09.05.16:555][613]Cmd: ACTOR DELETE
+[2020.04.23-09.05.16:560][613]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.05.16:586][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.04.23-09.05.16:586][613]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2020.04.23-09.05.17:160][647]Cmd: DELETE
+[2020.04.23-09.05.17:160][647]Cmd: ACTOR DELETE
+[2020.04.23-09.05.17:165][647]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.23-09.05.17:193][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.04.23-09.05.17:193][647]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2020.04.23-09.05.34:645][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.04.23-09.05.36:403][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.23-09.05.47:704][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2020.04.23-09.05.56:497][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.23-09.05.56:540][993]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.23-09.05.56:926][993]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level423D2869545A1AA135F337FA6A8D41A5A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.23-09.05.56:954][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.23-09.05.57:230][993]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData96C647CD47956B60521E3EA5AFF1CAA6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
