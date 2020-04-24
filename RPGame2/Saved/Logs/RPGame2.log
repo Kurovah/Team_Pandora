@@ -16632,3 +16632,26 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-13.53.15:104][ 91]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
 [2020.04.24-13.57.01:773][921]BlueprintLog: New page: Compile GamePlayWidget
 [2020.04.24-13.57.01:866][921]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.04.24-13.59.50:172][538]LogHttp: Warning: 000002C0858CB740: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.24-13.59.50:172][538]LogHttp: Warning: 000002C0858CB740: libcurl info message cache 0 (Connection 62 seems to be dead!)
+[2020.04.24-13.59.50:172][538]LogHttp: Warning: 000002C0858CB740: libcurl info message cache 1 (Closing connection 62)
+[2020.04.24-13.59.50:173][538]LogHttp: Warning: 000002C0858CB740: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.04.24-13.59.50:173][538]LogHttp: Warning: 000002C0858CB740: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.24-13.59.50:173][538]LogHttp: Warning: 000002C0858CB740: libcurl info message cache 4 (Closing connection 63)
+[2020.04.24-13.59.50:510][539]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B6D57E85D-4CFB-6CD0-EBE6-B8891991932F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2468d657458d7c265741b096f3940825%7Ca6c340edab2b4ae281f9adb0290d3f33%7C4bffe0fa-036a-4855-8c82-96f544d91d42&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.24-14.00.31:731][660]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2020.04.24-14.00.31:731][660]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/menus/MainMenu' took 0.098
+[2020.04.24-14.00.31:744][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/abilityIcons/border] ([1] browsable assets)...
+[2020.04.24-14.00.31:760][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/abilityIcons/border.border]
+[2020.04.24-14.00.31:760][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/abilityIcons/border]
+[2020.04.24-14.00.31:793][660]LogTexture: Display: Building textures: border (AutoDXT, 512X512)
+[2020.04.24-14.00.31:862][660]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/border_Auto7A03D0129481FACFEC3634E8F3AB4ED44.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Textures/abilityIcons/border_Auto7.uasset'
+[2020.04.24-14.00.31:866][660]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/GamePlayWidget] ([1] browsable assets)...
+[2020.04.24-14.00.31:866][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/GamePlayWidget]
+[2020.04.24-14.00.32:001][660]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GamePlayWidget_Auto76D6BA61A4E8985B7C8DA1B8C418E129E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/GamePlayWidget_Auto7.uasset'
+[2020.04.24-14.00.32:005][660]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/abilityIcons/UIRibbon] ([1] browsable assets)...
+[2020.04.24-14.00.32:022][660]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/abilityIcons/UIRibbon.UIRibbon]
+[2020.04.24-14.00.32:022][660]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/abilityIcons/UIRibbon]
+[2020.04.24-14.00.32:050][660]LogTexture: Display: Building textures: UIRibbon (AutoDXT, 512X512)
+[2020.04.24-14.00.32:120][660]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/UIRibbon_Auto77479DF404A698280A6037FB035EEE09E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Textures/abilityIcons/UIRibbon_Auto7.uasset'
+[2020.04.24-14.00.32:124][660]LogFileHelpers: Auto-saving content packages took 0.391
