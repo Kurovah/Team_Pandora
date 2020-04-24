@@ -561,3 +561,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-07.03.44:523][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000099 seconds (updated 0 objects)
 [2020.04.24-07.03.45:291][ 81]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.24-07.04.01:992][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.05.34:905][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
