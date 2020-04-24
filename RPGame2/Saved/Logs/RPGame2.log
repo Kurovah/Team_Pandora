@@ -10299,3 +10299,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-19.43.36:307][341]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
 [2020.04.24-19.43.36:387][341]LogUObjectHash: Compacting FUObjectHashTables data took   4.63ms
 [2020.04.24-19.43.36:560][342]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.04.24-19.46.15:439][324]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2020.04.24-19.46.15:788][324]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/PhasingTest_Auto6EF8E00E14150D746AB03ECBEEDB9BD54.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Maps/testMaps/PhasingTest_Auto6.umap'
+[2020.04.24-19.46.15:799][324]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testMaps/PhasingTest' took 0.421
+[2020.04.24-19.46.15:799][324]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.421
+[2020.04.24-19.46.15:802][324]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/actors/switch] ([1] browsable assets)...
+[2020.04.24-19.46.15:840][324]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/actors/switch.switch]
+[2020.04.24-19.46.15:840][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/actors/switch]
+[2020.04.24-19.46.15:926][324]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/switch_Auto6DCE8635E4628C814CD214A8236ED45D6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/actors/switch_Auto6.uasset'
+[2020.04.24-19.46.15:929][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/GamePlayWidget] ([1] browsable assets)...
+[2020.04.24-19.46.15:929][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/GamePlayWidget]
+[2020.04.24-19.46.15:994][324]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GamePlayWidget_Auto6685431FA44D1EC9D5810859BDB3218AC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/GamePlayWidget_Auto6.uasset'
+[2020.04.24-19.46.15:997][324]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/menucomponents/AbilIconWidget] ([1] browsable assets)...
+[2020.04.24-19.46.15:997][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/menucomponents/AbilIconWidget]
+[2020.04.24-19.46.16:056][324]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/AbilIconWidget_Auto635FA58064436116A52D2C6A6BC1703D6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/menucomponents/AbilIconWidget_Auto6.uasset'
+[2020.04.24-19.46.16:058][324]LogFileHelpers: Auto-saving content packages took 0.257
