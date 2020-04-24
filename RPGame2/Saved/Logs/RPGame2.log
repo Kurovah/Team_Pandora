@@ -562,3 +562,452 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-07.03.45:291][ 81]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.24-07.04.01:992][805]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2020.04.24-07.05.34:905][716]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.07.55:503][217]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-07.07.55:649][217]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.04.24-07.07.55:908][217]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.07.55:913][217]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2020.04.24-07.07.55:964][217]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.07.56:422][217]LogRenderer: Reallocating scene render targets to support 904x460 Format 10 NumSamples 1 (Frame:1).
+[2020.04.24-07.07.56:422][217]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.08.25:519][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.08.36:907][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.08.37:059][685]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun01" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset" SILENT=true
+[2020.04.24-07.08.37:098][685]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun01B373C12B4851E8431E373DA630FC55B6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset'
+[2020.04.24-07.08.58:460][657]LogSlate: Window 'WRun01' being destroyed
+[2020.04.24-07.08.58:467][657]LogSlate: Window 'WRun01' being destroyed
+[2020.04.24-07.09.00:129][814]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun02.WRun02
+[2020.04.24-07.09.00:142][814]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.09.00:164][814]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.09.00:474][814]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.09.06:770][229]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.09.19:269][976]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.09.23:808][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.09.23:951][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun02" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset" SILENT=true
+[2020.04.24-07.09.23:985][255]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun0228B81BAD4463D1DB89C6A08B6B741B71.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset'
+[2020.04.24-07.09.28:400][507]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WStick.WStick
+[2020.04.24-07.09.28:411][507]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.09.28:450][507]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.09.28:748][507]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.09.32:008][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.09.39:367][132]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.09.39:494][138]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WStick" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset" SILENT=true
+[2020.04.24-07.09.39:531][138]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WStick2EA4631144737D8808E5E8B7B9C62F8D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset'
+[2020.04.24-07.09.42:358][307]LogSlate: Window 'WStick' being destroyed
+[2020.04.24-07.09.42:362][307]LogSlate: Window 'WStick' being destroyed
+[2020.04.24-07.09.45:172][463]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-07.09.45:183][463]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.09.45:216][463]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.09.45:516][463]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.09.52:893][896]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.10.12:255][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.10.24:782][674]LogSlate: Window 'Create New Animation Object' being destroyed
+[2020.04.24-07.11.00:663][323]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-07.11.25:397][783]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun01" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset" SILENT=true
+[2020.04.24-07.11.25:414][783]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-07.11.25:414][783]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WRun01) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-07.11.25:425][783]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun017BC30B9D41831D1CB208358E8276ACA1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset'
+[2020.04.24-07.11.27:070][881]LogSlate: Window 'WRun01' being destroyed
+[2020.04.24-07.11.31:371][127]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-07.11.31:382][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.11.31:416][127]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.11.31:690][127]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.11.36:645][419]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.11.44:425][885]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.11.44:510][890]LogSlate: Window 'WRun01' being destroyed
+[2020.04.24-07.11.49:626][187]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun02.WRun02
+[2020.04.24-07.11.49:637][187]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.11.49:659][187]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.11.50:009][187]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.11.53:488][396]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.12.02:042][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.12.13:556][599]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.12.17:469][833]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun02" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset" SILENT=true
+[2020.04.24-07.12.17:486][833]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WRun02.WRun02
+[2020.04.24-07.12.17:486][833]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WRun02) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-07.12.17:496][833]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun0243C3FE244CDA5DC22C650EB75B12B6C5.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset'
+[2020.04.24-07.12.29:745][429]LogSlate: Window 'Pick Skeleton' being destroyed
+[2020.04.24-07.13.45:027][934]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/models/ARCMain/animations/wallrunside.wallrunside
+[2020.04.24-07.13.45:041][934]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.13.45:075][934]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.13.45:386][934]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.13.46:684][  5]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2020.04.24-07.13.46:685][  5]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_0' took 0.027
+[2020.04.24-07.13.46:686][  5]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/models/ARCMain/Arc_Skeleton] ([1] browsable assets)...
+[2020.04.24-07.13.46:686][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/ARCMain/Arc_Skeleton]
+[2020.04.24-07.13.46:713][  5]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Arc_Skeleton_Auto12CF5A83B4E90FF683A8DA993C1B419B9.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/ARCMain/Arc_Skeleton_Auto1.uasset'
+[2020.04.24-07.13.46:715][  5]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/ARCMain/animations/wallrunside] ([1] browsable assets)...
+[2020.04.24-07.13.46:726][  5]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/models/ARCMain/animations/wallrunside.wallrunside]
+[2020.04.24-07.13.46:726][  5]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/ARCMain/animations/wallrunside]
+[2020.04.24-07.13.46:741][  5]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/wallrunside_Auto15F04F4E0451CC94EAAB8AF834BA4DC65.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/ARCMain/animations/wallrunside_Auto1.uasset'
+[2020.04.24-07.13.46:742][  5]LogFileHelpers: Auto-saving content packages took 0.057
+[2020.04.24-07.14.09:700][379]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.14.16:751][799]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/wallrunside12283F5F4EBBEAA53130F99577C22731.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/wallrunside.uasset'
+[2020.04.24-07.14.43:475][389]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.14.49:688][759]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.14.54:704][ 59]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.15.00:135][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WStick" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset" SILENT=true
+[2020.04.24-07.15.00:156][383]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WStick.WStick
+[2020.04.24-07.15.00:157][383]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WStick) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-07.15.00:165][383]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WStickB5048F3940E731E3298EA2BD1C2A077F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset'
+[2020.04.24-07.15.02:848][543]LogSlate: Window 'WStick' being destroyed
+[2020.04.24-07.15.02:852][543]LogSlate: Window 'WStick' being destroyed
+[2020.04.24-07.15.25:378][877]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/models/ARCMain/animations/wallrunside.wallrunside
+[2020.04.24-07.15.25:389][877]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.15.25:419][877]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.15.25:723][877]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.15.46:365][102]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/wallrunsideB377505E45D4A90EAE0191BE8EDEB76A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/wallrunside.uasset'
+[2020.04.24-07.15.47:860][181]LogSlate: Window 'wallrunside' being destroyed
+[2020.04.24-07.15.47:869][182]LogRenderer: Reallocating scene render targets to support 1004x576 Format 10 NumSamples 1 (Frame:33486).
+[2020.04.24-07.15.53:287][504]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/models/testARC/animations/wallRide.wallRide
+[2020.04.24-07.15.53:346][504]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.15.53:367][504]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_21:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.15.53:717][504]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.16.12:837][649]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/wallrunsideC5A3390A424AB5DEB6BB04AB3AA428B2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/wallrunside.uasset'
+[2020.04.24-07.16.22:031][186]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/models/ARCMain/animations/ARCM_ABP.ARCM_ABP
+[2020.04.24-07.16.22:051][186]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.16.22:384][186]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 121 classes and 0 folders.
+[2020.04.24-07.16.23:067][186]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.16.23:307][186]LogSlate: Took 0.005431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.04.24-07.16.23:545][186]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.20.16:852][492]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.20.16:866][492]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/menus/MainMenu.MainMenu
+[2020.04.24-07.20.16:903][492]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.24-07.20.17:983][492]LogSlate: Window 'Save Content' being destroyed
+[2020.04.24-07.20.17:992][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/Arc_Skeleton" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/Arc_Skeleton.uasset" SILENT=true
+[2020.04.24-07.20.18:020][492]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Arc_Skeleton1876CB4A46C5BAC5D8D3D5A60EEE8783.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/Arc_Skeleton.uasset'
+[2020.04.24-07.20.18:025][492]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.24-07.20.18:025][492]LightingResults: New page: Lighting Build
+[2020.04.24-07.20.18:027][492]LogBlueprintActionDatabase: Requesting refresh due to module change: StatsViewer (loaded)
+[2020.04.24-07.20.18:027][492]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0002 seconds. Added 5 classes and 0 folders.
+[2020.04.24-07.20.18:028][492]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.24-07.20.18:028][492]MapCheck: New page: Map Check
+[2020.04.24-07.20.18:028][492]LightingResults: New page: Lighting Build
+[2020.04.24-07.20.18:059][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.04.24-07.20.18:064][492]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.24-07.20.18:088][492]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.24-07.20.18:114][492]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.24-07.20.18:114][492]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.127ms to complete.
+[2020.04.24-07.20.18:114][492]LogFileHelpers: Loading map 'MainMenu' took 0.090
+[2020.04.24-07.20.25:135][891]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget
+[2020.04.24-07.20.25:507][891]LogBlueprintActionDatabase: Requesting refresh due to module change: SequencerWidgets (loaded)
+[2020.04.24-07.23.47:568][681]LogSlate: Took 0.010390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.04.24-07.24.23:316][821]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_6.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.23:316][821]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_7.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.23:316][821]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_8.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.23:316][821]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53.VerticalBoxSlot_0) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_264).  Import failed...
+[2020.04.24-07.24.23:316][821]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_53.VerticalBoxSlot_0"''
+[2020.04.24-07.24.40:290][836]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_6.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.40:290][836]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_7.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.40:290][836]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_8.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.40:290][836]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_9.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.40:290][836]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_10.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.40:290][836]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53.VerticalBoxSlot_1) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_265).  Import failed...
+[2020.04.24-07.24.40:290][836]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_53.VerticalBoxSlot_1"''
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_6.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_7.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_8.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_9.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_10.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_11.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogUObjectHash: Warning: Ambiguous search, could be VerticalBox /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53 or VerticalBox /Engine/Transient.World_29:InstructionsWidget_C_12.WidgetTree_0.VerticalBox_53
+[2020.04.24-07.24.59:650][994]LogProperty: Warning: Illegal TEXT reference to a private object in external package (VerticalBoxSlot /Game/Blueprints/widgets/InstructionsWidget.InstructionsWidget:WidgetTree.VerticalBox_53.VerticalBoxSlot_2) from referencer (TextBlock /Engine/UMG/Editor/Transient.TextBlock_266).  Import failed...
+[2020.04.24-07.24.59:650][994]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'VerticalBoxSlot'"VerticalBox_53.VerticalBoxSlot_2"''
+[2020.04.24-07.25.44:531][537]BlueprintLog: New page: Compile InstructionsWidget
+[2020.04.24-07.25.44:624][537]LogUObjectHash: Compacting FUObjectHashTables data took   6.96ms
+[2020.04.24-07.26.06:441][842]LogSlate: Took 0.005179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.04.24-07.26.16:460][442]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/models/testARC/animations/ARCtypeTABP.ARCtypeTABP
+[2020.04.24-07.26.16:474][442]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-07.26.16:766][442]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_31:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-07.26.17:086][442]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-07.26.32:114][334]LogSlate: Took 0.006120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.24-07.26.40:991][857]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCM_ABP1A4A063E4305B0739FF52291D9D9B375.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/ARCM_ABP.uasset'
+[2020.04.24-07.27.43:639][593]BlueprintLog: New page: Compile ARCM_ABP
+[2020.04.24-07.27.43:865][593]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2020.04.24-07.28.41:897][ 57]BlueprintLog: New page: Compile ARCM_ABP
+[2020.04.24-07.28.42:101][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.04.24-07.29.04:536][383]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCM_ABPAA5EBAA04DC2A1379163A4960C061D7B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/ARCM_ABP.uasset'
+[2020.04.24-07.30.19:795][890]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2020.04.24-07.30.19:796][890]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/menus/MainMenu' took 0.041
+[2020.04.24-07.30.19:797][890]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/widgets/InstructionsWidget] ([1] browsable assets)...
+[2020.04.24-07.30.19:797][890]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/InstructionsWidget]
+[2020.04.24-07.30.19:847][890]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/InstructionsWidget_Auto23E4F64CC4E8EBA3E2D3D6D8673E44A71.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/InstructionsWidget_Auto2.uasset'
+[2020.04.24-07.30.19:848][890]LogFileHelpers: Auto-saving content packages took 0.051
+[2020.04.24-07.30.37:217][917]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCM_ABP2A4A3DC642167C207D4EA7B3975C569A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/ARCM_ABP.uasset'
+[2020.04.24-07.30.55:871][ 31]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/actors/ARCChar.ARCChar
+[2020.04.24-07.31.22:536][594]BlueprintLog: New page: Compile ARCChar
+[2020.04.24-07.31.22:787][594]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2020.04.24-07.31.43:408][818]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/InstructionsWidgetE5052D6746716EB3AA6AEF87609ED914.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/InstructionsWidget.uasset'
+[2020.04.24-07.31.49:009][154]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.31.49:034][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.31.49:034][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.31.49:044][154]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:31:49)
+[2020.04.24-07.31.49:056][154]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.31.49:059][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001709s)
+[2020.04.24-07.31.49:059][154]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.31.49:060][154]LogPlayLevel: PIE: World Init took: (0.000504s)
+[2020.04.24-07.31.49:060][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002502s)
+[2020.04.24-07.31.49:103][154]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.24-07.31.49:108][154]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.31.49:121][154]LogInit: FAudioDevice initialized.
+[2020.04.24-07.31.49:196][154]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.31.49:198][154]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.31.49
+[2020.04.24-07.31.49:198][154]LogWorld: Bringing up level for play took: 0.000348
+[2020.04.24-07.31.49:215][154]LogBlueprintActionDatabase: Requesting refresh due to module change: Voice (loaded)
+[2020.04.24-07.31.49:219][154]LogBlueprintActionDatabase: Requesting refresh due to module change: MovieSceneCapture (loaded)
+[2020.04.24-07.31.49:219][154]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2020.04.24-07.31.49:227][154]LogBlueprintUserMessages: [ARC12_C_0] 2
+[2020.04.24-07.31.49:227][154]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu -0.753
+[2020.04.24-07.31.49:228][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.31.50:628][218]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.31.50:629][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.31.50:657][218]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.31.50:657][218]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.31.50:705][218]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.31.50:724][218]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2020.04.24-07.31.50:734][219]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2020.04.24-07.32.59:950][359]LogBlueprintActionDatabase: Requesting refresh due to module change: ExternalImagePicker (loaded)
+[2020.04.24-07.33.00:888][359]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.04.24-07.33.39:574][650]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.33.39:598][650]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.33.39:598][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.33.39:598][650]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:33:39)
+[2020.04.24-07.33.39:598][650]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.33.39:600][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001643s)
+[2020.04.24-07.33.39:600][650]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.33.39:600][650]LogPlayLevel: PIE: World Init took: (0.000583s)
+[2020.04.24-07.33.39:601][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002400s)
+[2020.04.24-07.33.39:680][650]LogUObjectHash: Compacting FUObjectHashTables data took   5.95ms
+[2020.04.24-07.33.39:684][650]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.33.39:696][650]LogInit: FAudioDevice initialized.
+[2020.04.24-07.33.39:726][650]LogLoad: Game class is 'GameMode'
+[2020.04.24-07.33.39:729][650]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.33.39
+[2020.04.24-07.33.39:730][650]LogWorld: Bringing up level for play took: 0.000844
+[2020.04.24-07.33.39:745][650]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.24-07.33.39:745][650]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.24-07.33.39:745][650]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.24-07.33.39:761][650]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.24-07.33.39:761][650]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu -0.221
+[2020.04.24-07.33.39:761][650]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.33.42:648][819]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.04.24-07.33.42:648][819]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.04.24-07.33.42:648][819]LogNet: Browse: /Game/Maps/Levels/Level5
+[2020.04.24-07.33.42:648][819]LogLoad: LoadMap: /Game/Maps/Levels/Level5
+[2020.04.24-07.33.42:707][819]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2020.04.24-07.33.42:800][819]LogAIModule: Creating AISystem for world Level5
+[2020.04.24-07.33.42:801][819]LogLoad: Game class is 'GameMode'
+[2020.04.24-07.33.42:804][819]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 60) at 2020.04.24-08.33.42
+[2020.04.24-07.33.42:804][819]LogWorld: Bringing up level for play took: 0.001854
+[2020.04.24-07.33.42:804][819]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.24-07.33.42:804][819]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.04.24-07.33.42:804][819]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.04.24-07.33.42:805][819]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.04.24-07.33.42:805][819]LogLoad: Took 0.156196 seconds to LoadMap(/Game/Maps/Levels/Level5)
+[2020.04.24-07.33.45:250][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.33.45:251][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.33.45:277][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.33.45:277][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.33.45:334][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.33.45:340][962]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.04.24-07.33.45:372][963]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.04.24-07.33.46:056][  1]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.33.53:681][458]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.24-07.33.59:164][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.04.24-07.33.59:421][781]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu4B2A16674C3AA3C2D409D18ED4782E3D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap'
+[2020.04.24-07.33.59:457][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/menus/MainMenu_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset" SILENT=true
+[2020.04.24-07.33.59:482][781]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu_BuiltData86A82F3E44069D6C21F373BE78BF62F1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset'
+[2020.04.24-07.34.01:037][873]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.34.01:060][873]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.01:060][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.34.01:060][873]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:34:01)
+[2020.04.24-07.34.01:061][873]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.34.01:062][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001564s)
+[2020.04.24-07.34.01:063][873]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.34.01:063][873]LogPlayLevel: PIE: World Init took: (0.000426s)
+[2020.04.24-07.34.01:063][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002079s)
+[2020.04.24-07.34.01:109][873]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.04.24-07.34.01:111][873]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.34.01:123][873]LogInit: FAudioDevice initialized.
+[2020.04.24-07.34.01:151][873]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.34.01:152][873]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.34.01
+[2020.04.24-07.34.01:152][873]LogWorld: Bringing up level for play took: 0.000257
+[2020.04.24-07.34.01:171][873]LogBlueprintUserMessages: [ARC12_C_0] 2
+[2020.04.24-07.34.01:171][873]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu -0.809
+[2020.04.24-07.34.01:172][873]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.03:982][ 42]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.03:983][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.04:008][ 42]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.34.04:008][ 42]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.04:052][ 42]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.04:057][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.24-07.34.04:084][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.04.24-07.34.21:175][ 62]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.24-07.34.34:222][843]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.34.34:245][843]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.34:245][843]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.34.34:245][843]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:34:34)
+[2020.04.24-07.34.34:245][843]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.34.34:247][843]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001627s)
+[2020.04.24-07.34.34:248][843]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.34.34:248][843]LogPlayLevel: PIE: World Init took: (0.000511s)
+[2020.04.24-07.34.34:248][843]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002228s)
+[2020.04.24-07.34.34:289][843]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.04.24-07.34.34:291][843]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.34.34:303][843]LogInit: FAudioDevice initialized.
+[2020.04.24-07.34.34:333][843]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.34.34:334][843]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.34.34
+[2020.04.24-07.34.34:334][843]LogWorld: Bringing up level for play took: 0.000264
+[2020.04.24-07.34.34:352][843]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.371
+[2020.04.24-07.34.34:352][843]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.36:461][970]LogNet: Browse: /Game/Maps/Levels/Level5
+[2020.04.24-07.34.36:462][970]LogLoad: LoadMap: /Game/Maps/Levels/Level5
+[2020.04.24-07.34.36:505][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.24-07.34.36:513][970]LogAIModule: Creating AISystem for world Level5
+[2020.04.24-07.34.36:513][970]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.34.36:515][970]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 60) at 2020.04.24-08.34.36
+[2020.04.24-07.34.36:515][970]LogWorld: Bringing up level for play took: 0.001233
+[2020.04.24-07.34.36:516][970]LogLoad: Took 0.054132 seconds to LoadMap(/Game/Maps/Levels/Level5)
+[2020.04.24-07.34.38:625][ 97]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.38:625][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.38:653][ 97]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.34.38:653][ 97]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.38:699][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.38:704][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2020.04.24-07.34.38:736][ 98]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.04.24-07.34.42:366][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.34.42:450][319]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.34.42:477][319]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.42:477][319]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.34.42:477][319]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:34:42)
+[2020.04.24-07.34.42:477][319]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.34.42:479][319]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001578s)
+[2020.04.24-07.34.42:479][319]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.34.42:479][319]LogPlayLevel: PIE: World Init took: (0.000420s)
+[2020.04.24-07.34.42:480][319]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002090s)
+[2020.04.24-07.34.42:521][319]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.24-07.34.42:524][319]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.34.42:536][319]LogInit: FAudioDevice initialized.
+[2020.04.24-07.34.42:561][319]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.34.42:562][319]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.34.42
+[2020.04.24-07.34.42:562][319]LogWorld: Bringing up level for play took: 0.000254
+[2020.04.24-07.34.42:580][319]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.599
+[2020.04.24-07.34.42:580][319]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.44:183][415]LogNet: Browse: /Game/Maps/Levels/Level4
+[2020.04.24-07.34.44:183][415]LogLoad: LoadMap: /Game/Maps/Levels/Level4
+[2020.04.24-07.34.44:226][415]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2020.04.24-07.34.44:497][415]LogAIModule: Creating AISystem for world Level4
+[2020.04.24-07.34.44:497][415]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.24-07.34.44:508][415]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.24-08.34.44
+[2020.04.24-07.34.44:509][415]LogWorld: Bringing up level for play took: 0.011375
+[2020.04.24-07.34.44:512][415]LogBlueprintUserMessages: [ARC12_C_0] 0
+[2020.04.24-07.34.44:512][415]LogLoad: Took 0.329541 seconds to LoadMap(/Game/Maps/Levels/Level4)
+[2020.04.24-07.34.54:643][ 15]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.54:644][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.54:672][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.34.54:672][ 15]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.34.54:719][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.34.54:729][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   5.63ms
+[2020.04.24-07.34.54:769][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.04.24-07.34.57:817][194]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-07.34.59:051][267]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Block_Tex.Block_Tex
+[2020.04.24-07.34.59:054][267]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.34.59:183][267]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.34.59:201][267]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.34.59:219][267]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.34.59:245][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.24-07.34.59:251][267]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.24-07.34.59:887][298]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.00:722][348]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.24-07.35.01:943][421]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Base pass shader: 118 instructions
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 192 instructions
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.24-07.35.03:021][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.24-07.35.08:085][787]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.08:103][787]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.08:133][787]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.08:146][787]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.24-07.35.08:770][822]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.24-07.35.09:923][891]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.24-07.35.10:185][906]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.10:421][920]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.11:069][959]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.24-07.35.12:071][ 19]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.24-07.35.13:398][ 98]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.24-07.35.22:358][635]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.22:377][635]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.22:398][636]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.22:909][667]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.24-07.35.24:000][732]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.24-07.35.24:182][742]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.24:206][742]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.24:216][742]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.24-07.35.24:399][751]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.24:914][782]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.24-07.35.26:170][857]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.24-07.35.27:275][923]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.24-07.35.32:408][231]LogMaterialEditor: Applying material Block_Tex
+[2020.04.24-07.35.33:912][231]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.33:981][231]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.24-07.35.33:997][231]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.34:026][231]LogMaterial: Display: Missing cached shader map for material Block_Tex, compiling. 
+[2020.04.24-07.35.34:098][231]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.24-07.35.34:110][231]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.24-07.35.36:221][231]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.24-07.35.36:221][231]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.24-07.35.36:223][231]TextureStreamingBuild: Display: Compiling optional shaders took 2.125 seconds.
+[2020.04.24-07.35.36:281][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Texture samplers: 5/16
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.24-07.35.39:547][423]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.24-07.35.49:747][ 35]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-07.35.49:770][ 35]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.35.49:770][ 35]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-07.35.49:770][ 35]PIE: New page: PIE session: MainMenu (24 Apr 2020 09:35:49)
+[2020.04.24-07.35.49:770][ 35]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.24-07.35.49:772][ 35]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001719s)
+[2020.04.24-07.35.49:773][ 35]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.24-07.35.49:773][ 35]LogPlayLevel: PIE: World Init took: (0.000451s)
+[2020.04.24-07.35.49:773][ 35]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.002270s)
+[2020.04.24-07.35.49:814][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.04.24-07.35.49:816][ 35]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-07.35.49:828][ 35]LogInit: FAudioDevice initialized.
+[2020.04.24-07.35.49:859][ 35]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-07.35.49:860][ 35]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.24-08.35.49
+[2020.04.24-07.35.49:860][ 35]LogWorld: Bringing up level for play took: 0.000258
+[2020.04.24-07.35.49:879][ 35]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu -0.102
+[2020.04.24-07.35.49:879][ 35]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.35.53:272][239]LogNet: Browse: /Game/Maps/Levels/Level4
+[2020.04.24-07.35.53:273][239]LogLoad: LoadMap: /Game/Maps/Levels/Level4
+[2020.04.24-07.35.53:317][239]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.24-07.35.53:386][239]LogAIModule: Creating AISystem for world Level4
+[2020.04.24-07.35.53:386][239]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.24-07.35.53:399][239]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 60) at 2020.04.24-08.35.53
+[2020.04.24-07.35.53:399][239]LogWorld: Bringing up level for play took: 0.012910
+[2020.04.24-07.35.53:402][239]LogBlueprintUserMessages: [ARC12_C_0] 0
+[2020.04.24-07.35.53:402][239]LogLoad: Took 0.128730 seconds to LoadMap(/Game/Maps/Levels/Level4)
+[2020.04.24-07.36.01:057][690]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.36.01:057][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.36.01:090][690]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-07.36.01:090][690]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.24-07.36.01:140][690]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-07.36.01:145][690]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2020.04.24-07.36.01:185][691]LogPlayLevel: Display: Destroying online subsystem :Context_43
