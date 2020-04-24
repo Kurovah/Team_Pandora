@@ -10314,3 +10314,40 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-19.46.15:997][324]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/widgets/menucomponents/AbilIconWidget]
 [2020.04.24-19.46.16:056][324]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/AbilIconWidget_Auto635FA58064436116A52D2C6A6BC1703D6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/widgets/menucomponents/AbilIconWidget_Auto6.uasset'
 [2020.04.24-19.46.16:058][324]LogFileHelpers: Auto-saving content packages took 0.257
+[2020.04.24-19.49.13:217][772]LogUObjectHash: Compacting FUObjectHashTables data took   5.46ms
+[2020.04.24-19.49.13:308][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.04.24-19.49.13:622][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/PhasingTest2CE6115E4A5FF511546A4CB433651F48.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/PhasingTest.umap'
+[2020.04.24-19.49.13:693][772]LogFileHelpers: Saving map 'PhasingTest' took 0.450
+[2020.04.24-19.49.13:696][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/switch" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/switch.uasset" SILENT=true
+[2020.04.24-19.49.13:746][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/switch4B402F724C9B46B792673D8E764B3FD3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/switch.uasset'
+[2020.04.24-19.49.13:809][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GamePlayWidget58B9CED94257E39BD902828539D0349D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/GamePlayWidget.uasset'
+[2020.04.24-19.49.13:860][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/AbilIconWidgetA20A62B646D436318F5E16BBD0C44097.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/widgets/menucomponents/AbilIconWidget.uasset'
+[2020.04.24-20.02.59:624][559]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.04:241][579]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.08:322][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.15:978][627]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.24:172][659]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.29:796][681]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.36:522][749]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.03.40:083][825]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.01:066][966]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.05:194][984]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.05:702][986]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.09:233][  0]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.23:267][107]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.27:840][186]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.57:555][196]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.04.58:064][198]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.05.07:292][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.05.16:506][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.05.28:276][449]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.05.31:796][463]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.05.57:080][712]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.06.07:350][801]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.06.19:353][907]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.06.19:863][909]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.06.35:240][151]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.07.22:001][299]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.07.27:630][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.07.53:703][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.07.55:342][609]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
