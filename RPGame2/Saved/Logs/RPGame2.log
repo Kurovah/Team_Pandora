@@ -10351,3 +10351,439 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.24-20.07.27:630][322]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.04.24-20.07.53:703][597]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2020.04.24-20.07.55:342][609]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.24-20.14.28:932][711]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.04.24-20.14.36:294][147]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Components/DoubleJump.DoubleJump
+[2020.04.24-20.14.45:316][655]LogSlate: Took 0.007674 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2020.04.24-20.19.21:663][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Components/DoubleJump" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset" SILENT=true
+[2020.04.24-20.19.21:702][757]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/DoubleJump041D28E7472FC4F6C853EFA9CC002B58.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset'
+[2020.04.24-20.19.22:498][804]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.19.22:709][804]LogUObjectHash: Compacting FUObjectHashTables data took   7.87ms
+[2020.04.24-20.19.52:094][562]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/actors/ARCChar.ARCChar
+[2020.04.24-20.21.20:931][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.04.24-20.21.20:953][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARCChar" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset" SILENT=true
+[2020.04.24-20.21.21:105][ 16]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar76BE51814B1CED3C7F258A8ECC85E0FD.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset'
+[2020.04.24-20.21.57:767][327]BlueprintLog: New page: Compile ARCChar
+[2020.04.24-20.21.58:105][327]LogUObjectHash: Compacting FUObjectHashTables data took   3.67ms
+[2020.04.24-20.22.52:344][733]BlueprintLog: New page: Compile ARCChar
+[2020.04.24-20.22.52:597][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2020.04.24-20.22.55:533][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARCChar" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset" SILENT=true
+[2020.04.24-20.22.55:667][ 78]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCCharB0BCC31A451FD549F9ABD9994603C9F0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset'
+[2020.04.24-20.23.34:144][658]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.23.34:361][658]LogUObjectHash: Compacting FUObjectHashTables data took   4.21ms
+[2020.04.24-20.23.51:375][634]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/gamemodes/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.04.24-20.23.58:041][382]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CustomGameInstance.CustomGameInstance
+[2020.04.24-20.24.05:248][213]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.24-20.24.05:315][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.04.24-20.24.06:295][328]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.24.06:331][328]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.06:332][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.24.06:343][328]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:24:06)
+[2020.04.24-20.24.06:345][328]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.24.06:351][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005804s)
+[2020.04.24-20.24.06:354][328]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.24.06:356][328]LogPlayLevel: PIE: World Init took: (0.004154s)
+[2020.04.24-20.24.06:356][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.010480s)
+[2020.04.24-20.24.06:394][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.24-20.24.06:402][328]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.24.06:415][328]LogInit: FAudioDevice initialized.
+[2020.04.24-20.24.06:425][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.24.06:455][328]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.24.06:459][328]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.24.06
+[2020.04.24-20.24.06:462][328]LogWorld: Bringing up level for play took: 0.003904
+[2020.04.24-20.24.06:489][328]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.508
+[2020.04.24-20.24.06:491][328]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.10:898][848]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.10:899][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.24.10:923][848]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.24.10:964][848]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.24.10:965][848]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.11:020][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.04.24-20.24.11:028][849]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2020.04.24-20.24.52:539][754]BlueprintLog: New page: Compile ARCChar
+[2020.04.24-20.24.52:780][754]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2020.04.24-20.24.54:389][942]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.24.54:415][942]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.54:415][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.24.54:415][942]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:24:54)
+[2020.04.24-20.24.54:415][942]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.24.54:417][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001729s)
+[2020.04.24-20.24.54:417][942]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.24.54:418][942]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2020.04.24-20.24.54:418][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002251s)
+[2020.04.24-20.24.54:456][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.24-20.24.54:458][942]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.24.54:470][942]LogInit: FAudioDevice initialized.
+[2020.04.24-20.24.54:478][942]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.24.54:508][942]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.24.54:509][942]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.24.54
+[2020.04.24-20.24.54:510][942]LogWorld: Bringing up level for play took: 0.001589
+[2020.04.24-20.24.54:526][942]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.545
+[2020.04.24-20.24.54:526][942]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.57:906][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.57:906][333]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.24.57:921][333]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.24.57:960][333]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.24.57:961][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.24.58:014][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.04.24-20.24.58:033][334]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2020.04.24-20.25.20:107][972]BlueprintLog: New page: Compile ARCChar
+[2020.04.24-20.25.20:324][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2020.04.24-20.25.21:995][167]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.25.22:019][167]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.22:019][167]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.25.22:019][167]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:25:22)
+[2020.04.24-20.25.22:020][167]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.25.22:022][167]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001820s)
+[2020.04.24-20.25.22:033][167]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.25.22:033][167]LogPlayLevel: PIE: World Init took: (0.010696s)
+[2020.04.24-20.25.22:033][167]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.012625s)
+[2020.04.24-20.25.22:073][167]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.24-20.25.22:075][167]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.25.22:087][167]LogInit: FAudioDevice initialized.
+[2020.04.24-20.25.22:094][167]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.22:126][167]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.25.22:127][167]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.25.22
+[2020.04.24-20.25.22:128][167]LogWorld: Bringing up level for play took: 0.000992
+[2020.04.24-20.25.22:144][167]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.163
+[2020.04.24-20.25.22:144][167]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.28:119][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.28:119][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.28:134][866]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.25.28:172][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.25.28:173][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.28:217][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2020.04.24-20.25.28:228][867]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2020.04.24-20.25.38:461][ 94]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.25.38:655][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2020.04.24-20.25.39:198][155]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.25.39:223][155]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.39:223][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.25.39:223][155]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:25:39)
+[2020.04.24-20.25.39:223][155]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.25.39:225][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001804s)
+[2020.04.24-20.25.39:225][155]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.25.39:225][155]LogPlayLevel: PIE: World Init took: (0.000414s)
+[2020.04.24-20.25.39:225][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002310s)
+[2020.04.24-20.25.39:264][155]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.24-20.25.39:267][155]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.25.39:278][155]LogInit: FAudioDevice initialized.
+[2020.04.24-20.25.39:285][155]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.39:315][155]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.25.39:317][155]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.25.39
+[2020.04.24-20.25.39:318][155]LogWorld: Bringing up level for play took: 0.001389
+[2020.04.24-20.25.39:333][155]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest -0.648
+[2020.04.24-20.25.39:333][155]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.41:576][419]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.41:576][419]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.41:591][419]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.25.41:627][419]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.25.41:628][419]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.41:681][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2020.04.24-20.25.41:689][420]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2020.04.24-20.25.48:805][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Components/DoubleJump" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset" SILENT=true
+[2020.04.24-20.25.48:835][271]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/DoubleJumpEDDCD9F54460BE2F8A07AA997CC4B6D1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset'
+[2020.04.24-20.25.49:767][380]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.25.49:975][380]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.24-20.25.50:420][429]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.25.50:444][429]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.50:445][429]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.25.50:445][429]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:25:50)
+[2020.04.24-20.25.50:445][429]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.25.50:447][429]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2020.04.24-20.25.50:447][429]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.25.50:447][429]LogPlayLevel: PIE: World Init took: (0.000434s)
+[2020.04.24-20.25.50:447][429]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002278s)
+[2020.04.24-20.25.50:487][429]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2020.04.24-20.25.50:490][429]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.25.50:501][429]LogInit: FAudioDevice initialized.
+[2020.04.24-20.25.50:509][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.50:538][429]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.25.50:540][429]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.25.50
+[2020.04.24-20.25.50:541][429]LogWorld: Bringing up level for play took: 0.001747
+[2020.04.24-20.25.50:556][429]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.576
+[2020.04.24-20.25.50:557][429]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.52:516][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.52:516][656]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.52:531][656]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.25.52:570][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.25.52:571][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.52:620][656]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.04.24-20.25.52:628][657]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2020.04.24-20.25.56:315][ 99]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.25.56:519][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.04.24-20.25.56:996][152]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.25.57:021][152]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.25.57:021][152]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.25.57:021][152]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:25:57)
+[2020.04.24-20.25.57:022][152]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.25.57:024][152]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001725s)
+[2020.04.24-20.25.57:024][152]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.25.57:024][152]LogPlayLevel: PIE: World Init took: (0.000427s)
+[2020.04.24-20.25.57:024][152]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002243s)
+[2020.04.24-20.25.57:061][152]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.04.24-20.25.57:063][152]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.25.57:075][152]LogInit: FAudioDevice initialized.
+[2020.04.24-20.25.57:082][152]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.25.57:113][152]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.25.57:115][152]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.25.57
+[2020.04.24-20.25.57:116][152]LogWorld: Bringing up level for play took: 0.001100
+[2020.04.24-20.25.57:131][152]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest -0.85
+[2020.04.24-20.25.57:131][152]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.02:804][825]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.02:805][825]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.26.02:819][825]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.26.02:856][825]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.26.02:856][825]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.02:905][825]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2020.04.24-20.26.02:915][826]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2020.04.24-20.26.14:040][160]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.26.14:064][160]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.14:064][160]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.26.14:064][160]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:26:14)
+[2020.04.24-20.26.14:065][160]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.26.14:067][160]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001744s)
+[2020.04.24-20.26.14:067][160]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.26.14:067][160]LogPlayLevel: PIE: World Init took: (0.000438s)
+[2020.04.24-20.26.14:067][160]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002287s)
+[2020.04.24-20.26.14:102][160]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.24-20.26.14:105][160]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.26.14:119][160]LogInit: FAudioDevice initialized.
+[2020.04.24-20.26.14:127][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.26.14:154][160]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.26.14:156][160]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.26.14
+[2020.04.24-20.26.14:157][160]LogWorld: Bringing up level for play took: 0.001441
+[2020.04.24-20.26.14:173][160]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.192
+[2020.04.24-20.26.14:173][160]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.21:129][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.21:129][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.26.21:144][981]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.26.21:179][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.26.21:180][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.21:231][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.04.24-20.26.21:242][982]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2020.04.24-20.26.22:019][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.26.22:046][ 75]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.22:046][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.26.22:046][ 75]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:26:22)
+[2020.04.24-20.26.22:047][ 75]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.26.22:048][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2020.04.24-20.26.22:049][ 75]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.26.22:049][ 75]LogPlayLevel: PIE: World Init took: (0.000428s)
+[2020.04.24-20.26.22:049][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002273s)
+[2020.04.24-20.26.22:089][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.24-20.26.22:091][ 75]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.26.22:103][ 75]LogInit: FAudioDevice initialized.
+[2020.04.24-20.26.22:110][ 75]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.26.22:140][ 75]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.26.22:143][ 75]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.26.22
+[2020.04.24-20.26.22:143][ 75]LogWorld: Bringing up level for play took: 0.001875
+[2020.04.24-20.26.22:158][ 75]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.178
+[2020.04.24-20.26.22:159][ 75]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.36:348][768]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.36:348][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.26.36:381][768]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.26.36:416][768]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.26.36:417][768]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.26.36:467][768]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.24-20.26.36:478][769]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2020.04.24-20.29.05:399][507]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.29.05:590][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.24-20.29.07:343][713]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.29.07:367][713]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.07:367][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.29.07:367][713]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:29:07)
+[2020.04.24-20.29.07:368][713]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.29.07:370][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001750s)
+[2020.04.24-20.29.07:370][713]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.29.07:370][713]LogPlayLevel: PIE: World Init took: (0.000466s)
+[2020.04.24-20.29.07:370][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002314s)
+[2020.04.24-20.29.07:410][713]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2020.04.24-20.29.07:413][713]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.29.07:426][713]LogInit: FAudioDevice initialized.
+[2020.04.24-20.29.07:433][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.07:464][713]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.29.07:466][713]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.29.07
+[2020.04.24-20.29.07:466][713]LogWorld: Bringing up level for play took: 0.001865
+[2020.04.24-20.29.07:482][713]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest -0.499
+[2020.04.24-20.29.07:482][713]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.11:289][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.11:289][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.11:304][156]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.29.11:342][156]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.29.11:342][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.11:392][156]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2020.04.24-20.29.11:407][157]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2020.04.24-20.29.12:456][283]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.29.12:480][283]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.12:480][283]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.29.12:480][283]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:29:12)
+[2020.04.24-20.29.12:481][283]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.29.12:483][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001798s)
+[2020.04.24-20.29.12:483][283]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.29.12:483][283]LogPlayLevel: PIE: World Init took: (0.000478s)
+[2020.04.24-20.29.12:483][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002376s)
+[2020.04.24-20.29.12:519][283]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.24-20.29.12:531][283]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.29.12:542][283]LogInit: FAudioDevice initialized.
+[2020.04.24-20.29.12:549][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.12:575][283]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.29.12:577][283]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.29.12
+[2020.04.24-20.29.12:577][283]LogWorld: Bringing up level for play took: 0.001226
+[2020.04.24-20.29.12:594][283]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.613
+[2020.04.24-20.29.12:594][283]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.23:853][616]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.23:853][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.23:869][616]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.29.23:909][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.29.23:910][616]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.23:954][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.24-20.29.23:970][617]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2020.04.24-20.29.39:918][529]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.29.40:106][529]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.04.24-20.29.43:377][914]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.29.43:401][914]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.43:401][914]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.29.43:401][914]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:29:43)
+[2020.04.24-20.29.43:402][914]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.29.43:404][914]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001734s)
+[2020.04.24-20.29.43:404][914]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.29.43:404][914]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2020.04.24-20.29.43:404][914]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002441s)
+[2020.04.24-20.29.43:443][914]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2020.04.24-20.29.43:446][914]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.29.43:458][914]LogInit: FAudioDevice initialized.
+[2020.04.24-20.29.43:466][914]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.43:496][914]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.29.43:497][914]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.29.43
+[2020.04.24-20.29.43:498][914]LogWorld: Bringing up level for play took: 0.001410
+[2020.04.24-20.29.43:514][914]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest -0.466
+[2020.04.24-20.29.43:514][914]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.49:804][650]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.49:804][650]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.29.49:820][650]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.29.49:855][650]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.29.49:856][650]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.29.49:903][650]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2020.04.24-20.29.49:920][651]LogPlayLevel: Display: Destroying online subsystem :Context_46
+[2020.04.24-20.29.59:836][839]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.30.00:029][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2020.04.24-20.30.10:471][ 86]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.30.10:495][ 86]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.30.10:495][ 86]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.30.10:495][ 86]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:30:10)
+[2020.04.24-20.30.10:496][ 86]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.30.10:498][ 86]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001714s)
+[2020.04.24-20.30.10:498][ 86]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.30.10:498][ 86]LogPlayLevel: PIE: World Init took: (0.000454s)
+[2020.04.24-20.30.10:498][ 86]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002261s)
+[2020.04.24-20.30.10:537][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.04.24-20.30.10:539][ 86]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.30.10:551][ 86]LogInit: FAudioDevice initialized.
+[2020.04.24-20.30.10:557][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.30.10:584][ 86]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.30.10:586][ 86]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.30.10
+[2020.04.24-20.30.10:587][ 86]LogWorld: Bringing up level for play took: 0.001532
+[2020.04.24-20.30.10:602][ 86]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest 0.621
+[2020.04.24-20.30.10:603][ 86]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.30.23:935][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.30.23:935][660]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.30.23:952][660]LogSlate: Window 'RPGame2 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.04.24-20.30.23:990][660]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.30.23:990][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.30.24:037][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.04.24-20.30.24:052][661]LogPlayLevel: Display: Destroying online subsystem :Context_47
+[2020.04.24-20.30.25:551][839]BlueprintLog: New page: Compile DoubleJump
+[2020.04.24-20.30.25:764][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.24-20.30.56:174][681]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2020.04.24-20.30.56:174][681]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testMaps/PhasingTest' took 0.059
+[2020.04.24-20.30.56:175][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/actors/ARCChar] ([1] browsable assets)...
+[2020.04.24-20.30.56:175][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/actors/ARCChar]
+[2020.04.24-20.30.56:330][681]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar_Auto7B2D787454B6DE2D335F581A505D784A3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/actors/ARCChar_Auto7.uasset'
+[2020.04.24-20.30.56:332][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CustomGameInstance] ([1] browsable assets)...
+[2020.04.24-20.30.56:332][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CustomGameInstance]
+[2020.04.24-20.30.56:353][681]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance_Auto7B32B93A540C09532E77273A2981020C0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/CustomGameInstance_Auto7.uasset'
+[2020.04.24-20.30.56:355][681]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Components/DoubleJump] ([1] browsable assets)...
+[2020.04.24-20.30.56:355][681]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Components/DoubleJump]
+[2020.04.24-20.30.56:389][681]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/DoubleJump_Auto76549BF3C49F22C07FFD7DC8A8BF0F047.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/Components/DoubleJump_Auto7.uasset'
+[2020.04.24-20.30.56:391][681]LogFileHelpers: Auto-saving content packages took 0.216
+[2020.04.24-20.31.28:045][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.24-20.31.28:065][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARCChar" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset" SILENT=true
+[2020.04.24-20.31.28:196][992]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCCharD5A4B0094C50D85AABEFF5B91741F7E9.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset'
+[2020.04.24-20.31.28:207][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomGameInstance" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset" SILENT=true
+[2020.04.24-20.31.28:221][992]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance7B05DDD0404A8A855E499687E95303EE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset'
+[2020.04.24-20.31.28:240][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Components/DoubleJump" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset" SILENT=true
+[2020.04.24-20.31.28:265][992]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/DoubleJumpB9DE019943BE6A877850EA92E44E3416.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/Components/DoubleJump.uasset'
+[2020.04.24-20.31.57:977][ 38]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/ArcIdle.ArcIdle
+[2020.04.24-20.31.58:050][ 38]LogBlueprintActionDatabase: Requesting refresh due to module change: AnimationEditor (loaded)
+[2020.04.24-20.31.58:108][ 38]LogBlueprintActionDatabase: Requesting refresh due to module change: SkeletonEditor (loaded)
+[2020.04.24-20.31.58:110][ 38]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0019 seconds. Added 1 classes and 2 folders.
+[2020.04.24-20.31.58:133][ 38]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-20.31.58:143][ 38]LogBlueprintActionDatabase: Requesting refresh due to module change: PinnedCommandList (loaded)
+[2020.04.24-20.31.58:145][ 38]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0021 seconds. Added 1 classes and 0 folders.
+[2020.04.24-20.31.58:213][ 38]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_24:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-20.31.58:891][ 38]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-20.32.01:828][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.32.10:358][340]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.32.14:353][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.32.20:365][511]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.32.25:996][ 43]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-20.32.31:418][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.32.36:745][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.32.45:888][327]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.33.00:065][896]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.33.03:987][301]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.33.21:590][359]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.33.28:499][102]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.33.43:918][862]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.33.59:222][674]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WRun01.WRun01
+[2020.04.24-20.33.59:229][674]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WRun01) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-20.34.08:393][640]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WRun02.WRun02
+[2020.04.24-20.34.20:498][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.34.20:611][ 31]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun02" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset" SILENT=true
+[2020.04.24-20.34.20:640][ 31]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun020861DCE84EADF15124AE0ABD24DB9423.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset'
+[2020.04.24-20.34.23:947][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.34.24:574][477]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WRun02.WRun02
+[2020.04.24-20.34.24:575][477]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WRun02) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-20.34.32:387][277]LogAssetEditorManager: Opening Asset editor for AnimSequence /Game/models/ARCMain/animations/WStick.WStick
+[2020.04.24-20.34.32:402][277]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.24-20.34.32:426][277]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.24-20.34.32:738][277]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.24-20.34.59:466][327]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.35.16:041][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.35.16:148][231]Cmd: MODE GRID=0
+[2020.04.24-20.35.25:704][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.24-20.35.26:230][425]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/models/ARCMain/animations/WStick.WStick
+[2020.04.24-20.35.26:231][425]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.WStick) using current/default (AnimCompress_BitwiseCompressOnly_1) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2020.04.24-20.35.27:998][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WStick" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset" SILENT=true
+[2020.04.24-20.35.28:024][630]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WStick76C4450949A7E5C37A927586890E35CF.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WStick.uasset'
+[2020.04.24-20.35.31:228][  2]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.24-20.35.31:248][  2]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.35.31:248][  2]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.24-20.35.31:248][  2]PIE: New page: PIE session: PhasingTest (24 Apr 2020 22:35:31)
+[2020.04.24-20.35.31:263][  2]LogPlayLevel: Creating play world package: /Game/Maps/testMaps/UEDPIE_0_PhasingTest
+[2020.04.24-20.35.31:265][  2]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001826s)
+[2020.04.24-20.35.31:265][  2]LogAIModule: Creating AISystem for world PhasingTest
+[2020.04.24-20.35.31:266][  2]LogPlayLevel: PIE: World Init took: (0.000457s)
+[2020.04.24-20.35.31:266][  2]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/testMaps/PhasingTest.PhasingTest to /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest (0.002406s)
+[2020.04.24-20.35.31:408][  2]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.24-20.35.31:412][  2]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.24-20.35.31:425][  2]LogInit: FAudioDevice initialized.
+[2020.04.24-20.35.31:465][  2]LogLoad: Game class is 'ARCGM_C'
+[2020.04.24-20.35.31:466][  2]LogWorld: Bringing World /Game/Maps/testMaps/UEDPIE_0_PhasingTest.PhasingTest up for play (max tick rate 0) at 2020.04.24-21.35.31
+[2020.04.24-20.35.31:467][  2]LogWorld: Bringing up level for play took: 0.000907
+[2020.04.24-20.35.31:481][  2]PIE: Play in editor start time for /Game/Maps/testMaps/UEDPIE_0_PhasingTest -0.5
+[2020.04.24-20.35.31:481][  2]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.35.44:157][520]Set new viewmode: Wireframe
+[2020.04.24-20.35.45:339][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.35.45:340][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.35.45:385][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.24-20.35.45:386][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest' with GeneratedClass '/Game/Maps/testMaps/PhasingTest.PhasingTest_C' with ClassGeneratedBy '/Game/Maps/testMaps/PhasingTest.PhasingTest:PersistentLevel.PhasingTest'
+[2020.04.24-20.35.45:439][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.24-20.35.45:454][662]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.04.24-20.35.45:469][663]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2020.04.24-20.35.47:018][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2020.04.24-20.35.47:024][842]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.24-20.35.47:047][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun01" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset" SILENT=true
+[2020.04.24-20.35.47:077][842]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun0189A8AE5F4F6102285AD94E875519CA0A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun01.uasset'
+[2020.04.24-20.35.47:084][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/ARCMain/animations/WRun02" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset" SILENT=true
+[2020.04.24-20.35.47:097][842]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/WRun02DE59097445E156DE662662A05E148803.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/WRun02.uasset'
