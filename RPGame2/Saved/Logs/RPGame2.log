@@ -3746,3 +3746,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.25-08.52.13:330][969]TextureStreamingBuild: Display: Compiling optional shaders took 2.815 seconds.
 [2020.04.25-08.52.13:376][969]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
 [2020.04.25-08.52.28:206][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-08.52.55:706][748]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2020.04.25-08.52.55:707][748]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testMaps/PhasingTest' took 0.051
+[2020.04.25-08.52.55:709][748]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/QMMaterial] ([1] browsable assets)...
+[2020.04.25-08.52.55:734][748]OBJ SavePackage:     Rendered thumbnail for [Material /Game/models/QMMaterial.QMMaterial]
+[2020.04.25-08.52.55:734][748]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/QMMaterial]
+[2020.04.25-08.52.55:769][748]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/QMMaterial_Auto8AAB82D9B428EB1B0A1B594ABF850C44B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/QMMaterial_Auto8.uasset'
+[2020.04.25-08.52.55:770][748]LogFileHelpers: Auto-saving content packages took 0.061
