@@ -6194,3 +6194,120 @@ Script Stack (0 frames):
 [2020.04.25-10.38.03:601][727]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu2B2F9C5044A2A3E411F56BB531420B31.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap'
 [2020.04.25-10.38.03:638][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/menus/MainMenu_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset" SILENT=true
 [2020.04.25-10.38.03:659][727]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu_BuiltData1603E52242172A70B6A5ED90550E726D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset'
+[2020.04.25-10.48.03:668][768]LogUObjectHash: Compacting FUObjectHashTables data took   5.40ms
+[2020.04.25-10.48.03:668][768]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/menus/MainMenu' took 0.052
+[2020.04.25-10.48.03:671][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gamemodes/ARCGM] ([1] browsable assets)...
+[2020.04.25-10.48.03:671][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gamemodes/ARCGM]
+[2020.04.25-10.48.03:696][768]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCGM_Auto0C79BA84F48314C6E45027DB3FA7E6FBF.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/gamemodes/ARCGM_Auto0.uasset'
+[2020.04.25-10.48.03:698][768]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/gamemodes/ThirdPersonGameMode] ([1] browsable assets)...
+[2020.04.25-10.48.03:698][768]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/gamemodes/ThirdPersonGameMode]
+[2020.04.25-10.48.03:732][768]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonGameMode_Auto05C07DE6F44E12A9019864DA532424CF1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/gamemodes/ThirdPersonGameMode_Auto0.uasset'
+[2020.04.25-10.48.03:733][768]LogFileHelpers: Auto-saving content packages took 0.062
+[2020.04.25-10.52.50:872][204]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.25-10.53.02:687][729]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.25-10.53.02:765][729]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.02:765][729]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-10.53.02:765][729]PIE: New page: PIE session: MainMenu (25 Apr 2020 12:53:02)
+[2020.04.25-10.53.02:771][729]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.25-10.53.02:777][729]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005715s)
+[2020.04.25-10.53.02:778][729]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.25-10.53.02:778][729]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2020.04.25-10.53.02:778][729]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.007710s)
+[2020.04.25-10.53.02:906][729]LogUObjectHash: Compacting FUObjectHashTables data took   9.79ms
+[2020.04.25-10.53.02:927][729]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.25-10.53.02:972][729]LogInit: FAudioDevice initialized.
+[2020.04.25-10.53.03:011][729]LogLoad: Game class is 'ARCGM_C'
+[2020.04.25-10.53.03:014][729]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.25-11.53.03
+[2020.04.25-10.53.03:015][729]LogWorld: Bringing up level for play took: 0.000973
+[2020.04.25-10.53.03:055][729]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.118
+[2020.04.25-10.53.03:056][729]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.05:817][885]LogNet: Browse: /Game/Maps/Levels/Level5
+[2020.04.25-10.53.05:818][885]LogLoad: LoadMap: /Game/Maps/Levels/Level5
+[2020.04.25-10.53.05:892][885]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2020.04.25-10.53.05:988][885]LogAIModule: Creating AISystem for world Level5
+[2020.04.25-10.53.05:989][885]LogLoad: Game class is 'ARCGM_C'
+[2020.04.25-10.53.06:014][885]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 60) at 2020.04.25-11.53.06
+[2020.04.25-10.53.06:015][885]LogWorld: Bringing up level for play took: 0.025391
+[2020.04.25-10.53.06:016][885]LogLoad: Took 0.198804 seconds to LoadMap(/Game/Maps/Levels/Level5)
+[2020.04.25-10.53.08:930][ 56]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.08:931][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-10.53.08:973][ 56]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-10.53.08:973][ 56]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.09:118][ 56]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-10.53.09:135][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2020.04.25-10.53.09:194][ 57]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2020.04.25-10.53.10:576][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-10.53.10:596][119]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.25-10.53.17:223][417]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-10.53.19:016][500]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-10.53.21:784][625]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.25-10.53.33:559][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-10.53.33:803][204]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.04.25-10.53.34:491][204]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenuF377B133487914BE43C8EC8C82193C70.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap'
+[2020.04.25-10.53.34:588][204]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/menus/MainMenu_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset" SILENT=true
+[2020.04.25-10.53.34:637][204]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/MainMenu_BuiltDataE83A3EB84AF2B9360FCB59805B1123A2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu_BuiltData.uasset'
+[2020.04.25-10.53.35:600][247]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-10.53.35:684][251]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.25-10.53.35:746][251]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.35:746][251]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.25-10.53.35:746][251]PIE: New page: PIE session: MainMenu (25 Apr 2020 12:53:35)
+[2020.04.25-10.53.35:760][251]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.25-10.53.35:767][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006596s)
+[2020.04.25-10.53.35:768][251]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.25-10.53.35:768][251]LogPlayLevel: PIE: World Init took: (0.001155s)
+[2020.04.25-10.53.35:768][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.008052s)
+[2020.04.25-10.53.35:895][251]LogUObjectHash: Compacting FUObjectHashTables data took  14.80ms
+[2020.04.25-10.53.35:905][251]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.25-10.53.35:945][251]LogInit: FAudioDevice initialized.
+[2020.04.25-10.53.35:979][251]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.25-10.53.35:982][251]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.04.25-11.53.35
+[2020.04.25-10.53.35:983][251]LogWorld: Bringing up level for play took: 0.000938
+[2020.04.25-10.53.36:028][251]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 1.091
+[2020.04.25-10.53.36:029][251]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.37:841][348]LogNet: Browse: /Game/Maps/Levels/Level5
+[2020.04.25-10.53.37:842][348]LogLoad: LoadMap: /Game/Maps/Levels/Level5
+[2020.04.25-10.53.37:914][348]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2020.04.25-10.53.38:024][348]LogAIModule: Creating AISystem for world Level5
+[2020.04.25-10.53.38:024][348]LogLoad: Game class is 'ARCGM_C'
+[2020.04.25-10.53.38:057][348]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 60) at 2020.04.25-11.53.38
+[2020.04.25-10.53.38:059][348]LogWorld: Bringing up level for play took: 0.032477
+[2020.04.25-10.53.38:063][348]LogLoad: Took 0.221961 seconds to LoadMap(/Game/Maps/Levels/Level5)
+[2020.04.25-10.53.40:359][480]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.40:359][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-10.53.40:403][480]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.25-10.53.40:403][480]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.25-10.53.40:557][480]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.25-10.53.40:573][480]LogUObjectHash: Compacting FUObjectHashTables data took   7.52ms
+[2020.04.25-10.53.40:624][481]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.04.25-10.53.42:440][561]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.25-10.53.50:618][934]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/gamemodes/ARCGM.ARCGM
+[2020.04.25-10.53.51:435][934]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2020.04.25-10.53.53:386][ 38]LogSlate: Window 'CompilerResults' being destroyed
+[2020.04.25-10.53.53:394][ 38]LogSlate: Window 'CompilerResults' being destroyed
+[2020.04.25-10.53.57:351][268]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.04.25-10.53.59:454][381]BlueprintLog: New page: Compile ARCGM
+[2020.04.25-10.54.00:060][381]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2020.04.25-10.54.06:278][577]LogSlate: Window 'Message' being destroyed
+[2020.04.25-10.54.08:268][577]LogMaterial: Display: Missing cached shader map for material IBMat, compiling. 
+[2020.04.25-10.54.08:356][577]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.25-10.54.08:398][577]LogMaterial: Display: Missing cached shader map for material IBMat, compiling. 
+[2020.04.25-10.54.08:426][577]LogMaterial: Display: Missing cached shader map for material IBMat, compiling. 
+[2020.04.25-10.54.08:531][577]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2020.04.25-10.54.08:548][577]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.25-10.54.11:450][577]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.25-10.54.11:450][577]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.25-10.54.11:459][577]TextureStreamingBuild: Display: Compiling optional shaders took 2.928 seconds.
+[2020.04.25-10.54.11:559][577]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.04.25-10.54.23:082][995]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/gamemodes/ThirdPersonGameMode.ThirdPersonGameMode
+[2020.04.25-10.54.24:012][995]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2020.04.25-10.54.25:964][ 99]LogSlate: Window 'CompilerResults' being destroyed
+[2020.04.25-10.54.25:971][ 99]LogSlate: Window 'CompilerResults' being destroyed
+[2020.04.25-10.54.29:186][290]BlueprintLog: New page: Compile ThirdPersonGameMode
+[2020.04.25-10.54.29:906][290]LogUObjectHash: Compacting FUObjectHashTables data took  12.79ms
+[2020.04.25-10.54.38:734][739]LogUObjectHash: Compacting FUObjectHashTables data took  13.51ms
+[2020.04.25-10.54.40:066][739]LogSlate: Window 'Save Content' being destroyed
+[2020.04.25-10.54.40:117][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/gamemodes/ARCGM" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/gamemodes/ARCGM.uasset" SILENT=true
+[2020.04.25-10.54.40:175][739]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCGM32E92DA04DC4B727CE3DE092B2375ED4.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/gamemodes/ARCGM.uasset'
+[2020.04.25-10.54.40:252][739]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ThirdPersonGameMode4CD9700A4A8B0F7E4ABA06B9D3EA3C5F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/gamemodes/ThirdPersonGameMode.uasset'
+[2020.04.25-10.54.40:311][739]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/IBMat" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/IBMat.uasset" SILENT=true
+[2020.04.25-10.54.40:410][739]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/IBMat490B54CA45634C375C9513BBA2A67998.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/IBMat.uasset'
