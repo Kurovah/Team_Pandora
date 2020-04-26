@@ -3470,3 +3470,1264 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-13.25.08:668][ 52]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar0D0ABD7C433E0B5AE4DD87B91C74430F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset'
 [2020.04.26-13.25.08:704][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARC12" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset" SILENT=true
 [2020.04.26-13.25.08:761][ 52]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARC127F158A264C78B0EAE7E0E4B0A49DDCC7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARC12.uasset'
+[2020.04.26-13.25.40:220][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.34.34:666][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/Textures/decals/arrowDecalTex.png)
+[2020.04.26-13.34.34:718][731]LogTexture: Display: Building textures: arrowDecalTex (AutoDXT, 512X512)
+[2020.04.26-13.34.34:788][731]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/Textures/decals/TDecaltex.png)
+[2020.04.26-13.34.34:798][731]LogTexture: Display: Building textures: TDecaltex (AutoDXT, 512X512)
+[2020.04.26-13.35.29:280][878]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Decals/ArrowDecal.ArrowDecal
+[2020.04.26-13.35.29:304][878]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.29:461][878]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.29:481][878]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.29:499][878]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.35.31:000][ 29]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.35.33:063][250]MaterialEditorStats: Base pass shader: 107 instructions
+[2020.04.26-13.35.33:063][250]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2020.04.26-13.35.33:063][250]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-13.35.33:063][250]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.35.34:624][433]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.34:648][433]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.35.35:379][508]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.35.36:253][591]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.36:253][591]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.36:253][591]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.36:264][591]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.36:265][591]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.36:265][591]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.36:271][591]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.36:271][591]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.36:271][591]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.36:275][591]MaterialEditorStats: Error: [SM5] Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.38:182][811]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.38:182][811]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.38:182][811]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.41:599][210]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.41:599][210]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.41:599][210]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.42:923][365]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.42:924][365]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.42:924][365]LogMaterial: 	Material using the DeferredDecal domain need to use the BlendModel Translucent (this saves performance)
+[2020.04.26-13.35.44:480][550]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.44:541][550]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.44:561][550]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.44:597][551]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.35.45:636][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.35.47:490][851]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.35.50:075][109]MaterialEditorStats: Base pass shader: 66 instructions
+[2020.04.26-13.35.50:075][109]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2020.04.26-13.35.50:075][109]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.04.26-13.35.50:075][109]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.35.50:203][122]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.50:225][122]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.35.50:225][122]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.35.51:217][213]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.35.53:105][405]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.35.55:592][657]MaterialEditorStats: Base pass shader: 66 instructions
+[2020.04.26-13.35.55:592][657]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 87 instructions
+[2020.04.26-13.35.55:592][657]MaterialEditorStats: Base pass vertex shader: 134 instructions
+[2020.04.26-13.35.55:592][657]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.35.56:104][717]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.35.56:105][717]LogMaterial: Warning: /Engine/Transient.ArrowDecal (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-13.35.56:105][717]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.26-13.35.56:112][717]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.35.56:137][717]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.04.26-13.36.05:569][823]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.05:597][823]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.05:597][823]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.36.05:630][823]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.06:047][828]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.06:663][828]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.36.07:756][828]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.36.09:562][828]LogSlate: Window 'Warning: No Preview Mesh Found' being destroyed
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: Base pass shader: 69 instructions
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.36.09:583][829]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.36.12:577][185]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.36.12:682][196]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.12:707][198]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.13:737][303]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.36.15:673][499]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: Base pass shader: 69 instructions
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.36.18:246][767]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.36.34:329][689]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.36.36:192][909]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.36:220][909]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.36:220][909]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.36.36:481][931]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.37:585][ 33]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.36.39:841][262]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: Base pass shader: 72 instructions
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.36.42:155][504]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.36.46:055][970]LogMaterialEditor: Applying material ArrowDecal
+[2020.04.26-13.36.48:183][970]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.48:293][970]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.36.48:317][970]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.48:352][970]LogMaterial: Display: Missing cached shader map for material ArrowDecal, compiling. 
+[2020.04.26-13.36.48:445][970]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.26-13.36.48:446][970]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.36.48:502][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.04.26-13.36.48:641][984]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-13.36.50:321][148]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-13.36.52:243][315]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-13.37.20:516][593]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal.uasset" SILENT=true
+[2020.04.26-13.37.20:535][593]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal90B19EFD49BEA0CA83C4BE85B254C2EF.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal.uasset'
+[2020.04.26-13.37.20:739][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.04.26-13.37.20:783][593]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.04.26-13.37.20:820][593]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.26-13.37.27:579][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.26-13.37.28:734][373]LogSlate: Window 'Delete Assets' being destroyed
+[2020.04.26-13.37.28:830][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.26-13.37.29:659][471]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Decals/BaseDecal.BaseDecal
+[2020.04.26-13.37.29:669][471]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.29:752][471]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.29:773][471]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.29:808][471]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.29:822][471]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.37.30:263][507]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.31:378][613]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.37.33:681][819]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: Base pass shader: 72 instructions
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.37.36:041][ 30]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.37.41:591][685]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.41:611][685]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.41:611][685]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.37.41:838][704]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.42:907][816]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.37.45:048][ 37]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: Base pass shader: 72 instructions
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 99 instructions
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.37.47:339][276]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.37.54:921][177]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.54:944][177]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.54:971][177]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.37.54:982][177]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.55:042][177]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.37.55:369][209]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.56:474][317]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.37.57:884][449]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.57:921][449]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.37.58:652][515]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.37.59:736][620]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.37.59:771][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.00:568][691]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.01:009][735]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.01:827][807]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.02:849][913]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.38.04:986][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.04:999][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:035][ 87]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:073][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.05:080][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:115][ 87]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:153][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.05:163][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:201][ 87]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:238][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.05:247][ 87]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:281][ 87]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:356][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.05:367][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:400][ 91]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:433][ 91]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.05:469][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:507][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.05:516][ 91]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.05:551][ 91]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.06:287][149]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.07:333][243]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.38.09:298][408]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.38.11:412][587]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.11:446][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.11:485][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.11:493][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.11:526][587]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.11:565][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.11:573][587]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.11:607][587]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.12:259][644]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.13:442][751]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.38.14:421][835]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.14:431][835]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.14:464][835]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.14:503][835]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-13.38.14:512][835]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-13.38.14:546][835]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.14:572][835]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-13.38.15:236][897]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.16:332][998]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.38.17:237][ 84]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.26-13.38.18:790][229]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.38.21:053][459]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.38.24:564][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.38.24:652][889]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.24:687][892]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.25:761][  5]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.38.27:689][206]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.38.30:329][488]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.38.37:549][354]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.38.37:649][366]LogMaterialEditor: Applying material BaseDecal
+[2020.04.26-13.38.38:025][366]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.38:092][366]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.38.38:128][366]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.38:160][366]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.38.38:253][366]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.04.26-13.38.38:253][366]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.38.38:308][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2020.04.26-13.38.38:372][371]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-13.38.39:865][521]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-13.38.41:912][691]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.38.49:446][444]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.38.49:462][446]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.39.02:963][999]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.40.23:930][578]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.40.33:983][695]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.40.44:812][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.40.44:912][993]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-13.40.44:943][993]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.44:943][993]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-13.40.44:944][993]PIE: New page: PIE session: Level6 (26 Apr 2020 15:40:44)
+[2020.04.26-13.40.44:956][993]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level6
+[2020.04.26-13.40.44:976][993]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019625s)
+[2020.04.26-13.40.44:976][993]LogAIModule: Creating AISystem for world Level6
+[2020.04.26-13.40.44:977][993]LogPlayLevel: PIE: World Init took: (0.000574s)
+[2020.04.26-13.40.44:977][993]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level6.Level6 to /Game/Maps/Levels/UEDPIE_0_Level6.Level6 (0.020417s)
+[2020.04.26-13.40.45:015][993]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2020.04.26-13.40.45:019][993]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-13.40.45:034][993]LogInit: FAudioDevice initialized.
+[2020.04.26-13.40.45:068][993]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-13.40.45:076][993]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level6.Level6 up for play (max tick rate 0) at 2020.04.26-14.40.45
+[2020.04.26-13.40.45:078][993]LogWorld: Bringing up level for play took: 0.008500
+[2020.04.26-13.40.45:097][993]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level6 0.696
+[2020.04.26-13.40.45:097][993]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.46:772][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.46:782][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-13.40.46:816][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-13.40.46:816][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.46:868][192]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-13.40.46:872][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.04.26-13.40.46:887][193]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2020.04.26-13.40.50:957][676]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-13.40.50:987][676]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.50:987][676]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-13.40.50:988][676]PIE: New page: PIE session: Level6 (26 Apr 2020 15:40:50)
+[2020.04.26-13.40.50:998][676]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level6
+[2020.04.26-13.40.51:012][676]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013659s)
+[2020.04.26-13.40.51:012][676]LogAIModule: Creating AISystem for world Level6
+[2020.04.26-13.40.51:012][676]LogPlayLevel: PIE: World Init took: (0.000515s)
+[2020.04.26-13.40.51:012][676]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level6.Level6 to /Game/Maps/Levels/UEDPIE_0_Level6.Level6 (0.014361s)
+[2020.04.26-13.40.51:050][676]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2020.04.26-13.40.51:053][676]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-13.40.51:064][676]LogInit: FAudioDevice initialized.
+[2020.04.26-13.40.51:091][676]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-13.40.51:096][676]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level6.Level6 up for play (max tick rate 0) at 2020.04.26-14.40.51
+[2020.04.26-13.40.51:097][676]LogWorld: Bringing up level for play took: 0.005391
+[2020.04.26-13.40.51:112][676]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level6 0.711
+[2020.04.26-13.40.51:112][676]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.53:944][ 14]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.53:944][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-13.40.53:975][ 14]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-13.40.53:975][ 14]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-13.40.54:013][ 14]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-13.40.54:018][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2020.04.26-13.40.54:048][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2020.04.26-13.41.20:381][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2020.04.26-13.41.20:794][228]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6_Auto90BAF4CAC42DA609F3291F58180E8B37A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Maps/Levels/Level6_Auto9.umap'
+[2020.04.26-13.41.20:802][228]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level6' took 0.460
+[2020.04.26-13.41.20:802][228]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.460
+[2020.04.26-13.41.20:805][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Decals/arrowDecalTex] ([1] browsable assets)...
+[2020.04.26-13.41.20:812][228]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Decals/arrowDecalTex.arrowDecalTex]
+[2020.04.26-13.41.20:812][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Decals/arrowDecalTex]
+[2020.04.26-13.41.20:826][228]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/arrowDecalTex_Auto9292802ED42C713A8785238A1E40E328C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Textures/Decals/arrowDecalTex_Auto9.uasset'
+[2020.04.26-13.41.20:827][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Textures/Decals/TDecaltex] ([1] browsable assets)...
+[2020.04.26-13.41.20:836][228]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Textures/Decals/TDecaltex.TDecaltex]
+[2020.04.26-13.41.20:836][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Textures/Decals/TDecaltex]
+[2020.04.26-13.41.20:849][228]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/TDecaltex_Auto9F7E614FD4803437F9084789B9AC97439.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Textures/Decals/TDecaltex_Auto9.uasset'
+[2020.04.26-13.41.20:851][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Decals/BaseDecal] ([1] browsable assets)...
+[2020.04.26-13.41.20:888][228]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Decals/BaseDecal.BaseDecal]
+[2020.04.26-13.41.20:888][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Decals/BaseDecal]
+[2020.04.26-13.41.20:924][228]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Auto9A5831F84498EA40FA648A3AFA035D09A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Decals/BaseDecal_Auto9.uasset'
+[2020.04.26-13.41.20:925][228]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Decals/BaseDecal_Inst] ([1] browsable assets)...
+[2020.04.26-13.41.20:957][228]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/Decals/BaseDecal_Inst.BaseDecal_Inst]
+[2020.04.26-13.41.20:957][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Decals/BaseDecal_Inst]
+[2020.04.26-13.41.20:985][228]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst_Auto95452A0704E9AEF5E6B93919A1C5111E5.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Decals/BaseDecal_Inst_Auto9.uasset'
+[2020.04.26-13.41.20:987][228]LogFileHelpers: Auto-saving content packages took 0.183
+[2020.04.26-13.41.30:853][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-13.41.32:936][438]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst)
+[2020.04.26-13.41.35:301][629]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.41.35:528][640]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Decals/BaseDecal_Inst.BaseDecal_Inst
+[2020.04.26-13.41.35:676][640]LogRenderer: Reallocating scene render targets to support 1016x748 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-13.41.45:472][781]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.41.45:500][781]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.41.45:504][781]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.26-13.41.46:003][836]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.41.47:074][947]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.41.49:251][167]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.41.51:103][347]LogMaterialEditor: Applying material BaseDecal
+[2020.04.26-13.41.51:553][347]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.41.51:632][347]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.41.51:650][347]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.41.51:680][347]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.41.51:777][347]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2020.04.26-13.41.51:777][347]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.41.51:832][347]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.04.26-13.41.51:901][352]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-13.41.53:351][491]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-13.41.55:159][674]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.42.00:029][253]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.42.00:909][353]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset" SILENT=true
+[2020.04.26-13.42.00:948][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.04.26-13.42.00:948][353]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.42.00:984][353]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.04.26-13.42.00:996][353]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst5E9ED15149CE01E49DDC9D9C7B183223.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset'
+[2020.04.26-13.42.07:395][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.42.18:246][378]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.42.36:524][437]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.42.40:639][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.42.51:580][184]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.43.05:250][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.43.24:024][942]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.43.40:839][925]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.40:859][925]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.40:859][925]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.43.41:422][979]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.42:488][ 77]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.43.44:372][196]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.43.46:463][358]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.43.49:493][712]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.49:519][712]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.49:519][712]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.43.49:752][730]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.50:794][823]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.43.53:000][ 13]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.43.53:240][ 35]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.53:274][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.26-13.43.53:312][ 35]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.43.54:036][ 91]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.55:561][227]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.43.55:767][245]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.55:825][245]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.26-13.43.56:569][311]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.57:473][395]LogEditorTransaction: Undo Material Editor: Delete
+[2020.04.26-13.43.57:479][395]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.57:514][395]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.43.57:553][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionMultiply_0, compiling. 
+[2020.04.26-13.43.57:619][395]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.43.58:192][433]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.43.59:763][567]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.44.01:792][742]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 103 instructions
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-13.44.03:789][912]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.44.08:691][488]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.44.08:716][488]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.44.08:716][488]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.44.08:943][506]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.44.09:994][600]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.44.12:172][794]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.44.14:326][  0]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.44.14:583][ 29]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.44.14:606][ 29]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.44.14:622][ 29]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.44.14:639][ 29]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.44.15:196][ 82]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.44.16:224][182]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.44.18:078][351]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.44.18:841][417]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.44.19:358][456]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.44.20:648][572]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.44.22:442][724]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.44.24:711][841]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.45.03:416][136]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.45.03:438][136]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.45.03:442][136]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2020.04.26-13.45.03:943][187]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.45.05:057][293]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.45.07:168][484]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.45.07:738][534]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.45.08:307][581]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.45.09:363][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.45.11:320][847]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.45.12:626][958]LogMaterialEditor: Applying material BaseDecal
+[2020.04.26-13.45.13:202][958]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.45.13:318][958]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.45.13:330][958]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.45.13:363][958]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.45.13:586][958]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-13.45.13:591][958]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2020.04.26-13.45.13:591][958]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.45.13:639][958]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.04.26-13.45.15:226][106]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-13.45.17:226][293]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.45.25:026][ 82]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.45.31:035][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.45.33:410][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.45.34:156][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.45.35:254][264]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.45.35:885][338]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.45.36:705][435]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst)
+[2020.04.26-13.45.41:116][949]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.46.04:855][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset" SILENT=true
+[2020.04.26-13.46.04:895][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2020.04.26-13.46.04:895][764]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.46.04:930][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2020.04.26-13.46.04:972][764]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst9491D78942F91E4C781723B6D2C4DACA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset'
+[2020.04.26-13.49.53:873][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.50.08:163][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset" SILENT=true
+[2020.04.26-13.50.08:204][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.04.26-13.50.08:204][225]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-13.50.08:251][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.26-13.50.08:273][225]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst966C8C1940A32AE15AB464BDD492E61B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset'
+[2020.04.26-13.50.29:262][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube38)
+[2020.04.26-13.50.30:456][845]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube38)
+[2020.04.26-13.50.31:714][993]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst2)
+[2020.04.26-13.50.33:010][144]Cmd: DELETE
+[2020.04.26-13.50.33:010][144]Cmd: ACTOR DELETE
+[2020.04.26-13.50.33:045][144]LogEditorActor: Deleted Actor: DecalActor
+[2020.04.26-13.50.33:082][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.04.26-13.50.33:082][144]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2020.04.26-13.50.45:093][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cube24)
+[2020.04.26-13.50.52:191][395]Cmd: TRANSACTION UNDO
+[2020.04.26-13.50.52:191][395]LogEditorTransaction: Undo Move Actors
+[2020.04.26-13.50.52:212][395]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-13.50.52:238][395]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-13.50.53:562][496]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-13.50.54:062][536]Cmd: DELETE
+[2020.04.26-13.50.54:063][536]Cmd: ACTOR DELETE
+[2020.04.26-13.50.54:074][536]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.26-13.50.54:134][536]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2020.04.26-13.50.54:134][536]LogEditorActor: Deleted 1 Actors (0.071 secs)
+[2020.04.26-13.50.55:702][682]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-13.50.58:201][907]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-13.50.58:202][907]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-13.50.58:202][907]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-13.50.58:202][907]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-13.50.58:202][907]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-13.50.58:202][907]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-13.50.58:389][929]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst)
+[2020.04.26-13.51.07:486][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.51.10:611][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.51.15:941][910]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.51.19:684][355]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.51.36:589][324]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.51.41:782][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.52.02:879][445]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-13.52.03:058][459]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2020.04.26-13.52.03:434][459]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6BF4FB7DB447F02F29C90A2AD179CD49C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap'
+[2020.04.26-13.52.03:489][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level6_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset" SILENT=true
+[2020.04.26-13.52.03:592][459]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6_BuiltDataC34C5F98418295F097833B9BC297444A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset'
+[2020.04.26-14.02.02:850][276]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-14.02.02:915][276]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2020.04.26-14.02.02:915][276]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level6' took 0.042
+[2020.04.26-14.02.02:916][276]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Decals/BaseDecal] ([1] browsable assets)...
+[2020.04.26-14.02.02:928][276]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Decals/BaseDecal.BaseDecal]
+[2020.04.26-14.02.02:928][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Decals/BaseDecal]
+[2020.04.26-14.02.02:962][276]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Auto0958D65CA42739C32262CA8A82FF9A923.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Decals/BaseDecal_Auto0.uasset'
+[2020.04.26-14.02.02:964][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/Decals/BaseDecal_Inst] ([1] browsable assets)...
+[2020.04.26-14.02.02:964][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Decals/BaseDecal_Inst]
+[2020.04.26-14.02.03:004][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.04.26-14.02.03:004][276]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-14.02.03:039][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.04.26-14.02.03:061][276]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst_Auto0D04F8D1A4A05FA89E3DA41A5E6A82F1C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Decals/BaseDecal_Inst_Auto0.uasset'
+[2020.04.26-14.02.03:063][276]LogFileHelpers: Auto-saving content packages took 0.147
+[2020.04.26-14.12.31:071][ 52]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.26-14.12.36:162][116]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2020.04.26-14.13.10:605][787]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.13.13:939][183]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.13.31:988][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.13.32:147][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.26-14.13.32:525][327]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6D04633114FA5764C28A5F99C0E2F4058.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap'
+[2020.04.26-14.13.32:565][327]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level6_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset" SILENT=true
+[2020.04.26-14.13.32:631][327]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6_BuiltData38ADB52847A5EC70ACB602BDBAFD12B7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset'
+[2020.04.26-14.13.37:247][848]LogEditorViewport: Clicking on Actor (LMB): phaseBlock_C (phaseBlock4)
+[2020.04.26-14.13.40:423][201]LogEditorViewport: Clicking on Actor (LMB): phaseBlock_C (phaseBlock6)
+[2020.04.26-14.13.41:598][338]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.13.44:363][665]LogEditorViewport: Clicking on Actor (LMB): phaseBlock_C (phaseBlock5)
+[2020.04.26-14.13.45:777][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.13.45:929][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2020.04.26-14.13.46:308][840]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6292D74FE4A45FF73D5187FA1DC82619D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap'
+[2020.04.26-14.13.46:346][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level6_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset" SILENT=true
+[2020.04.26-14.13.46:394][840]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6_BuiltData7B548EB249C0032CD338F3BC4E371A49.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6_BuiltData.uasset'
+[2020.04.26-14.13.47:957][ 17]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-14.13.47:990][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-14.13.47:990][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-14.13.47:990][ 17]PIE: New page: PIE session: Level6 (26 Apr 2020 16:13:47)
+[2020.04.26-14.13.47:993][ 17]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level6
+[2020.04.26-14.13.48:008][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015104s)
+[2020.04.26-14.13.48:009][ 17]LogAIModule: Creating AISystem for world Level6
+[2020.04.26-14.13.48:010][ 17]LogPlayLevel: PIE: World Init took: (0.002568s)
+[2020.04.26-14.13.48:010][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level6.Level6 to /Game/Maps/Levels/UEDPIE_0_Level6.Level6 (0.017842s)
+[2020.04.26-14.13.48:048][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.04.26-14.13.48:054][ 17]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-14.13.48:066][ 17]LogInit: FAudioDevice initialized.
+[2020.04.26-14.13.48:097][ 17]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-14.13.48:104][ 17]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level6.Level6 up for play (max tick rate 0) at 2020.04.26-15.13.48
+[2020.04.26-14.13.48:107][ 17]LogWorld: Bringing up level for play took: 0.007472
+[2020.04.26-14.13.48:134][ 17]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level6 -0.585
+[2020.04.26-14.13.48:134][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-14.14.29:582][978]LogNet: Browse: /Game/Maps/menus/MainMenu
+[2020.04.26-14.14.29:583][978]LogLoad: LoadMap: /Game/Maps/menus/MainMenu
+[2020.04.26-14.14.29:630][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2020.04.26-14.14.29:666][978]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.26-14.14.29:666][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.26-14.14.29:667][978]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.26-15.14.29
+[2020.04.26-14.14.29:667][978]LogWorld: Bringing up level for play took: 0.000432
+[2020.04.26-14.14.29:667][978]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2020.04.26-14.14.29:675][978]LogLoad: Took 0.091994 seconds to LoadMap(/Game/Maps/menus/MainMenu)
+[2020.04.26-14.14.30:792][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.14.34:800][588]LogNet: Browse: /Game/Maps/Levels/Level4
+[2020.04.26-14.14.34:800][588]LogLoad: LoadMap: /Game/Maps/Levels/Level4
+[2020.04.26-14.14.34:840][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.04.26-14.14.35:075][588]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-14.14.35:075][588]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.26-14.14.35:091][588]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.26-15.14.35
+[2020.04.26-14.14.35:091][588]LogWorld: Bringing up level for play took: 0.015856
+[2020.04.26-14.14.35:093][588]LogLoad: Took 0.293291 seconds to LoadMap(/Game/Maps/Levels/Level4)
+[2020.04.26-14.14.43:314][566]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-14.14.43:323][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.14.43:352][566]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-14.14.43:353][566]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level6.Level6:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6' with GeneratedClass '/Game/Maps/Levels/Level6.Level6_C' with ClassGeneratedBy '/Game/Maps/Levels/Level6.Level6:PersistentLevel.Level6'
+[2020.04.26-14.14.43:398][566]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.14.43:405][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.04.26-14.14.43:423][567]LogPlayLevel: Display: Destroying online subsystem :Context_81
+[2020.04.26-14.14.48:047][120]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.14.52:620][648]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-14.14.52:630][648]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.26-14.14.52:671][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.04.26-14.14.53:940][648]LogSlate: Window 'Save Content' being destroyed
+[2020.04.26-14.14.53:948][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal.uasset" SILENT=true
+[2020.04.26-14.14.53:981][648]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecalA79430E647A2305902F17B82BAD719F2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal.uasset'
+[2020.04.26-14.14.53:990][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset" SILENT=true
+[2020.04.26-14.14.54:028][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.04.26-14.14.54:028][648]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-14.14.54:066][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2020.04.26-14.14.54:089][648]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst4DC8C75F4F2915CB18CB3683746A0B18.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst.uasset'
+[2020.04.26-14.14.54:096][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Decals/arrowDecalTex" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Decals/arrowDecalTex.uasset" SILENT=true
+[2020.04.26-14.14.54:114][648]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/arrowDecalTex29669E2B49EBC833E75E2B98FF7FA091.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Decals/arrowDecalTex.uasset'
+[2020.04.26-14.14.54:121][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Textures/Decals/TDecaltex" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Decals/TDecaltex.uasset" SILENT=true
+[2020.04.26-14.14.54:139][648]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/TDecaltexA4AA697D488BFC787E60778A373462CC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Textures/Decals/TDecaltex.uasset'
+[2020.04.26-14.14.54:203][648]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-14.14.54:207][648]LightingResults: New page: Lighting Build
+[2020.04.26-14.14.54:211][648]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.26-14.14.54:217][648]MapCheck: New page: Map Check
+[2020.04.26-14.14.54:217][648]LightingResults: New page: Lighting Build
+[2020.04.26-14.14.54:307][648]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2020.04.26-14.14.54:592][648]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-14.14.54:648][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.26-14.14.54:679][648]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-14.14.54:680][648]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.56ms to complete.
+[2020.04.26-14.14.54:680][648]LogFileHelpers: Loading map 'Level4' took 0.537
+[2020.04.26-14.14.55:820][763]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-14.14.55:849][763]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.14.55:849][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-14.14.55:849][763]PIE: New page: PIE session: Level4 (26 Apr 2020 16:14:55)
+[2020.04.26-14.14.55:859][763]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.26-14.14.55:880][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020538s)
+[2020.04.26-14.14.55:880][763]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-14.14.55:880][763]LogPlayLevel: PIE: World Init took: (0.000518s)
+[2020.04.26-14.14.55:881][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.021744s)
+[2020.04.26-14.14.55:923][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2020.04.26-14.14.55:926][763]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-14.14.55:937][763]LogInit: FAudioDevice initialized.
+[2020.04.26-14.14.55:967][763]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.26-14.14.55:973][763]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.26-15.14.55
+[2020.04.26-14.14.55:973][763]LogWorld: Bringing up level for play took: 0.005136
+[2020.04.26-14.14.55:986][763]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 -0.732
+[2020.04.26-14.14.55:986][763]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.01:513][422]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.01:513][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.15.01:546][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-14.15.01:546][422]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.01:588][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.15.01:593][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.26-14.15.01:612][423]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2020.04.26-14.15.08:236][196]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2020.04.26-14.15.09:459][333]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2020.04.26-14.15.14:104][878]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-14.15.24:515][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.15.27:109][316]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-14.15.29:758][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.15.29:987][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2020.04.26-14.15.30:392][637]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4E00AB8154CB00ADEE76DD2A2AC743F01.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.26-14.15.30:439][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.26-14.15.30:810][637]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData459E48A24169ED2957689BA7B04888D0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.26-14.15.35:521][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.15.36:853][344]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-14.15.36:891][344]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.36:891][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-14.15.36:892][344]PIE: New page: PIE session: Level4 (26 Apr 2020 16:15:36)
+[2020.04.26-14.15.36:893][344]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.26-14.15.36:911][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017756s)
+[2020.04.26-14.15.36:911][344]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-14.15.36:911][344]LogPlayLevel: PIE: World Init took: (0.000543s)
+[2020.04.26-14.15.36:911][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.018474s)
+[2020.04.26-14.15.36:951][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.26-14.15.36:964][344]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-14.15.36:976][344]LogInit: FAudioDevice initialized.
+[2020.04.26-14.15.37:005][344]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-14.15.37:010][344]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.26-15.15.37
+[2020.04.26-14.15.37:010][344]LogWorld: Bringing up level for play took: 0.004783
+[2020.04.26-14.15.37:024][344]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 0.307
+[2020.04.26-14.15.37:025][344]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.40:180][717]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.40:180][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.15.40:212][717]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-14.15.40:212][717]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-14.15.40:265][717]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-14.15.40:270][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.04.26-14.15.40:294][718]LogPlayLevel: Display: Destroying online subsystem :Context_83
+[2020.04.26-14.18.22:634][368]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.26-14.18.25:300][672]Cmd: DELETE
+[2020.04.26-14.18.25:300][672]Cmd: ACTOR DELETE
+[2020.04.26-14.18.25:314][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.26-14.18.25:315][672]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.26-14.18.25:356][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2020.04.26-14.18.25:356][672]LogEditorActor: Deleted 2 Actors (0.046 secs)
+[2020.04.26-14.18.29:270][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.18.29:428][146]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2020.04.26-14.18.29:848][146]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4B629CD32428201831FA91BAFE3ACC201.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.26-14.18.29:896][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.26-14.18.30:172][146]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltData6DAF9EEB4DB477D38CC11F84E7EB96E1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.26-14.18.31:269][273]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.18.33:930][566]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2020.04.26-14.18.42:270][322]LogActorFactory: Actor Factory created Light
+[2020.04.26-14.18.44:674][603]LogActorFactory: Actor Factory created Light
+[2020.04.26-14.18.51:896][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.19.10:221][484]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Light)
+[2020.04.26-14.19.10:321][494]Cmd: DELETE
+[2020.04.26-14.19.10:321][494]Cmd: ACTOR DELETE
+[2020.04.26-14.19.10:326][494]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.26-14.19.10:397][494]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.04.26-14.19.10:397][494]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2020.04.26-14.19.28:195][617]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.26-14.19.28:490][641]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.26-14.19.41:160][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.19.41:307][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.04.26-14.19.41:686][140]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4A13280064AD7A2D0C53E588B08EB86BD.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.26-14.19.41:734][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.26-14.19.42:011][140]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataFCFC4AA0413D03D3B607DC8967570B86.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.26-14.20.00:175][280]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.40.52:705][192]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/effectcyn.fbx)
+[2020.04.26-14.40.52:768][192]LogFbx: Loading FBX Scene from ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/effectcyn.fbx
+[2020.04.26-14.40.52:790][192]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.26-14.40.56:976][192]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.26-14.40.58:184][192]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.40.58:260][192]LogStaticMesh: Building static mesh effectcyn...
+[2020.04.26-14.40.58:279][192]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.04.26-14.40.58:291][192]LogStaticMesh: Built static mesh [0.03s] /Game/models/Meshes/effectcyn.effectcyn
+[2020.04.26-14.40.58:325][192]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.26-14.41.06:049][455]LogUObjectHash: Compacting FUObjectHashTables data took  13.40ms
+[2020.04.26-14.41.06:049][455]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.450
+[2020.04.26-14.41.06:052][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Meshes/effectcyn] ([1] browsable assets)...
+[2020.04.26-14.41.06:095][455]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/models/Meshes/effectcyn.effectcyn]
+[2020.04.26-14.41.06:095][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Meshes/effectcyn]
+[2020.04.26-14.41.06:151][455]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/effectcyn_Auto12F069BF441058C8EF6F2898D5937AE3E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Meshes/effectcyn_Auto1.uasset'
+[2020.04.26-14.41.06:156][455]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Meshes/Material] ([1] browsable assets)...
+[2020.04.26-14.41.06:184][455]OBJ SavePackage:     Rendered thumbnail for [Material /Game/models/Meshes/Material.Material]
+[2020.04.26-14.41.06:184][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Meshes/Material]
+[2020.04.26-14.41.06:234][455]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Material_Auto15B4FECE24AC3B190FB7865B21F23B1F1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Meshes/Material_Auto1.uasset'
+[2020.04.26-14.41.06:239][455]LogFileHelpers: Auto-saving content packages took 0.187
+[2020.04.26-14.41.10:943][680]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-14.41.10:954][680]LogSlate: Window 'Message Log' being destroyed
+[2020.04.26-14.41.36:184][755]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/models/Meshes/effectcyn.effectcyn
+[2020.04.26-14.41.36:297][755]LogBlueprintActionDatabase: Requesting refresh due to module change: StaticMeshEditor (loaded)
+[2020.04.26-14.41.37:691][756]LogRenderer: Reallocating scene render targets to support 1084x748 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-14.42.20:709][ 26]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.43.19:061][796]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.43.34:951][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Material" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Material.uasset" SILENT=true
+[2020.04.26-14.43.35:006][465]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Material0F64C5724D89AA0D151C309AAA4B9714.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Material.uasset'
+[2020.04.26-14.43.35:644][465]LogUObjectHash: Compacting FUObjectHashTables data took  14.06ms
+[2020.04.26-14.43.35:794][465]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.04.26-14.43.35:856][465]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.26-14.43.39:519][584]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/Material.Material
+[2020.04.26-14.43.39:535][584]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.43.39:699][584]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.43.39:750][584]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.43.39:805][584]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.43.39:827][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.43.42:027][686]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.43.46:929][745]LogSlate: Window 'Message' being destroyed
+[2020.04.26-14.43.52:215][745]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-14.43.52:361][745]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.43.52:406][745]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-14.43.52:459][745]LogMaterial: Display: Missing cached shader map for material BaseDecal, compiling. 
+[2020.04.26-14.43.52:581][745]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.26-14.43.52:583][745]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-14.43.52:662][745]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2020.04.26-14.43.52:803][745]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-14.43.53:146][747]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.26-14.43.53:146][747]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.26-14.43.53:146][747]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-14.43.53:146][747]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.43.54:535][828]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-14.43.57:077][978]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-14.44.33:893][488]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HelMat" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/HelMat.uasset" SILENT=true
+[2020.04.26-14.44.33:940][488]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/HelMat8CF961024645C2309BC7AF8D78DB8DDB.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/HelMat.uasset'
+[2020.04.26-14.44.34:314][488]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2020.04.26-14.44.34:378][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2020.04.26-14.44.34:435][488]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.26-14.44.54:496][563]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.44.54:543][563]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.44.54:544][563]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.44.56:057][650]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.44.58:585][801]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.26-14.44.58:585][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.26-14.44.58:585][801]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-14.44.58:585][801]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.45.18:734][954]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.18:776][954]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.45.20:088][ 30]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.20:135][ 30]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.20:170][ 30]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.45.20:177][ 30]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.20:214][ 30]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.45.21:613][113]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.45.23:384][217]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.23:385][217]LogMaterial: Warning: /Engine/Transient.Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-14.45.23:385][217]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2020.04.26-14.45.23:402][217]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.45.23:433][217]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2020.04.26-14.45.32:313][684]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.32:351][684]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.45.32:359][684]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.45.32:405][684]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.45.32:872][705]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.45.34:556][805]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.45.36:822][940]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-14.45.43:275][197]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.46.05:290][191]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.05:325][191]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.05:333][191]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.46.05:379][191]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.06:423][249]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.07:978][342]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.46.10:312][482]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.46.16:220][748]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-14.46.16:220][748]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-14.46.16:221][748]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.46.16:221][748]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.46.16:221][748]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-14.46.16:221][748]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.46.31:103][611]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.46.32:035][658]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.32:066][658]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.32:077][658]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.46.33:642][750]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.46.36:601][927]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.46.41:354][153]MaterialEditorStats: Base pass shader: 73 instructions
+[2020.04.26-14.46.41:354][153]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-14.46.41:354][153]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.46.41:354][153]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.46.41:355][153]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-14.46.41:355][153]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.46.46:141][427]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.46.48:847][574]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.48:934][575]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.50:325][658]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.46.51:741][740]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.51:801][740]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.46.52:241][764]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.53:668][849]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.46.55:379][922]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.55:429][922]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.46.55:951][951]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.46.59:208][ 92]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.47.01:561][136]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.01:687][136]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.03:016][159]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.03:127][159]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.03:185][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.47.03:233][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.47.03:792][181]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.06:133][317]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.47.11:801][518]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.47.16:882][730]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-14.47.16:883][730]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-14.47.16:883][730]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.47.16:883][730]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.47.16:883][730]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-14.47.16:883][730]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.47.30:233][389]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.30:266][389]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.30:274][389]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.47.30:322][389]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.30:818][413]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.32:424][509]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.47.34:609][640]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 102 instructions
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-14.47.39:527][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.47.40:440][895]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.40:541][895]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.40:628][895]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.40:675][895]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.47.42:913][992]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.47.43:422][ 20]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.44:567][ 49]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.45:213][ 60]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.45:353][ 60]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.47.45:525][ 63]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.48:154][173]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.47.52:857][396]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.47.54:658][446]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.54:796][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.47.56:521][508]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.47.57:041][538]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.47.58:127][594]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.48.01:627][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.01:653][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.01:673][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.01:723][721]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.01:796][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.01:813][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.01:829][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.01:877][721]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.01:945][721]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.02:002][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:048][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:063][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.02:078][721]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.02:118][721]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.02:317][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:335][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.02:353][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.02:404][728]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.02:472][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:490][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.02:506][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.02:547][728]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.02:607][728]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.02:666][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:711][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.02:730][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.02:748][728]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.02:795][728]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.04:047][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.04:076][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.04:113][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.04:191][786]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.04:330][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-14.48.04:370][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.04.26-14.48.04:404][786]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.04:475][786]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.04:584][786]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-14.48.06:587][861]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.48.09:951][  2]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.48.14:122][202]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: Base pass shader: 75 instructions
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 96 instructions
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.48.18:950][486]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.48.32:921][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.48.35:583][449]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.35:658][450]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.48.37:100][534]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.48.38:103][594]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.38:152][594]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.48.38:782][630]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.48.40:231][716]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.48.44:358][908]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.48.46:091][975]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.46:231][975]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.48.46:443][979]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.48.49:094][104]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.48.53:372][288]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.48.58:974][515]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-14.48.58:974][515]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2020.04.26-14.48.58:974][515]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.48.58:974][515]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.48.58:974][515]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.48.58:975][515]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.49.05:465][899]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.05:518][899]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.49.05:518][899]LogMaterialEditor: Applying material HelMat
+[2020.04.26-14.49.06:353][899]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.06:517][899]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.49.06:554][899]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.49.06:604][899]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.49.06:731][899]LogUObjectHash: Compacting FUObjectHashTables data took   5.35ms
+[2020.04.26-14.49.06:749][899]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-14.49.11:068][899]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-14.49.11:068][899]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-14.49.11:068][899]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-14.49.11:074][899]TextureStreamingBuild: Display: Compiling optional shaders took 4.343 seconds.
+[2020.04.26-14.49.11:164][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2020.04.26-14.49.21:235][447]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-14.49.21:235][447]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2020.04.26-14.49.21:236][447]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.49.21:236][447]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.49.21:236][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.49.21:236][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.49.29:019][904]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.49.34:795][228]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.34:834][228]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.34:887][228]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.34:990][229]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.49.36:631][325]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.49.38:993][466]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.49.44:469][720]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-14.49.44:469][720]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2020.04.26-14.49.44:469][720]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.49.44:469][720]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.49.44:469][720]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.49.44:470][720]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.49.47:353][876]LogMaterialEditor: Applying material HelMat
+[2020.04.26-14.49.48:105][876]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.49.48:283][876]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.49.48:320][876]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.49.48:369][876]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.49.48:507][876]LogUObjectHash: Compacting FUObjectHashTables data took   7.91ms
+[2020.04.26-14.49.48:522][876]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-14.49.52:912][876]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-14.49.52:912][876]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-14.49.52:913][876]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-14.49.52:916][876]TextureStreamingBuild: Display: Compiling optional shaders took 4.408 seconds.
+[2020.04.26-14.49.52:999][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.50.04:393][391]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.51.53:412][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.04.26-14.51.53:412][420]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.070
+[2020.04.26-14.51.53:414][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Decals/BaseDecal] ([1] browsable assets)...
+[2020.04.26-14.51.53:451][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Decals/BaseDecal.BaseDecal]
+[2020.04.26-14.51.53:451][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Decals/BaseDecal]
+[2020.04.26-14.51.53:530][420]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Auto2B803736D4169278A257D5086480E685B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/Decals/BaseDecal_Auto2.uasset'
+[2020.04.26-14.51.53:533][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Meshes/effectcyn] ([1] browsable assets)...
+[2020.04.26-14.51.53:568][420]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/models/Meshes/effectcyn.effectcyn]
+[2020.04.26-14.51.53:568][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Meshes/effectcyn]
+[2020.04.26-14.51.53:617][420]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/effectcyn_Auto2F59C9C2F47F860068E41729A2706C64C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Meshes/effectcyn_Auto2.uasset'
+[2020.04.26-14.51.53:620][420]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/HelMat] ([1] browsable assets)...
+[2020.04.26-14.51.53:661][420]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/HelMat.HelMat]
+[2020.04.26-14.51.53:661][420]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/HelMat]
+[2020.04.26-14.51.53:751][420]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/HelMat_Auto2B4DCE87247CC1B1EDF8CE9877C42E3D0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/HelMat_Auto2.uasset'
+[2020.04.26-14.51.53:755][420]LogFileHelpers: Auto-saving content packages took 0.342
+[2020.04.26-14.56.42:321][369]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.56.42:423][375]LogEditorFactories: Performing atomic reimport of [C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/effectcyn.fbx]
+[2020.04.26-14.56.42:489][375]LogFbx: Loading FBX Scene from C:/Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/effectcyn.fbx
+[2020.04.26-14.56.42:506][375]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.26-14.56.42:560][375]LogStaticMesh: Building static mesh effectcyn...
+[2020.04.26-14.56.42:563][375]LogStaticMesh: Built static mesh [0.00s] /Game/models/Meshes/effectcyn.effectcyn
+[2020.04.26-14.56.42:598][375]LogEditorFactories: -- imported successfully
+[2020.04.26-14.56.42:602][375]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2020.04.26-14.56.58:516][288]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.57.04:626][620]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.04:674][620]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.04:706][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.57.04:724][620]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-14.57.05:760][677]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.07:674][790]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.10:831][948]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.57.14:500][105]MaterialEditorStats: Base pass shader: 76 instructions
+[2020.04.26-14.57.14:500][105]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 97 instructions
+[2020.04.26-14.57.14:500][105]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.57.14:501][105]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.57.14:501][105]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2020.04.26-14.57.14:501][105]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.57.14:720][110]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.14:841][110]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.14:871][110]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-14.57.14:909][110]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.15:773][155]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.17:849][250]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.19:241][299]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.19:304][299]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-14.57.19:688][320]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.20:248][350]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2020.04.26-14.57.23:497][481]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.26:716][629]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.26:892][629]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2020.04.26-14.57.29:118][716]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.31:233][804]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.32:347][849]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.35:559][943]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.36:220][955]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.38:300][ 11]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.38:504][ 22]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.38:555][ 22]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-14.57.39:011][ 47]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.40:659][141]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.44:832][355]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.57.50:131][592]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.50:233][592]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.50:256][592]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.50:594][594]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.50:738][594]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.51:391][612]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.53:160][699]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.53:304][699]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.54:814][743]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.55:301][763]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.57.58:664][886]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.57.59:147][910]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.57.59:213][910]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2020.04.26-14.57.59:263][910]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2020.04.26-14.58.01:875][  9]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.58.04:150][ 84]LogMaterialEditor: Applying material HelMat
+[2020.04.26-14.58.05:573][ 84]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.58.05:626][ 84]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.58.05:857][ 84]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.58.05:912][ 84]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-14.58.06:049][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   8.76ms
+[2020.04.26-14.58.06:070][ 84]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-14.58.11:279][ 84]LogShaderCompilers: Display: Shaders left to compile 70
+[2020.04.26-14.58.11:279][ 84]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-14.58.11:279][ 84]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-14.58.11:279][ 84]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-14.58.11:282][ 84]TextureStreamingBuild: Display: Compiling optional shaders took 5.231 seconds.
+[2020.04.26-14.58.11:373][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: Base pass shader: 79 instructions
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 100 instructions
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.04.26-14.58.22:391][679]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.58.23:419][740]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.58.56:317][540]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.58.56:407][541]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.58.58:447][662]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.59.01:002][813]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.59.01:935][846]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.02:104][846]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_0, compiling. 
+[2020.04.26-14.59.02:142][846]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.04.26-14.59.03:040][888]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.06:342][ 23]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.59.07:253][ 66]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.07:305][ 66]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.04.26-14.59.09:020][134]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.09:985][179]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.10:121][179]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.04.26-14.59.11:595][246]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.13:747][334]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.59.14:064][341]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.14:239][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-14.59.14:283][341]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.04.26-14.59.16:860][435]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.17:417][462]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.17:418][462]LogMaterial: Warning: /Engine/Transient.Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2020.04.26-14.59.17:418][462]LogMaterial: 	(Node Add) Arithmetic between types float2 and float3 are undefined
+[2020.04.26-14.59.17:431][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.04.26-14.59.17:466][462]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.04.26-14.59.17:503][462]MaterialEditorStats: Error: [SM5] (Node Add) Arithmetic between types float2 and float3 are undefined
+[2020.04.26-14.59.21:974][584]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.22:065][584]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.22:080][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionAdd_1, compiling. 
+[2020.04.26-14.59.22:140][584]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.04.26-14.59.22:954][612]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.25:557][756]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.59.31:403][980]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.59.35:794][177]MaterialEditorStats: Base pass shader: 80 instructions
+[2020.04.26-14.59.35:794][177]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2020.04.26-14.59.35:794][177]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.59.35:795][177]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.59.35:795][177]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.04.26-14.59.35:795][177]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-14.59.46:111][734]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-14.59.48:733][889]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-14.59.48:778][889]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.48:787][889]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2020.04.26-14.59.49:270][911]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-14.59.50:557][988]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-14.59.53:216][147]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: Base pass shader: 80 instructions
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.04.26-14.59.57:255][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-15.00.04:515][763]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.00.04:613][769]LogMaterialEditor: Applying material HelMat
+[2020.04.26-15.00.05:445][769]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.05:606][769]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.00.05:641][769]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-15.00.05:688][769]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-15.00.05:825][769]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2020.04.26-15.00.05:844][769]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-15.00.10:266][769]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-15.00.10:266][769]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-15.00.10:266][769]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-15.00.10:270][769]TextureStreamingBuild: Display: Compiling optional shaders took 4.445 seconds.
+[2020.04.26-15.00.10:345][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: Base pass shader: 80 instructions
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.04.26-15.00.19:362][264]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-15.00.31:020][ 62]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.31:055][ 62]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.31:111][ 63]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.00.32:816][175]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-15.00.35:325][340]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-15.00.35:752][366]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.35:803][366]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.36:492][394]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.00.37:993][469]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.38:032][469]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.39:472][518]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.00.39:948][534]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.40:070][534]LogMaterialEditor: Applying material HelMat
+[2020.04.26-15.00.42:501][534]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.00.42:620][534]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.00.43:172][534]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-15.00.43:284][534]LogMaterial: Display: Missing cached shader map for material HelMat, compiling. 
+[2020.04.26-15.00.43:500][534]LogUObjectHash: Compacting FUObjectHashTables data took   7.98ms
+[2020.04.26-15.00.43:526][534]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-15.00.48:290][534]LogShaderCompilers: Display: Shaders left to compile 60
+[2020.04.26-15.00.48:290][534]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-15.00.48:290][534]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-15.00.48:293][534]TextureStreamingBuild: Display: Compiling optional shaders took 4.793 seconds.
+[2020.04.26-15.00.48:374][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: Base pass shader: 80 instructions
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.04.26-15.01.01:587][377]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-15.01.18:130][135]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.01.35:099][276]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.01.55:271][300]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2020.04.26-15.02.03:856][826]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.02.24:710][ 92]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.02.41:251][292]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.02.52:110][ 17]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint)
+[2020.04.26-15.02.56:065][216]Cmd: TRANSACTION UNDO
+[2020.04.26-15.02.56:065][216]LogEditorTransaction: Undo Move Actors
+[2020.04.26-15.02.56:263][216]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2020.04.26-15.02.56:306][216]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-15.02.58:360][336]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-15.03.00:917][471]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-15.03.05:632][667]MaterialEditorStats: Base pass shader: 80 instructions
+[2020.04.26-15.03.05:633][667]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 101 instructions
+[2020.04.26-15.03.05:633][667]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-15.03.05:633][667]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-15.03.05:633][667]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2020.04.26-15.03.05:633][667]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-15.03.11:108][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.03.12:664][995]Cmd: DELETE
+[2020.04.26-15.03.12:665][995]Cmd: ACTOR DELETE
+[2020.04.26-15.03.12:685][995]LogEditorActor: Deleted Actor: PostProcessVolume
+[2020.04.26-15.03.12:827][995]LogUObjectHash: Compacting FUObjectHashTables data took   8.40ms
+[2020.04.26-15.03.12:828][995]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2020.04.26-15.03.20:074][530]Cmd: DELETE
+[2020.04.26-15.03.20:074][530]Cmd: ACTOR DELETE
+[2020.04.26-15.03.20:095][530]LogEditorActor: Deleted Actor: SphereReflectionCapture
+[2020.04.26-15.03.20:213][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2020.04.26-15.03.20:214][530]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2020.04.26-15.03.27:811][ 85]Cmd: DELETE
+[2020.04.26-15.03.27:811][ 85]Cmd: ACTOR DELETE
+[2020.04.26-15.03.27:830][ 85]LogEditorActor: Deleted Actor: AtmosphericFog
+[2020.04.26-15.03.27:919][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2020.04.26-15.03.27:919][ 85]LogEditorActor: Deleted 1 Actors (0.108 secs)
+[2020.04.26-15.03.32:137][378]Cmd: DELETE
+[2020.04.26-15.03.32:137][378]Cmd: ACTOR DELETE
+[2020.04.26-15.03.32:162][378]LogEditorActor: Actor Light Source is referenced by BP_Sky_Sphere.
+[2020.04.26-15.03.35:158][378]LogSlate: Window 'Message' being destroyed
+[2020.04.26-15.03.35:171][378]LogEditorActor: Deleted Actor: DirectionalLight
+[2020.04.26-15.03.35:246][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.04.26-15.03.35:246][378]LogEditorActor: Deleted 1 Actors (3.109 secs)
+[2020.04.26-15.03.40:297][688]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4
+[2020.04.26-15.03.46:054][ 79]LogUObjectHash: Compacting FUObjectHashTables data took   5.11ms
+[2020.04.26-15.03.47:249][ 79]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level45F19C42645DAC4DD436907B23AE2E1A8.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.26-15.03.47:358][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.26-15.03.48:166][ 79]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataEA1D8E374FA9043B7EEB0FA03B18E15A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.26-15.03.51:976][288]Cmd: DELETE
+[2020.04.26-15.03.51:977][288]Cmd: ACTOR DELETE
+[2020.04.26-15.03.51:993][288]LogEditorActor: Deleted Actor: SkyLight
+[2020.04.26-15.03.52:115][288]LogUObjectHash: Compacting FUObjectHashTables data took   9.37ms
+[2020.04.26-15.03.52:115][288]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2020.04.26-15.03.52:902][345]Cmd: DELETE
+[2020.04.26-15.03.52:902][345]Cmd: ACTOR DELETE
+[2020.04.26-15.03.52:971][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2020.04.26-15.03.52:971][345]LogEditorActor: Deleted 0 Actors (0.070 secs)
+[2020.04.26-15.04.03:377][990]LogEditorViewport: Clicking on Actor (LMB): Checkpoint_C (Checkpoint2)
+[2020.04.26-15.04.35:788][717]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.04.36:009][723]LogUObjectHash: Compacting FUObjectHashTables data took   7.20ms
+[2020.04.26-15.04.37:037][723]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4518D7DD84BD64A32A547518DABA4AF2A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap'
+[2020.04.26-15.04.37:135][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level4_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset" SILENT=true
+[2020.04.26-15.04.37:692][723]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level4_BuiltDataF01948824EE4E29F5BD1D29A5E6B6349.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4_BuiltData.uasset'
+[2020.04.26-15.04.49:506][383]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-15.14.36:062][549]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2020.04.26-15.14.36:062][549]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.074
+[2020.04.26-15.14.36:064][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Meshes/effectcyn] ([1] browsable assets)...
+[2020.04.26-15.14.36:089][549]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/models/Meshes/effectcyn.effectcyn]
+[2020.04.26-15.14.36:089][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Meshes/effectcyn]
+[2020.04.26-15.14.36:128][549]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/effectcyn_Auto3663D7B5042422F681D13CDBE1CA29AB3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Meshes/effectcyn_Auto3.uasset'
+[2020.04.26-15.14.36:131][549]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/HelMat] ([1] browsable assets)...
+[2020.04.26-15.14.36:154][549]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/HelMat.HelMat]
+[2020.04.26-15.14.36:154][549]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/HelMat]
+[2020.04.26-15.14.36:235][549]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/HelMat_Auto352E519884945F0DEB3D0B2B5AD608AD8.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/HelMat_Auto3.uasset'
+[2020.04.26-15.14.36:237][549]LogFileHelpers: Auto-saving content packages took 0.174
+[2020.04.26-15.53.11:065][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
