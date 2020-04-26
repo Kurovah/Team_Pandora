@@ -652,3 +652,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-18.25.21:697][386]LogRenderer: Reallocating scene render targets to support 904x572 Format 10 NumSamples 1 (Frame:1).
 [2020.04.26-18.25.52:722][242]BlueprintLog: New page: Compile ARCChar
 [2020.04.26-18.25.53:302][242]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2020.04.26-18.27.33:787][271]LogAssetEditorManager: Opening Asset editor for AnimBlueprint /Game/models/ARCMain/animations/ARCM_ABP.ARCM_ABP
+[2020.04.26-18.27.33:817][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2020.04.26-18.27.34:473][271]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2020.04.26-18.27.35:185][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
