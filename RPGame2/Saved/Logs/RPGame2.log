@@ -2115,3 +2115,28 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-09.59.50:974][276]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level17B84293C42300F013B5537A68B47DEA2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap'
 [2020.04.26-09.59.51:013][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset" SILENT=true
 [2020.04.26-09.59.51:078][276]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1_BuiltData24DF1B3C4C1191BA0F703D9C42012E93.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset'
+[2020.04.26-10.02.24:036][954]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-10.02.25:127][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2020.04.26-10.02.25:467][ 27]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level12B331CC44C5C89295FF8C18AC73BD146.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap'
+[2020.04.26-10.02.25:505][ 27]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.04.26-10.02.25:573][ 27]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1_BuiltData85BE4B0347CD7C338D67178EAAFD696F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset'
+[2020.04.26-10.02.34:299][967]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-10.02.48:142][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2020.04.26-10.02.48:157][563]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level6C8D575F14BAA3B04A230FC93D3CCBC37.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap'
+[2020.04.26-10.02.48:162][563]LogFileHelpers: Saving map 'Level6' took 0.056
+[2020.04.26-10.02.50:367][823]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level6.Level6
+[2020.04.26-10.02.50:402][823]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2020.04.26-10.02.50:453][823]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-10.02.50:454][823]LightingResults: New page: Lighting Build
+[2020.04.26-10.02.50:457][823]LoadErrors: New page: Loading map: Level6.umap
+[2020.04.26-10.02.50:461][823]MapCheck: New page: Map Check
+[2020.04.26-10.02.50:461][823]LightingResults: New page: Lighting Build
+[2020.04.26-10.02.51:009][823]LogUObjectHash: Compacting FUObjectHashTables data took   7.67ms
+[2020.04.26-10.02.51:133][823]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-10.02.51:133][823]LogAIModule: Creating AISystem for world Level6
+[2020.04.26-10.02.51:165][823]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.04.26-10.02.51:197][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-10.02.51:197][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.118ms to complete.
+[2020.04.26-10.02.51:201][823]LogFileHelpers: Loading map 'Level6' took 0.799
+[2020.04.26-10.03.05:232][456]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-10.03.12:298][279]LogSlate: FSceneViewport::OnFocusLost() reason 0
