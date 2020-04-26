@@ -561,3 +561,77 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-05.13.22:774][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.04.26-05.13.22:837][  0]LogSlate: Took 0.008756 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2020.04.26-05.14.21:290][931]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-05.15.26:407][497]LogSlate: Took 0.000911 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.04.26-05.15.28:035][497]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.26-05.15.28:050][497]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/menus/MainMenu.MainMenu
+[2020.04.26-05.15.28:105][497]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2020.04.26-05.15.28:111][497]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/menus/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-05.15.28:111][497]LightingResults: New page: Lighting Build
+[2020.04.26-05.15.28:119][497]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0005 seconds. Added 5 classes and 0 folders.
+[2020.04.26-05.15.28:121][497]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.04.26-05.15.28:128][497]MapCheck: New page: Map Check
+[2020.04.26-05.15.28:129][497]LightingResults: New page: Lighting Build
+[2020.04.26-05.15.28:184][497]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2020.04.26-05.15.28:317][497]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-05.15.28:354][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.04.26-05.15.28:404][497]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-05.15.28:404][497]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.293ms to complete.
+[2020.04.26-05.15.28:404][497]LogFileHelpers: Loading map 'MainMenu' took 0.297
+[2020.04.26-05.15.32:160][918]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-05.15.32:186][918]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.32:188][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-05.15.32:190][918]PIE: New page: PIE session: MainMenu (26 Apr 2020 07:15:32)
+[2020.04.26-05.15.32:208][918]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.26-05.15.32:216][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007481s)
+[2020.04.26-05.15.32:216][918]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.26-05.15.32:217][918]LogPlayLevel: PIE: World Init took: (0.001481s)
+[2020.04.26-05.15.32:217][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.009644s)
+[2020.04.26-05.15.32:249][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.04.26-05.15.32:257][918]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-05.15.32:278][918]LogInit: FAudioDevice initialized.
+[2020.04.26-05.15.32:328][918]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.26-05.15.32:340][918]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.26-06.15.32
+[2020.04.26-05.15.32:342][918]LogWorld: Bringing up level for play took: 0.002071
+[2020.04.26-05.15.32:385][918]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.04.26-05.15.32:417][918]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.016
+[2020.04.26-05.15.32:418][918]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.41:520][955]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.41:525][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-05.15.41:559][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-05.15.41:559][955]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.41:601][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-05.15.41:608][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.04.26-05.15.41:620][956]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.04.26-05.15.44:258][260]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-05.15.44:282][260]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.44:282][260]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-05.15.44:282][260]PIE: New page: PIE session: MainMenu (26 Apr 2020 07:15:44)
+[2020.04.26-05.15.44:283][260]LogPlayLevel: Creating play world package: /Game/Maps/menus/UEDPIE_0_MainMenu
+[2020.04.26-05.15.44:286][260]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003167s)
+[2020.04.26-05.15.44:287][260]LogAIModule: Creating AISystem for world MainMenu
+[2020.04.26-05.15.44:287][260]LogPlayLevel: PIE: World Init took: (0.000664s)
+[2020.04.26-05.15.44:287][260]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/menus/MainMenu.MainMenu to /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu (0.004017s)
+[2020.04.26-05.15.44:324][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.04.26-05.15.44:329][260]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-05.15.44:349][260]LogInit: FAudioDevice initialized.
+[2020.04.26-05.15.44:378][260]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.04.26-05.15.44:380][260]LogWorld: Bringing World /Game/Maps/menus/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2020.04.26-06.15.44
+[2020.04.26-05.15.44:380][260]LogWorld: Bringing up level for play took: 0.000483
+[2020.04.26-05.15.44:405][260]PIE: Play in editor start time for /Game/Maps/menus/UEDPIE_0_MainMenu 0.004
+[2020.04.26-05.15.44:405][260]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.50:029][914]LogNet: Browse: /Game/Maps/Levels/Level5
+[2020.04.26-05.15.50:030][914]LogLoad: LoadMap: /Game/Maps/Levels/Level5
+[2020.04.26-05.15.50:068][914]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.04.26-05.15.50:920][914]LogAIModule: Creating AISystem for world Level5
+[2020.04.26-05.15.50:964][914]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-05.15.50:993][914]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level5.Level5 up for play (max tick rate 0) at 2020.04.26-06.15.50
+[2020.04.26-05.15.50:999][914]LogWorld: Bringing up level for play took: 0.033817
+[2020.04.26-05.15.51:019][914]LogLoad: Took 0.989396 seconds to LoadMap(/Game/Maps/Levels/Level5)
+[2020.04.26-05.15.57:763][675]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.57:763][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-05.15.57:805][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-05.15.57:805][675]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2020.04.26-05.15.57:858][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-05.15.57:866][675]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2020.04.26-05.15.57:883][676]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.04.26-05.16.00:686][  2]LogSlate: FSceneViewport::OnFocusLost() reason 0
