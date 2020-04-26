@@ -4731,3 +4731,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-15.14.36:235][549]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/HelMat_Auto352E519884945F0DEB3D0B2B5AD608AD8.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/HelMat_Auto3.uasset'
 [2020.04.26-15.14.36:237][549]LogFileHelpers: Auto-saving content packages took 0.174
 [2020.04.26-15.53.11:065][829]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-17.33.05:243][674]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: libcurl info message cache 0 (Connection 246 seems to be dead!)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: libcurl info message cache 1 (Closing connection 246)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: 000001B3CE4CC540: libcurl info message cache 4 (Closing connection 247)
+[2020.04.26-17.33.21:748][468]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD0946D81-41A5-4D61-6EA0-04828D85A0D6%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.22.3-7053642%2B%2B%2BUE4%2BRelease-4.22&UserID=2468d657458d7c265741b096f3940825%7Ca6c340edab2b4ae281f9adb0290d3f33%7C4bffe0fa-036a-4855-8c82-96f544d91d42&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.04.26-17.33.39:512][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/Music/levelloop.wav)
+[2020.04.26-17.33.40:638][942]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/Music/mainloop.wav)
+[2020.04.26-17.33.44:462][140]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave mainloop...
+[2020.04.26-17.33.45:017][140]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 2418688 while cooking SoundWave /Game/music/mainloop.mainloop.
+[2020.04.26-17.34.01:790][ 70]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG wave levelloop...
+[2020.04.26-17.34.04:349][ 70]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 12095488 while cooking SoundWave /Game/music/levelloop.levelloop.
+[2020.04.26-17.34.32:151][550]LogUObjectHash: Compacting FUObjectHashTables data took  41.03ms
+[2020.04.26-17.34.32:153][550]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level4' took 0.451
+[2020.04.26-17.34.32:159][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/music/levelloop] ([1] browsable assets)...
+[2020.04.26-17.34.32:195][550]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/music/levelloop.levelloop]
+[2020.04.26-17.34.32:195][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/music/levelloop]
+[2020.04.26-17.34.32:238][550]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/levelloop_Auto45F6FE21349F1189918738ABC7C34B0B7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/music/levelloop_Auto4.uasset'
+[2020.04.26-17.34.32:241][550]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/music/mainloop] ([1] browsable assets)...
+[2020.04.26-17.34.32:258][550]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/music/mainloop.mainloop]
+[2020.04.26-17.34.32:258][550]OBJ SavePackage: Finished generating thumbnails for package [/Game/music/mainloop]
+[2020.04.26-17.34.32:258][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/music/mainloop" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/music/mainloop_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2020.04.26-17.34.32:296][550]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/mainloop_Auto47177BBA4478FC53801580AA6F42A8023.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/music/mainloop_Auto4.uasset'
+[2020.04.26-17.34.32:299][550]LogFileHelpers: Auto-saving content packages took 0.143
+[2020.04.26-17.44.34:672][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/music/mainloop" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/music/mainloop.uasset" SILENT=true
+[2020.04.26-17.44.34:692][600]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/mainloopF758E7334882AB8979FBFA9F39CD7B26.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/music/mainloop.uasset'
+[2020.04.26-17.44.34:728][600]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/music/levelloop" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/music/levelloop.uasset" SILENT=true
+[2020.04.26-17.44.34:768][600]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/levelloop2D917AA74D4D220A358D56B83A55366F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/music/levelloop.uasset'
