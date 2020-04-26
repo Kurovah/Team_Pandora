@@ -4973,3 +4973,57 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-18.13.19:118][178]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Maps/menus/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Maps/menus/MainMenu.MainMenu:PersistentLevel.MainMenu'
 [2020.04.26-18.13.19:256][178]LogUObjectHash: Compacting FUObjectHashTables data took   6.65ms
 [2020.04.26-18.13.19:285][179]LogPlayLevel: Display: Destroying online subsystem :Context_92
+[2020.04.26-18.14.23:800][765]AssetReimport: New page: Outstanding source content changes 20:14:23
+[2020.04.26-18.14.23:841][765]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Death.wav]
+[2020.04.26-18.14.23:842][765]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Death.wav)
+[2020.04.26-18.14.23:844][765]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.23:853][765]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.23:914][766]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Grappling Shoot.wav]
+[2020.04.26-18.14.23:914][766]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Grappling Shoot.wav)
+[2020.04.26-18.14.23:915][766]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.23:922][766]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.23:997][767]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Jump.wav]
+[2020.04.26-18.14.23:998][767]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Jump.wav)
+[2020.04.26-18.14.23:999][767]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.24:009][767]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.24:058][768]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Level ClearStart.wav]
+[2020.04.26-18.14.24:059][768]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Level ClearStart.wav)
+[2020.04.26-18.14.24:059][768]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.24:069][768]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.24:150][769]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Phase Shift.wav]
+[2020.04.26-18.14.24:151][769]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Phase Shift.wav)
+[2020.04.26-18.14.24:152][769]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.24:161][769]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.24:203][770]LogAudioEditor: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Walk.wav]
+[2020.04.26-18.14.24:204][770]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Walk.wav)
+[2020.04.26-18.14.24:204][770]LogAudioEditor: Stopping Sound Resources of Existing Sound
+[2020.04.26-18.14.24:213][770]LogAudioEditor: -- imported successfully
+[2020.04.26-18.14.24:409][771]LogStaticMesh: Building static mesh Spike_Asset...
+[2020.04.26-18.14.24:453][771]LogStaticMesh: Built static mesh [0.05s] /Game/models/Meshes/Spike_Asset.Spike_Asset
+[2020.04.26-18.14.24:476][771]LogEditorFactories: Performing atomic reimport of [C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Spike_Asset.obj]
+[2020.04.26-18.14.24:522][771]LogFbx: Loading FBX Scene from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Spike_Asset.obj
+[2020.04.26-18.14.24:543][771]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.26-18.14.24:592][771]LogStaticMesh: Building static mesh Spike_Asset...
+[2020.04.26-18.14.24:619][771]LogStaticMesh: Built static mesh [0.03s] /Game/models/Meshes/Spike_Asset.Spike_Asset
+[2020.04.26-18.14.24:643][771]LogEditorFactories: -- imported successfully
+[2020.04.26-18.14.24:791][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Death" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Death.uasset" SILENT=true
+[2020.04.26-18.14.24:881][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/DeathAA94A1604E659EC8A0F75C8C280DDC9A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Death.uasset'
+[2020.04.26-18.14.24:912][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Grappling_Shoot" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Grappling_Shoot.uasset" SILENT=true
+[2020.04.26-18.14.24:981][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Grappling_Shoot59E0EB5B47652BF49F41FB81C4365E87.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Grappling_Shoot.uasset'
+[2020.04.26-18.14.25:007][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Jump" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Jump.uasset" SILENT=true
+[2020.04.26-18.14.25:076][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Jump38C9AF5C4C01A044924439BCD86F986C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Jump.uasset'
+[2020.04.26-18.14.25:103][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Level_ClearStart" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Level_ClearStart.uasset" SILENT=true
+[2020.04.26-18.14.25:175][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level_ClearStartB307FFCD4FDA9C62463297B3D0BF40F6.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Level_ClearStart.uasset'
+[2020.04.26-18.14.25:221][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Phase_Shift" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Phase_Shift.uasset" SILENT=true
+[2020.04.26-18.14.25:285][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Phase_Shift79AA1F214CE5F3C3089296B69AEA335D.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Phase_Shift.uasset'
+[2020.04.26-18.14.25:312][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Sound_Effects/Walk" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Walk.uasset" SILENT=true
+[2020.04.26-18.14.25:376][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Walk619525DC49D57F43E5D3B0A305C24982.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound_Effects/Walk.uasset'
+[2020.04.26-18.14.25:426][772]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Meshes/Spike_Asset" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Spike_Asset.uasset" SILENT=true
+[2020.04.26-18.14.25:516][772]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Spike_Asset3CD8903E476BB5E2017FBC8205FE93DE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Spike_Asset.uasset'
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Death from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Death.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Grappling_Shoot from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Grappling Shoot.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Jump from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Jump.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Level_ClearStart from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Level ClearStart.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Phase_Shift from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Phase Shift.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Walk from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Sound Effects/Walk.wav.
+[2020.04.26-18.14.28:561][955]AssetReimport: Reimported asset Spike_Asset from C:/Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Meshes/Spike_Asset.obj.
