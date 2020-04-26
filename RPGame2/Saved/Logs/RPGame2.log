@@ -656,3 +656,892 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.04.26-18.27.33:817][271]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
 [2020.04.26-18.27.34:473][271]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
 [2020.04.26-18.27.35:185][271]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2020.04.26-18.28.26:977][677]LogUObjectHash: Compacting FUObjectHashTables data took   9.35ms
+[2020.04.26-18.28.26:977][677]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/testMaps/GrapplingHookTest' took 0.070
+[2020.04.26-18.28.26:983][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/actors/ARCChar] ([1] browsable assets)...
+[2020.04.26-18.28.26:983][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/actors/ARCChar]
+[2020.04.26-18.28.27:348][677]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar_Auto1C0CFDE4C474576B4A321C2B1389F41D4.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/actors/ARCChar_Auto1.uasset'
+[2020.04.26-18.28.27:363][677]LogFileHelpers: Auto-saving content packages took 0.382
+[2020.04.26-18.37.47:727][728]BlueprintLog: New page: Compile ARCM_ABP
+[2020.04.26-18.37.48:277][728]LogUObjectHash: Compacting FUObjectHashTables data took   5.69ms
+[2020.04.26-18.38.04:304][548]LogAIModule: Creating AISystem for world Level3
+[2020.04.26-18.38.04:414][548]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level3.Level3
+[2020.04.26-18.38.04:533][548]LogUObjectHash: Compacting FUObjectHashTables data took   9.52ms
+[2020.04.26-18.38.06:486][548]LogSlate: Window 'Save Content' being destroyed
+[2020.04.26-18.38.06:509][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/actors/ARCChar" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset" SILENT=true
+[2020.04.26-18.38.06:919][548]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCChar952D9AB54C6DB052F2D9BC9F6D94A5AD.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/actors/ARCChar.uasset'
+[2020.04.26-18.38.07:271][548]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/ARCM_ABP556D4C324AE61268F61664A83278EF0A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/ARCMain/animations/ARCM_ABP.uasset'
+[2020.04.26-18.38.07:285][548]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.38.07:285][548]LightingResults: New page: Lighting Build
+[2020.04.26-18.38.07:288][548]LoadErrors: New page: Loading map: Level3.umap
+[2020.04.26-18.38.07:294][548]MapCheck: New page: Map Check
+[2020.04.26-18.38.07:294][548]LightingResults: New page: Lighting Build
+[2020.04.26-18.38.07:378][548]LogUObjectHash: Compacting FUObjectHashTables data took   6.97ms
+[2020.04.26-18.38.07:781][548]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.38.07:845][548]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.26-18.38.07:914][548]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.38.07:915][548]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.415ms to complete.
+[2020.04.26-18.38.07:915][548]LogFileHelpers: Loading map 'Level3' took 0.633
+[2020.04.26-18.38.14:245][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.38.15:686][987]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/CustomGameInstance.CustomGameInstance
+[2020.04.26-18.38.22:547][348]BlueprintLog: New page: Compile CustomGameInstance
+[2020.04.26-18.38.22:734][348]LogUObjectHash: Compacting FUObjectHashTables data took   7.70ms
+[2020.04.26-18.38.26:362][559]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-18.38.26:409][559]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2020.04.26-18.38.26:409][559]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-18.38.26:409][559]PIE: New page: PIE session: Level3 (26 Apr 2020 20:38:26)
+[2020.04.26-18.38.26:437][559]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level3
+[2020.04.26-18.38.26:491][559]LogPlayLevel: PIE: StaticDuplicateObject took: (0.054110s)
+[2020.04.26-18.38.26:491][559]LogAIModule: Creating AISystem for world Level3
+[2020.04.26-18.38.26:492][559]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2020.04.26-18.38.26:492][559]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level3.Level3 to /Game/Maps/Levels/UEDPIE_0_Level3.Level3 (0.056091s)
+[2020.04.26-18.38.26:553][559]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2020.04.26-18.38.26:572][559]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-18.38.26:598][559]LogInit: FAudioDevice initialized.
+[2020.04.26-18.38.26:635][559]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-18.38.26:687][559]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level3.Level3 up for play (max tick rate 60) at 2020.04.26-19.38.26
+[2020.04.26-18.38.26:701][559]LogWorld: Bringing up level for play took: 0.064619
+[2020.04.26-18.38.26:739][559]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level3 0.021
+[2020.04.26-18.38.26:740][559]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2020.04.26-18.39.04:529][ 84]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2020.04.26-18.39.04:538][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-18.39.04:586][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-18.39.04:588][ 84]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level3.Level3:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3' with GeneratedClass '/Game/Maps/Levels/Level3.Level3_C' with ClassGeneratedBy '/Game/Maps/Levels/Level3.Level3:PersistentLevel.Level3'
+[2020.04.26-18.39.04:703][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-18.39.04:724][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   8.51ms
+[2020.04.26-18.39.04:757][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.04.26-18.42.49:364][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.43.05:262][ 96]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Light2.fbx)
+[2020.04.26-18.43.05:315][ 96]LogFbx: Loading FBX Scene from ../../../../../../Users/danny/Documents/UNI/Second_year/GDGP2/coursework/models/Light2.fbx
+[2020.04.26-18.43.05:333][ 96]LogFbx: FBX Scene Loaded Succesfully
+[2020.04.26-18.43.08:324][ 96]LogSlate: Window 'FBX Import Options' being destroyed
+[2020.04.26-18.43.09:245][ 96]LogLinker: Can't find file '/Game/models/Plastic02'
+[2020.04.26-18.43.09:246][ 96]LogLinker: Can't find file '/Game/models/Plastic02'
+[2020.04.26-18.43.09:247][ 96]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Gwen/Downloads/GP2/Plastic02.png
+[2020.04.26-18.43.09:248][ 96]LogLinker: Can't find file '/Game/models/PlasticN01'
+[2020.04.26-18.43.09:249][ 96]LogLinker: Can't find file '/Game/models/PlasticN01'
+[2020.04.26-18.43.09:249][ 96]LogFbxMaterialImport: Warning: Unable to find Texture file C:/Users/Gwen/Downloads/GP2/PlasticN01.png
+[2020.04.26-18.43.09:257][ 96]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.43.09:402][ 96]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.43.09:431][ 96]LogFbx: Display: Triangulating static mesh pCube2
+[2020.04.26-18.43.09:478][ 96]LogStaticMesh: Building static mesh Light2...
+[2020.04.26-18.43.09:528][ 96]LogBlueprintActionDatabase: Requesting refresh due to module change: MeshBuilder (loaded)
+[2020.04.26-18.43.09:556][ 96]LogStaticMesh: Built static mesh [0.08s] /Game/models/Light2.Light2
+[2020.04.26-18.43.14:734][289]LogActorFactory: Actor Factory created Light2
+[2020.04.26-18.43.15:592][353]LogActorFactory: Actor Factory created Light2
+[2020.04.26-18.43.18:941][637]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.43.24:864][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.43.58:269][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.44.07:442][864]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.44.07:643][876]LogAssetEditorManager: Opening Asset editor for Material /Game/models/lambert2.lambert2
+[2020.04.26-18.44.07:652][876]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.07:860][876]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.07:885][876]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.07:890][876]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.07:947][876]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.44.08:194][878]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 504 !
+[2020.04.26-18.44.08:899][934]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.10:334][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.44.12:561][229]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.26-18.44.12:561][229]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.26-18.44.12:561][229]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.44.12:561][229]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.44.13:233][302]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.13:266][302]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.13:267][302]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.44.14:673][419]LogMaterialEditor: Saving and Compiling material lambert2
+[2020.04.26-18.44.18:031][419]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.44.18:054][419]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.18:131][419]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.18:174][419]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.18:211][419]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.44.18:403][419]LogUObjectHash: Compacting FUObjectHashTables data took  15.58ms
+[2020.04.26-18.44.18:422][419]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-18.44.20:545][419]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-18.44.20:545][419]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.44.20:549][419]TextureStreamingBuild: Display: Compiling optional shaders took 2.145 seconds.
+[2020.04.26-18.44.20:627][419]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.04.26-18.44.24:253][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/lambert2" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/lambert2.uasset" SILENT=true
+[2020.04.26-18.44.24:284][419]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/lambert2E6AF0D2C430044EF495849BFF54F3FBE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/lambert2.uasset'
+[2020.04.26-18.44.24:316][419]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.26-18.44.24:316][419]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.26-18.44.24:316][419]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.44.24:316][419]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.44.35:192][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.44.35:394][592]LogAssetEditorManager: Opening Asset editor for Material /Game/models/phongE1.phongE1
+[2020.04.26-18.44.35:399][592]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.35:525][592]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.35:550][592]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.35:587][592]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.35:603][592]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.44.35:798][594]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 504 !
+[2020.04.26-18.44.37:054][704]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.44.39:350][894]MaterialEditorStats: Base pass shader: 109 instructions
+[2020.04.26-18.44.39:350][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2020.04.26-18.44.39:350][894]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.44.39:350][894]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.44.40:076][976]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.40:102][976]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.40:103][976]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.44.41:637][105]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.44.43:905][311]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.26-18.44.43:905][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.26-18.44.43:905][311]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.44.43:905][311]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.44.47:254][701]LogMaterialEditor: Applying material phongE1
+[2020.04.26-18.44.47:863][701]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.47:945][701]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.44.47:973][701]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.48:010][701]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.44.48:117][701]LogUObjectHash: Compacting FUObjectHashTables data took   5.02ms
+[2020.04.26-18.44.48:134][701]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-18.44.50:363][701]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-18.44.50:363][701]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.44.50:366][701]TextureStreamingBuild: Display: Compiling optional shaders took 2.249 seconds.
+[2020.04.26-18.44.50:441][701]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2020.04.26-18.44.55:422][136]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.26-18.44.55:422][136]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.26-18.44.55:422][136]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.44.55:422][136]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.46.05:718][482]Cmd: DELETE
+[2020.04.26-18.46.05:718][482]Cmd: ACTOR DELETE
+[2020.04.26-18.46.05:762][482]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.04.26-18.46.05:820][482]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2020.04.26-18.46.05:821][482]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2020.04.26-18.46.10:755][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.46.17:601][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/LightBulb" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/LightBulb.uasset" SILENT=true
+[2020.04.26-18.46.17:633][771]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBulb3F059A5747DC28CDFF90D9AE1C5AAC79.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/LightBulb.uasset'
+[2020.04.26-18.46.17:952][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.04.26-18.46.18:013][771]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.04.26-18.46.18:066][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2020.04.26-18.46.29:209][903]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/LightBody" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/LightBody.uasset" SILENT=true
+[2020.04.26-18.46.29:236][903]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBody6A1C6AFD419A8DA5B51ED7BFD84A99FE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/LightBody.uasset'
+[2020.04.26-18.46.29:535][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.04.26-18.46.29:610][903]LogUObjectHash: Compacting FUObjectHashTables data took   3.55ms
+[2020.04.26-18.46.29:664][903]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.04.26-18.46.43:128][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightBody" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBody.uasset" SILENT=true
+[2020.04.26-18.46.43:155][ 35]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBody22E162F24ACE7675AEB92C9EBA5EEFDA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBody.uasset'
+[2020.04.26-18.46.43:181][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightBulb" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBulb.uasset" SILENT=true
+[2020.04.26-18.46.43:210][ 35]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBulbD9C52FF940A6A394AE3D02A827E01CAA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBulb.uasset'
+[2020.04.26-18.46.43:701][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.04.26-18.46.43:751][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.26-18.46.43:817][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2020.04.26-18.46.43:873][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.04.26-18.47.55:192][426]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.48.00:290][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/QMMaterial" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/QMMaterial.uasset" SILENT=true
+[2020.04.26-18.48.00:327][980]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/QMMaterial1CFA3C234D58C45D7ECDF088CF6A86D1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/QMMaterial.uasset'
+[2020.04.26-18.48.00:645][980]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.26-18.48.00:708][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.04.26-18.48.00:762][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.04.26-18.48.00:810][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/questionmark" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/questionmark.uasset" SILENT=true
+[2020.04.26-18.48.00:881][980]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/questionmark93D7D13C45E2A792140479B45DD3D52E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/questionmark.uasset'
+[2020.04.26-18.48.21:817][993]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/QMMaterial.QMMaterial
+[2020.04.26-18.48.21:826][993]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.48.22:018][993]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.48.22:055][993]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.48.22:061][993]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.48.22:128][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.22:141][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.22:151][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.22:161][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.22:173][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFresnel_0, compiling. 
+[2020.04.26-18.48.22:183][993]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.04.26-18.48.22:449][995]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 504 !
+[2020.04.26-18.48.23:003][ 44]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-18.48.24:498][156]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.48.27:190][341]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.29:784][533]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.48.30:284][572]MaterialEditorStats: Base pass shader: 112 instructions
+[2020.04.26-18.48.30:284][572]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 133 instructions
+[2020.04.26-18.48.30:285][572]MaterialEditorStats: Base pass vertex shader: 138 instructions
+[2020.04.26-18.48.30:285][572]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.48.30:285][572]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-18.48.30:285][572]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-18.48.37:168][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_6 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_6
+[2020.04.26-18.48.37:168][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionPanner'"MaterialGraphNode_6.MaterialExpressionPanner_2"')'
+[2020.04.26-18.48.37:171][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_5
+[2020.04.26-18.48.37:171][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_5.MaterialExpressionSine_0"')'
+[2020.04.26-18.48.37:173][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_7
+[2020.04.26-18.48.37:173][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_7.MaterialExpressionTextureSample_2"',OutputIndex=1,InputName="Alpha",Mask=1,MaskR=1))'
+[2020.04.26-18.48.37:173][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_5
+[2020.04.26-18.48.37:173][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_5.MaterialExpressionSine_0"',InputName="Min"))'
+[2020.04.26-18.48.37:174][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_5 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_5
+[2020.04.26-18.48.37:174][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSine'"MaterialGraphNode_5.MaterialExpressionSine_0"',InputName="Max"))'
+[2020.04.26-18.48.37:174][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_7 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_7
+[2020.04.26-18.48.37:174][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionTextureSample'"MaterialGraphNode_7.MaterialExpressionTextureSample_2"',OutputIndex=1,InputName="Alpha",Mask=1,MaskR=1))'
+[2020.04.26-18.48.37:174][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_9
+[2020.04.26-18.48.37:175][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_9.MaterialExpressionAdd_1"',InputName="Min"))'
+[2020.04.26-18.48.37:175][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_9 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_9
+[2020.04.26-18.48.37:175][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionAdd'"MaterialGraphNode_9.MaterialExpressionAdd_1"',InputName="Max"))'
+[2020.04.26-18.48.37:175][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_4 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_4
+[2020.04.26-18.48.37:175][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_4.MaterialExpressionMaterialFunctionCall_0"')'
+[2020.04.26-18.48.37:175][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_8 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_8
+[2020.04.26-18.48.37:175][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionMaterialFunctionCall'"MaterialGraphNode_8.MaterialExpressionMaterialFunctionCall_1"')'
+[2020.04.26-18.48.37:176][295]LogUObjectHash: Warning: Ambiguous search, could be MaterialGraphNode /Engine/Transient.QMMaterial:MaterialGraph_0.MaterialGraphNode_10 or MaterialGraphNode /Engine/Transient.phongE1:MaterialGraph_0.MaterialGraphNode_10
+[2020.04.26-18.48.37:176][295]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to 'MaterialExpressionSubtract'"MaterialGraphNode_10.MaterialExpressionSubtract_0"')'
+[2020.04.26-18.48.37:190][295]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.37:212][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.37:221][295]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.37:222][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.37:232][295]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.37:734][334]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.39:450][466]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.48.40:834][563]MaterialEditorStats: Base pass shader: 110 instructions
+[2020.04.26-18.48.40:834][563]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 184 instructions
+[2020.04.26-18.48.40:834][563]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.48.40:834][563]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.48.47:573][287]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.47:608][287]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.47:614][287]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.47:657][287]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.47:695][287]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.48:105][313]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.49:177][385]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.50:539][474]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.51:289][528]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.51:331][528]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.51:489][537]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.48.52:907][641]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-18.48.55:064][803]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-18.48.57:012][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:022][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:032][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:042][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:081][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:118][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:131][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:141][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:153][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:192][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:240][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:272][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:323][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:334][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:346][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:360][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:399][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:446][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:459][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:472][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:485][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:524][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:569][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:581][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:593][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:605][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:646][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:683][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.57:720][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:764][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.57:778][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.57:793][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.57:807][986]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.57:847][986]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:087][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:100][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:113][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:124][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.59:161][ 67]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:206][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:219][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:230][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:240][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.59:280][ 67]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:314][ 67]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:355][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:398][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:410][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:424][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:437][ 67]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.59:477][ 67]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:615][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:628][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:641][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:653][ 74]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.59:692][ 74]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:747][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:761][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:774][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:786][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.48.59:824][ 75]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:859][ 75]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.48.59:897][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:939][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.48.59:952][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.48.59:972][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.48.59:987][ 75]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.49.00:026][ 75]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.01:429][167]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.49.02:557][250]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.49.02:926][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.49.02:947][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.49.02:961][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.49.02:973][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.49.03:014][276]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.03:055][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.49.03:065][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSine_0, compiling. 
+[2020.04.26-18.49.03:081][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2020.04.26-18.49.03:096][276]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionSubtract_0, compiling. 
+[2020.04.26-18.49.03:133][276]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.03:159][276]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-18.49.04:457][374]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.49.05:519][460]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: Base pass shader: 123 instructions
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: Texture samplers: 4/16
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-18.49.08:029][668]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-18.49.19:458][974]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.19:481][974]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.49.20:452][ 47]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.49.22:670][211]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.22:695][211]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.49.23:816][293]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.49.26:126][458]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.26:149][458]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.49.27:122][530]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.49.27:941][590]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.27:974][590]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.27:995][590]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.28:067][592]LogRHI: Error: GetAndOrCreateGraphicsPipelineState RenderTarget check failed with: 504 !
+[2020.04.26-18.49.28:847][656]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2020.04.26-18.49.28:848][656]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.26-18.49.28:848][656]MaterialEditorStats: Texture samplers: 1/16
+[2020.04.26-18.49.28:848][656]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-18.49.28:848][656]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-18.49.30:945][876]LogMaterialEditor: Applying material LightBulb
+[2020.04.26-18.49.31:540][876]LogMaterial: Display: Missing cached shader map for material phongE1, compiling. 
+[2020.04.26-18.49.31:592][876]LogMaterial: Display: Missing cached shader map for material LightBulb, compiling. 
+[2020.04.26-18.49.31:614][876]LogMaterial: Display: Missing cached shader map for material LightBulb, compiling. 
+[2020.04.26-18.49.31:702][876]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.04.26-18.49.31:719][876]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-18.49.32:150][876]TextureStreamingBuild: Display: Compiling optional shaders took 0.447 seconds.
+[2020.04.26-18.49.32:214][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.04.26-18.49.33:382][991]MaterialEditorStats: Base pass shader without light map: 48 instructions
+[2020.04.26-18.49.33:383][991]MaterialEditorStats: Base pass vertex shader: 45 instructions
+[2020.04.26-18.49.33:383][991]MaterialEditorStats: Texture samplers: 1/16
+[2020.04.26-18.49.33:383][991]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.04.26-18.49.33:383][991]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.04.26-18.49.43:236][880]LogSlate: Window 'Message' being destroyed
+[2020.04.26-18.49.43:855][880]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.49.43:974][880]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.49.44:000][880]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.49.44:048][880]LogMaterial: Display: Missing cached shader map for material QMMaterial, compiling. 
+[2020.04.26-18.49.44:152][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.04.26-18.49.44:169][880]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-18.49.48:249][880]LogShaderCompilers: Display: Shaders left to compile 50
+[2020.04.26-18.49.48:249][880]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-18.49.48:252][880]TextureStreamingBuild: Display: Compiling optional shaders took 4.100 seconds.
+[2020.04.26-18.49.48:316][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2020.04.26-18.50.05:032][606]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.05:082][607]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.50.06:032][696]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.50.08:758][953]MaterialEditorStats: Base pass shader: 108 instructions
+[2020.04.26-18.50.08:758][953]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2020.04.26-18.50.08:758][953]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.04.26-18.50.08:759][953]MaterialEditorStats: Texture samplers: 3/16
+[2020.04.26-18.50.16:806][889]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.16:844][889]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.16:868][889]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.50.16:912][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.16:953][892]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.16:987][892]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.17:036][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.17:081][892]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.17:118][892]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.17:297][905]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.50.18:710][ 21]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.50.19:550][ 88]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.19:592][ 88]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.19:681][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.19:731][ 92]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.19:769][ 92]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.19:811][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.19:855][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.19:891][ 92]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.20:397][130]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.50.21:544][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.21:581][222]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.21:614][222]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.04.26-18.50.21:650][222]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.21:679][222]LogSlate: Window 'Color Picker' being destroyed
+[2020.04.26-18.50.22:395][285]LogShaderCompilers: Display: Shaders left to compile 20
+[2020.04.26-18.50.23:393][377]LogMaterialEditor: Applying material LightBody
+[2020.04.26-18.50.24:239][377]LogShaderCompilers: Display: Shaders left to compile 10
+[2020.04.26-18.50.24:268][377]LogMaterial: Display: Missing cached shader map for material lambert2, compiling. 
+[2020.04.26-18.50.24:405][377]LogMaterial: Display: Missing cached shader map for material LightBody, compiling. 
+[2020.04.26-18.50.24:446][377]LogMaterial: Display: Missing cached shader map for material LightBody, compiling. 
+[2020.04.26-18.50.24:563][377]LogUObjectHash: Compacting FUObjectHashTables data took   5.67ms
+[2020.04.26-18.50.24:582][377]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.04.26-18.50.27:117][377]LogShaderCompilers: Display: Shaders left to compile 40
+[2020.04.26-18.50.27:117][377]LogShaderCompilers: Display: Shaders left to compile 30
+[2020.04.26-18.50.27:121][377]TextureStreamingBuild: Display: Compiling optional shaders took 2.559 seconds.
+[2020.04.26-18.50.27:185][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.04.26-18.51.00:117][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2020.04.26-18.51.01:300][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_Auto23F5AE4F544AB56BCFD7861838671785C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Maps/Levels/Level3_Auto2.umap'
+[2020.04.26-18.51.01:315][349]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Levels/Level3' took 1.268
+[2020.04.26-18.51.01:315][349]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.268
+[2020.04.26-18.51.01:320][349]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/CustomGameInstance] ([1] browsable assets)...
+[2020.04.26-18.51.01:320][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/CustomGameInstance]
+[2020.04.26-18.51.01:379][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstance_Auto20FBCE8DF44D5378E361B96AC078DD040.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Blueprints/CustomGameInstance_Auto2.uasset'
+[2020.04.26-18.51.01:382][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/models/Light2] ([1] browsable assets)...
+[2020.04.26-18.51.01:403][349]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/models/Light2.Light2]
+[2020.04.26-18.51.01:403][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/models/Light2]
+[2020.04.26-18.51.01:403][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Light2" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Light2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2020.04.26-18.51.01:435][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light2_Auto25FF6A9B34A2FBA8C0CB0E1B09643D2AE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/models/Light2_Auto2.uasset'
+[2020.04.26-18.51.01:438][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LightBulb] ([1] browsable assets)...
+[2020.04.26-18.51.01:460][349]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LightBulb.LightBulb]
+[2020.04.26-18.51.01:460][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LightBulb]
+[2020.04.26-18.51.01:530][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBulb_Auto238E6200F44F780F5402FA2A31B999C51.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/LightBulb_Auto2.uasset'
+[2020.04.26-18.51.01:542][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/LightBody] ([1] browsable assets)...
+[2020.04.26-18.51.01:562][349]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/LightBody.LightBody]
+[2020.04.26-18.51.01:562][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/LightBody]
+[2020.04.26-18.51.01:623][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBody_Auto298731786461153EB68B12DBF3F28F360.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/LightBody_Auto2.uasset'
+[2020.04.26-18.51.01:625][349]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/QMMaterial] ([1] browsable assets)...
+[2020.04.26-18.51.01:646][349]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/QMMaterial.QMMaterial]
+[2020.04.26-18.51.01:646][349]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/QMMaterial]
+[2020.04.26-18.51.01:719][349]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/QMMaterial_Auto2B9B40EB1473C0BDAB4B1339F53C978B0.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Autosaves/Game/Materials/QMMaterial_Auto2.uasset'
+[2020.04.26-18.51.01:722][349]LogFileHelpers: Auto-saving content packages took 0.403
+[2020.04.26-18.53.28:767][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.53.31:256][991]Cmd: POLY SELECT ALL
+[2020.04.26-18.53.33:641][255]LogUObjectHash: Compacting FUObjectHashTables data took   7.56ms
+[2020.04.26-18.53.34:711][255]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3370BE52447BFE05D8C7894BA03B3B2F2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-18.53.34:786][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-18.53.34:856][255]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltDataFF89904742539BA50991A6ADC99C9398.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-18.53.36:021][360]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-18.53.36:056][360]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level4.Level4
+[2020.04.26-18.53.36:166][360]LogUObjectHash: Compacting FUObjectHashTables data took   6.78ms
+[2020.04.26-18.53.37:533][360]LogSlate: Window 'Save Content' being destroyed
+[2020.04.26-18.53.37:546][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/CustomGameInstance" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset" SILENT=true
+[2020.04.26-18.53.37:600][360]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/CustomGameInstanceE900E1B4441D95F2E12207AC90EF183E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Blueprints/CustomGameInstance.uasset'
+[2020.04.26-18.53.37:617][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightBody" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBody.uasset" SILENT=true
+[2020.04.26-18.53.37:659][360]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBody2AD7AE9F4F6A25C069F07AAAE0335DBE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBody.uasset'
+[2020.04.26-18.53.37:673][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/LightBulb" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBulb.uasset" SILENT=true
+[2020.04.26-18.53.37:722][360]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/LightBulb32A8418447A63F27C40FCE9A3CAF6C4A.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/LightBulb.uasset'
+[2020.04.26-18.53.37:734][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/QMMaterial" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/QMMaterial.uasset" SILENT=true
+[2020.04.26-18.53.37:781][360]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/QMMaterial2BFE5BF34426396EB091DC828AA4217F.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/QMMaterial.uasset'
+[2020.04.26-18.53.37:792][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/models/Light2" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light2.uasset" SILENT=true
+[2020.04.26-18.53.37:813][360]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Light229752D4D40572F5E0D93BB8AC09586DE.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/models/Light2.uasset'
+[2020.04.26-18.53.37:820][360]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level4.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.53.37:821][360]LightingResults: New page: Lighting Build
+[2020.04.26-18.53.37:823][360]LoadErrors: New page: Loading map: Level4.umap
+[2020.04.26-18.53.37:829][360]MapCheck: New page: Map Check
+[2020.04.26-18.53.37:829][360]LightingResults: New page: Lighting Build
+[2020.04.26-18.53.37:891][360]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.04.26-18.53.38:232][360]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.53.38:287][360]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.04.26-18.53.38:344][360]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.53.38:344][360]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.317ms to complete.
+[2020.04.26-18.53.38:344][360]LogFileHelpers: Loading map 'Level4' took 0.525
+[2020.04.26-18.53.48:734][558]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.26-18.53.53:364][ 14]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.54.08:554][560]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.54.10:916][799]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.54.16:866][404]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.54.29:787][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.54.29:882][777]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-18.54.29:930][777]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-18.54.29:930][777]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.04.26-18.54.29:954][777]LogPlayLevel: [PlayLevel] Compiling CustomGameInstance before play...
+[2020.04.26-18.54.30:035][777]LogUObjectHash: Compacting FUObjectHashTables data took   5.13ms
+[2020.04.26-18.54.30:035][777]LogPlayLevel: PlayLevel: Blueprint regeneration took 105 ms (1 blueprints)
+[2020.04.26-18.54.30:035][777]PIE: New page: PIE session: Level4 (26 Apr 2020 20:54:30)
+[2020.04.26-18.54.30:037][777]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level4
+[2020.04.26-18.54.30:063][777]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025676s)
+[2020.04.26-18.54.30:064][777]LogAIModule: Creating AISystem for world Level4
+[2020.04.26-18.54.30:065][777]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2020.04.26-18.54.30:065][777]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level4.Level4 to /Game/Maps/Levels/UEDPIE_0_Level4.Level4 (0.027407s)
+[2020.04.26-18.54.30:116][777]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2020.04.26-18.54.30:122][777]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-18.54.30:143][777]LogInit: FAudioDevice initialized.
+[2020.04.26-18.54.30:177][777]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-18.54.30:187][777]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level4.Level4 up for play (max tick rate 0) at 2020.04.26-19.54.30
+[2020.04.26-18.54.30:188][777]LogWorld: Bringing up level for play took: 0.008629
+[2020.04.26-18.54.30:209][777]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level4 -0.509
+[2020.04.26-18.54.30:209][777]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-18.54.37:323][619]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-18.54.37:323][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-18.54.37:362][619]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-18.54.37:363][619]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level4.Level4:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4' with GeneratedClass '/Game/Maps/Levels/Level4.Level4_C' with ClassGeneratedBy '/Game/Maps/Levels/Level4.Level4:PersistentLevel.Level4'
+[2020.04.26-18.54.37:415][619]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-18.54.37:424][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2020.04.26-18.54.37:448][620]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2020.04.26-18.55.21:246][816]LogEditorViewport: Clicking on Actor (LMB): EndZone_C (EndZone)
+[2020.04.26-18.55.22:052][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2020.04.26-18.55.25:474][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.55.41:734][690]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-18.56.46:791][552]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.56.47:278][570]LogAIModule: Creating AISystem for world Level5
+[2020.04.26-18.56.47:308][570]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level5.Level5
+[2020.04.26-18.56.47:363][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2020.04.26-18.56.47:364][570]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.56.47:364][570]LightingResults: New page: Lighting Build
+[2020.04.26-18.56.47:365][570]LoadErrors: New page: Loading map: Level5.umap
+[2020.04.26-18.56.47:367][570]MapCheck: New page: Map Check
+[2020.04.26-18.56.47:368][570]LightingResults: New page: Lighting Build
+[2020.04.26-18.56.47:421][570]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2020.04.26-18.56.47:703][570]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.56.47:753][570]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2020.04.26-18.56.47:803][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.56.47:803][570]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.232ms to complete.
+[2020.04.26-18.56.47:803][570]LogFileHelpers: Loading map 'Level5' took 0.440
+[2020.04.26-18.57.24:742][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.57.25:098][525]LogAIModule: Creating AISystem for world Level6
+[2020.04.26-18.57.25:116][525]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level6.Level6
+[2020.04.26-18.57.25:169][525]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.04.26-18.57.25:170][525]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level6.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.57.25:171][525]LightingResults: New page: Lighting Build
+[2020.04.26-18.57.25:171][525]LoadErrors: New page: Loading map: Level6.umap
+[2020.04.26-18.57.25:173][525]MapCheck: New page: Map Check
+[2020.04.26-18.57.25:173][525]LightingResults: New page: Lighting Build
+[2020.04.26-18.57.25:224][525]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.04.26-18.57.25:550][525]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.57.25:602][525]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.26-18.57.25:650][525]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.57.25:650][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.294ms to complete.
+[2020.04.26-18.57.25:650][525]LogFileHelpers: Loading map 'Level6' took 0.480
+[2020.04.26-18.57.58:439][682]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.57.58:705][691]LogAIModule: Creating AISystem for world Level1
+[2020.04.26-18.57.58:719][691]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level1.Level1
+[2020.04.26-18.57.58:775][691]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.26-18.57.58:776][691]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.57.58:776][691]LightingResults: New page: Lighting Build
+[2020.04.26-18.57.58:776][691]LoadErrors: New page: Loading map: Level1.umap
+[2020.04.26-18.57.58:779][691]MapCheck: New page: Map Check
+[2020.04.26-18.57.58:779][691]LightingResults: New page: Lighting Build
+[2020.04.26-18.57.58:831][691]LogUObjectHash: Compacting FUObjectHashTables data took   4.76ms
+[2020.04.26-18.57.59:159][691]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.57.59:211][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2020.04.26-18.57.59:259][691]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.57.59:259][691]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.219ms to complete.
+[2020.04.26-18.57.59:259][691]LogFileHelpers: Loading map 'Level1' took 0.484
+[2020.04.26-18.58.32:975][543]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.58.35:710][698]LogAIModule: Creating AISystem for world GrapplingHookTest
+[2020.04.26-18.58.35:724][698]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/testMaps/GrapplingHookTest.GrapplingHookTest
+[2020.04.26-18.58.35:770][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.04.26-18.58.35:771][698]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/GrapplingHookTest.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-18.58.35:772][698]LightingResults: New page: Lighting Build
+[2020.04.26-18.58.35:772][698]LoadErrors: New page: Loading map: GrapplingHookTest.umap
+[2020.04.26-18.58.35:774][698]MapCheck: New page: Map Check
+[2020.04.26-18.58.35:775][698]LightingResults: New page: Lighting Build
+[2020.04.26-18.58.35:823][698]LogUObjectHash: Compacting FUObjectHashTables data took   4.37ms
+[2020.04.26-18.58.36:187][698]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-18.58.36:240][698]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.04.26-18.58.36:289][698]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-18.58.36:289][698]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.217ms to complete.
+[2020.04.26-18.58.36:289][698]LogFileHelpers: Loading map 'GrapplingHookTest' took 0.519
+[2020.04.26-18.59.00:640][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.59.19:927][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.59.28:951][  0]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.59.50:217][246]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-18.59.54:699][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.00.15:993][783]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.00.20:295][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.00.30:609][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.00.40:910][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-19.00.41:002][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2020.04.26-19.00.41:630][259]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GrapplingHookTest3BA59EC94FE0967E5FDC74B45B1DFC08.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/GrapplingHookTest.umap'
+[2020.04.26-19.00.41:768][259]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GrapplingHookTest_BuiltDataBF39FAC4483F485A027CA2B2D3E0DB99.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/GrapplingHookTest_BuiltData.uasset'
+[2020.04.26-19.00.46:460][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.00.50:899][769]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Materials/Decals/BaseDecal_Inst1.BaseDecal_Inst1
+[2020.04.26-19.00.51:089][769]LogRenderer: Reallocating scene render targets to support 1012x748 Format 10 NumSamples 1 (Frame:1).
+[2020.04.26-19.01.00:352][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst1" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst1.uasset" SILENT=true
+[2020.04.26-19.01.00:403][316]LogUObjectHash: Compacting FUObjectHashTables data took   4.07ms
+[2020.04.26-19.01.00:404][316]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-19.01.00:449][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2020.04.26-19.01.00:481][316]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst148FFCE404C7441910E7A5BAC331FD8F2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst1.uasset'
+[2020.04.26-19.01.10:061][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.01.15:665][218]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.01.22:066][601]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.01.50:705][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.01.56:309][602]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.00:278][834]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.03:605][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.11:544][503]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.11:715][508]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.04.26-19.02.12:242][508]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GrapplingHookTestE083CB1F4C56737E5A809BBC0C88BE3C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/GrapplingHookTest.umap'
+[2020.04.26-19.02.12:346][508]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/GrapplingHookTest_BuiltData7CAA375640A913D6D7804295C81ADA89.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/testMaps/GrapplingHookTest_BuiltData.uasset'
+[2020.04.26-19.02.18:344][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.19:690][935]LogAIModule: Creating AISystem for world Level1
+[2020.04.26-19.02.19:704][935]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level1.Level1
+[2020.04.26-19.02.19:755][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.25ms
+[2020.04.26-19.02.19:757][935]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-19.02.19:757][935]LightingResults: New page: Lighting Build
+[2020.04.26-19.02.19:758][935]LoadErrors: New page: Loading map: Level1.umap
+[2020.04.26-19.02.19:761][935]MapCheck: New page: Map Check
+[2020.04.26-19.02.19:761][935]LightingResults: New page: Lighting Build
+[2020.04.26-19.02.19:818][935]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2020.04.26-19.02.20:232][935]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-19.02.20:276][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2020.04.26-19.02.20:325][935]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-19.02.20:325][935]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.23ms to complete.
+[2020.04.26-19.02.20:325][935]LogFileHelpers: Loading map 'Level1' took 0.570
+[2020.04.26-19.02.24:855][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.29:019][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.02.55:900][ 48]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.07:052][708]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.26:703][881]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.31:131][134]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.40:568][698]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.49:552][213]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.03.58:285][735]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.04.13:256][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.04.19:169][966]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.04.21:425][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup69)
+[2020.04.26-19.04.22:510][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup58)
+[2020.04.26-19.04.23:229][203]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst3)
+[2020.04.26-19.04.31:748][709]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.04.39:670][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.04.39:753][183]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-19.04.39:787][183]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.04.39:787][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-19.04.39:787][183]PIE: New page: PIE session: Level1 (26 Apr 2020 21:04:39)
+[2020.04.26-19.04.39:788][183]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level1
+[2020.04.26-19.04.39:810][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021221s)
+[2020.04.26-19.04.39:810][183]LogAIModule: Creating AISystem for world Level1
+[2020.04.26-19.04.39:819][183]LogPlayLevel: PIE: World Init took: (0.009742s)
+[2020.04.26-19.04.39:820][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level1.Level1 to /Game/Maps/Levels/UEDPIE_0_Level1.Level1 (0.031431s)
+[2020.04.26-19.04.39:867][183]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2020.04.26-19.04.39:873][183]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-19.04.39:897][183]LogInit: FAudioDevice initialized.
+[2020.04.26-19.04.39:926][183]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-19.04.39:934][183]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.04.26-20.04.39
+[2020.04.26-19.04.39:936][183]LogWorld: Bringing up level for play took: 0.007855
+[2020.04.26-19.04.39:954][183]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level1 -0.764
+[2020.04.26-19.04.39:954][183]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.04.51:229][859]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.04.51:230][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-19.04.51:266][859]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-19.04.51:266][859]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.04.51:316][859]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-19.04.51:324][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2020.04.26-19.04.51:353][860]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2020.04.26-19.04.54:334][ 36]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup27)
+[2020.04.26-19.04.55:952][129]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst)
+[2020.04.26-19.04.59:858][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.05.10:733][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup34)
+[2020.04.26-19.05.12:371][ 87]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst2)
+[2020.04.26-19.05.15:462][268]Cmd: TRANSACTION UNDO
+[2020.04.26-19.05.15:463][268]LogEditorTransaction: Undo Scale Actors
+[2020.04.26-19.05.15:467][268]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2020.04.26-19.05.17:007][268]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.540 s
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: === Handled ensure: ===
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: 
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2124]
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: 
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: Stack: 
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffe1fd1639 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffe0fa83b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb7e4e85 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb806366 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb7f2f0c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb84ac53 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb88ae98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb82929f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb7f26cc UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffeb7ec576 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffebf7f0aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffd438559e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffd43859fe UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff80ee771ea UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff80eea743e UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffd4394fde UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007fffd438542e UE4Editor-MainFrame.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff80eea8e48 UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff80ee9f1ce UE4Editor-Slate.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff8347cb55a UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.26-19.05.17:007][268]LogOutputDevice: Error: [Callstack] 0x00007ff8347bef9f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff8347cd77f UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff8347bc090 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff85da15c0d USER32.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff85da15602 USER32.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff8347ce946 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff74cd65d3e UE4Editor.exe!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff74cd7554c UE4Editor.exe!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff74cd755ca UE4Editor.exe!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff74cd8316c UE4Editor.exe!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff74cd85b8e UE4Editor.exe!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff85d947bd4 KERNEL32.DLL!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: [Callstack] 0x00007ff85e50ce51 ntdll.dll!UnknownFunction []
+[2020.04.26-19.05.17:008][268]LogOutputDevice: Error: 
+[2020.04.26-19.05.17:014][268]LogStats:                SubmitErrorReport -  0.000 s
+[2020.04.26-19.05.19:596][268]LogStats:                    SendNewReport -  2.582 s
+[2020.04.26-19.05.19:596][268]LogStats:             FDebug::EnsureFailed -  4.129 s
+[2020.04.26-19.05.19:620][268]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup34)
+[2020.04.26-19.05.22:203][414]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst2)
+[2020.04.26-19.05.32:998][ 49]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst3)
+[2020.04.26-19.05.39:666][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup115)
+[2020.04.26-19.05.46:806][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.05.57:462][467]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.06.06:839][ 29]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.06.14:482][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.06.14:621][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.26-19.06.14:990][492]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1089BB14546F419CBAEF8859807F1DD79.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap'
+[2020.04.26-19.06.15:032][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.04.26-19.06.15:133][492]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1_BuiltData8F9DC67D4F3E55DDD6610CB00266FE22.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset'
+[2020.04.26-19.06.31:194][438]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.06.40:196][973]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.06.44:033][203]Cmd: TRANSACTION UNDO
+[2020.04.26-19.06.44:033][203]LogEditorTransaction: Undo Scale Actors
+[2020.04.26-19.06.47:661][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.07.03:105][334]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.08.10:861][752]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-19.08.10:916][752]LogUObjectHash: Compacting FUObjectHashTables data took   2.74ms
+[2020.04.26-19.08.11:280][752]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level16BE0A41C41B5359B9DB928A340480A61.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap'
+[2020.04.26-19.08.11:318][752]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.04.26-19.08.11:396][752]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1_BuiltData73A9E482453225D178F3C6A092D394B2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset'
+[2020.04.26-19.08.17:452][112]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.08.49:439][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.08.49:539][ 30]LogTemp: Repeating last play command: Selected Viewport
+[2020.04.26-19.08.49:562][ 30]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.08.49:562][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.04.26-19.08.49:562][ 30]PIE: New page: PIE session: Level1 (26 Apr 2020 21:08:49)
+[2020.04.26-19.08.49:562][ 30]LogPlayLevel: Creating play world package: /Game/Maps/Levels/UEDPIE_0_Level1
+[2020.04.26-19.08.49:575][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012836s)
+[2020.04.26-19.08.49:575][ 30]LogAIModule: Creating AISystem for world Level1
+[2020.04.26-19.08.49:576][ 30]LogPlayLevel: PIE: World Init took: (0.000534s)
+[2020.04.26-19.08.49:576][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Levels/Level1.Level1 to /Game/Maps/Levels/UEDPIE_0_Level1.Level1 (0.013504s)
+[2020.04.26-19.08.49:607][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.04.26-19.08.49:610][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2020.04.26-19.08.49:622][ 30]LogInit: FAudioDevice initialized.
+[2020.04.26-19.08.49:657][ 30]LogLoad: Game class is 'ARCGM_C'
+[2020.04.26-19.08.49:665][ 30]LogWorld: Bringing World /Game/Maps/Levels/UEDPIE_0_Level1.Level1 up for play (max tick rate 60) at 2020.04.26-20.08.49
+[2020.04.26-19.08.49:665][ 30]LogWorld: Bringing up level for play took: 0.006791
+[2020.04.26-19.08.49:681][ 30]PIE: Play in editor start time for /Game/Maps/Levels/UEDPIE_0_Level1 0.963
+[2020.04.26-19.08.49:681][ 30]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.09.07:691][110]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.09.07:691][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-19.09.07:720][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.04.26-19.09.07:720][110]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Levels/Level1.Level1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1' with GeneratedClass '/Game/Maps/Levels/Level1.Level1_C' with ClassGeneratedBy '/Game/Maps/Levels/Level1.Level1:PersistentLevel.Level1'
+[2020.04.26-19.09.07:754][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.04.26-19.09.07:759][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2020.04.26-19.09.07:798][112]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2020.04.26-19.09.10:182][255]LogEditorViewport: Clicking on Actor (LMB): HintBlock_C (HintBlock)
+[2020.04.26-19.09.11:493][332]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.09.28:339][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2020.04.26-19.09.28:688][339]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level139C920B24884C968036FCC8F76402085.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1.umap'
+[2020.04.26-19.09.28:728][339]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level1_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset" SILENT=true
+[2020.04.26-19.09.28:801][339]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level1_BuiltDataC3CA88B04FD357BAE928C99B8C01E2A7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level1_BuiltData.uasset'
+[2020.04.26-19.09.41:154][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.08:182][395]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.11:320][557]LogAIModule: Creating AISystem for world Level3
+[2020.04.26-19.11.11:338][557]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level3.Level3
+[2020.04.26-19.11.11:371][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.04.26-19.11.14:052][557]LogSlate: Window 'Save Content' being destroyed
+[2020.04.26-19.11.14:060][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Decals/BaseDecal_Inst1" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst1.uasset" SILENT=true
+[2020.04.26-19.11.14:095][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.04.26-19.11.14:095][557]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2020.04.26-19.11.14:126][557]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.04.26-19.11.14:156][557]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/BaseDecal_Inst192BD937B4A89D174B28B0D981CC090DC.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Materials/Decals/BaseDecal_Inst1.uasset'
+[2020.04.26-19.11.14:161][557]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-19.11.14:161][557]LightingResults: New page: Lighting Build
+[2020.04.26-19.11.14:162][557]LoadErrors: New page: Loading map: Level3.umap
+[2020.04.26-19.11.14:164][557]MapCheck: New page: Map Check
+[2020.04.26-19.11.14:164][557]LightingResults: New page: Lighting Build
+[2020.04.26-19.11.14:198][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.04.26-19.11.14:594][557]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-19.11.14:627][557]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.04.26-19.11.14:657][557]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-19.11.14:657][557]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.2ms to complete.
+[2020.04.26-19.11.14:657][557]LogFileHelpers: Loading map 'Level3' took 0.496
+[2020.04.26-19.11.34:534][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.38:615][982]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.43:205][257]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.46:243][439]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.11.59:853][248]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.12.07:869][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall16)
+[2020.04.26-19.12.09:265][810]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_Cubeup85)
+[2020.04.26-19.12.10:103][858]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst2)
+[2020.04.26-19.12.11:615][947]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.12.32:527][179]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.12.34:632][300]LogEditorViewport: Clicking on Actor (context menu): DecalActor (BaseDecal_Inst1)
+[2020.04.26-19.12.34:671][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-19.12.36:705][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig15)
+[2020.04.26-19.12.38:071][497]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst1)
+[2020.04.26-19.12.40:599][647]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.12.51:404][294]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.12.57:505][659]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.00:611][845]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.06:784][214]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.23:250][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.28:864][518]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.36:774][992]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.47:767][650]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.13.51:767][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.14.09:985][974]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.14.10:109][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2020.04.26-19.14.10:724][978]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3FC1CDE0C4C2A6A09905237B0CA0C55B7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-19.14.10:765][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-19.14.10:805][978]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltData38544355497A43ECF226FF91C38E62B3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-19.14.45:584][ 57]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.14.53:283][515]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.14.56:551][710]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.03:127][104]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.06:997][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.14:275][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.22:453][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.22:620][269]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2020.04.26-19.15.23:278][269]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level30A9E7A9743D6089F088535872183484E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-19.15.23:319][269]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-19.15.23:350][269]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltData2375671B499B81C106AEB6A4B76485F7.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-19.15.32:849][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.35:536][985]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.40:258][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.50:994][909]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.15.59:556][419]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-19.15.59:604][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.04.26-19.16.00:225][419]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3937B63044B19C413CF9F4F98A18D81A1.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-19.16.00:262][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-19.16.00:292][419]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltData11BC8605409A972BB4A3EE9C503E5C1B.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-19.16.03:952][625]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.16.23:132][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig139)
+[2020.04.26-19.16.29:325][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Blocks_CubeBig139)
+[2020.04.26-19.16.34:084][382]LogEditorViewport: Clicking on Actor (LMB): DecalActor (BaseDecal_Inst5)
+[2020.04.26-19.16.40:813][767]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.16.45:229][ 30]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.16.51:950][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.19:780][100]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.19:914][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.04.26-19.17.20:583][105]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level38144BC3043D5E1B8066B7C8CCC3934ED.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-19.17.20:620][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-19.17.20:650][105]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltData0BDC30954909C96EAB6669B31B49670E.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-19.17.24:789][352]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.29:305][622]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.42:527][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.42:663][419]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.04.26-19.17.43:287][419]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3B6A2CB244F310923015D9D9D2A0208BA.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3.umap'
+[2020.04.26-19.17.43:326][419]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level3_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset" SILENT=true
+[2020.04.26-19.17.43:358][419]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level3_BuiltDataC377945D46A3FFC65B94C1BF0AED50B2.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level3_BuiltData.uasset'
+[2020.04.26-19.17.43:971][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.17.45:970][570]LogAIModule: Creating AISystem for world Level5
+[2020.04.26-19.17.45:982][570]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Levels/Level5.Level5
+[2020.04.26-19.17.46:013][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.04.26-19.17.46:014][570]Cmd: MAP LOAD FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.04.26-19.17.46:014][570]LightingResults: New page: Lighting Build
+[2020.04.26-19.17.46:014][570]LoadErrors: New page: Loading map: Level5.umap
+[2020.04.26-19.17.46:018][570]MapCheck: New page: Map Check
+[2020.04.26-19.17.46:018][570]LightingResults: New page: Lighting Build
+[2020.04.26-19.17.46:054][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2020.04.26-19.17.46:391][570]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.04.26-19.17.46:424][570]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.04.26-19.17.46:454][570]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.04.26-19.17.46:455][570]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.167ms to complete.
+[2020.04.26-19.17.46:455][570]LogFileHelpers: Loading map 'Level5' took 0.441
+[2020.04.26-19.17.57:074][204]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.18.23:328][749]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.18.31:920][255]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.04.26-19.18.46:171][103]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.04.26-19.18.46:216][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2020.04.26-19.18.46:607][103]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level589EC76D74E24B88509A9379449BBFF4C.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5.umap'
+[2020.04.26-19.18.46:646][103]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Levels/Level5_BuiltData" FILE="../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5_BuiltData.uasset" SILENT=true
+[2020.04.26-19.18.46:943][103]LogSavePackage: Moving '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Saved/Level5_BuiltData0BF4BADC489532C7225F2A92F37299A3.tmp' to '../../../../../../Users/danny/Documents/GitHub/Team_Pandora/RPGame2/Content/Maps/Levels/Level5_BuiltData.uasset'
+[2020.04.26-19.19.17:252][908]LogSlate: FSceneViewport::OnFocusLost() reason 0
